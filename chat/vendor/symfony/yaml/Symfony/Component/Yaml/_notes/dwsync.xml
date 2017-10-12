@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CHANGELOG.md" server="ftp.qualitiinternet.com.br/www/" local="131522070247780229" remote="130978188000000000" Dst="1" />
+<file name=".gitignore" server="ftp.qualitiinternet.com.br/www/" local="131522070248070422" remote="130978188000000000" Dst="1" />
+<file name="Dumper.php" server="ftp.qualitiinternet.com.br/www/" local="131522070248861051" remote="131406524400000000" Dst="1" />
+<file name="Escaper.php" server="ftp.qualitiinternet.com.br/www/" local="131522070249401439" remote="131406524400000000" Dst="1" />
+<file name="Inline.php" server="ftp.qualitiinternet.com.br/www/" local="131522070252335862" remote="131406524400000000" Dst="1" />
+<file name="LICENSE" server="ftp.qualitiinternet.com.br/www/" local="131522070252696148" remote="130978188000000000" Dst="1" />
+<file name="README.md" server="ftp.qualitiinternet.com.br/www/" local="131522070253536774" remote="130978188000000000" Dst="1" />
+<file name="Parser.php" server="ftp.qualitiinternet.com.br/www/" local="131522070254237331" remote="131406524400000000" Dst="1" />
+<file name="Unescaper.php" server="ftp.qualitiinternet.com.br/www/" local="131522070267460408" remote="131406524400000000" Dst="1" />
+<file name="composer.json" server="ftp.qualitiinternet.com.br/www/" local="131522070268180983" remote="130978188000000000" Dst="1" />
+<file name="Yaml.php" server="ftp.qualitiinternet.com.br/www/" local="131522070268661345" remote="131406524400000000" Dst="1" />
+<file name="phpunit.xml.dist" server="ftp.qualitiinternet.com.br/www/" local="131522070269428111" remote="130978188000000000" Dst="1" />
+<file name=".gitignore" server="C:/xampp/htdocs/qualiti/" local="131522070248070422" remote="131522070240000000" Dst="1" />
+<file name="CHANGELOG.md" server="C:/xampp/htdocs/qualiti/" local="131522070247780229" remote="131522070240000000" Dst="1" />
+<file name="composer.json" server="C:/xampp/htdocs/qualiti/" local="131522070268180983" remote="131522070260000000" Dst="1" />
+<file name="Dumper.php" server="C:/xampp/htdocs/qualiti/" local="131522070248861051" remote="131522070240000000" Dst="1" />
+<file name="Escaper.php" server="C:/xampp/htdocs/qualiti/" local="131522070249401439" remote="131522070240000000" Dst="1" />
+<file name="Inline.php" server="C:/xampp/htdocs/qualiti/" local="131522070252335862" remote="131522070250000000" Dst="1" />
+<file name="LICENSE" server="C:/xampp/htdocs/qualiti/" local="131522070252696148" remote="131522070250000000" Dst="1" />
+<file name="Parser.php" server="C:/xampp/htdocs/qualiti/" local="131522070254237331" remote="131522070250000000" Dst="1" />
+<file name="phpunit.xml.dist" server="C:/xampp/htdocs/qualiti/" local="131522070269428111" remote="131522070260000000" Dst="1" />
+<file name="README.md" server="C:/xampp/htdocs/qualiti/" local="131522070253536774" remote="131522070250000000" Dst="1" />
+<file name="Unescaper.php" server="C:/xampp/htdocs/qualiti/" local="131522070267460408" remote="131522070260000000" Dst="1" />
+<file name="Yaml.php" server="C:/xampp/htdocs/qualiti/" local="131522070268661345" remote="131522070260000000" Dst="1" />
+</dwsync>

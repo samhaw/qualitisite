@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CsvFileLoader.php" server="ftp.qualitiinternet.com.br//www/" local="131302617937957360" remote="130978152000000000" Dst="2" />
+<file name="ArrayLoader.php" server="ftp.qualitiinternet.com.br//www/" local="131302617937987362" remote="130978152000000000" Dst="2" />
+<file name="IcuResFileLoader.php" server="ftp.qualitiinternet.com.br//www/" local="131302617938447388" remote="130978152000000000" Dst="2" />
+<file name="IniFileLoader.php" server="ftp.qualitiinternet.com.br//www/" local="131302617938567395" remote="130978152000000000" Dst="2" />
+<file name="IcuDatFileLoader.php" server="ftp.qualitiinternet.com.br//www/" local="131302617938587396" remote="130978152000000000" Dst="2" />
+<file name="JsonFileLoader.php" server="ftp.qualitiinternet.com.br//www/" local="131302617939387442" remote="130978152000000000" Dst="2" />
+<file name="LoaderInterface.php" server="ftp.qualitiinternet.com.br//www/" local="131302617939407443" remote="130978152000000000" Dst="2" />
+<file name="MoFileLoader.php" server="ftp.qualitiinternet.com.br//www/" local="131302617939427444" remote="130978152000000000" Dst="2" />
+<file name="PhpFileLoader.php" server="ftp.qualitiinternet.com.br//www/" local="131302617939977476" remote="130978152000000000" Dst="2" />
+<file name="QtFileLoader.php" server="ftp.qualitiinternet.com.br//www/" local="131302617940117484" remote="130978152000000000" Dst="2" />
+<file name="PoFileLoader.php" server="ftp.qualitiinternet.com.br//www/" local="131302617940137485" remote="130978152000000000" Dst="2" />
+<file name="XliffFileLoader.php" server="ftp.qualitiinternet.com.br//www/" local="131302617940627513" remote="130978152000000000" Dst="2" />
+<file name="YamlFileLoader.php" server="ftp.qualitiinternet.com.br//www/" local="131302617940677516" remote="130978152000000000" Dst="2" />
+<file name="ArrayLoader.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
+<file name="CsvFileLoader.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
+<file name="IcuDatFileLoader.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
+<file name="IcuResFileLoader.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
+<file name="IniFileLoader.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
+<file name="JsonFileLoader.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
+<file name="LoaderInterface.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
+<file name="MoFileLoader.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
+<file name="PhpFileLoader.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
+<file name="PoFileLoader.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
+<file name="QtFileLoader.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
+<file name="XliffFileLoader.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
+<file name="YamlFileLoader.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
+</dwsync>

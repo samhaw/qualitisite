@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BodySigner.php" server="ftp.qualitiinternet.com.br/www/" local="131522071255525385" remote="131406525000000000" Dst="1" />
+<file name="DomainKeySigner.php" server="ftp.qualitiinternet.com.br/www/" local="131522071255855620" remote="131406525000000000" Dst="1" />
+<file name="DKIMSigner.php" server="ftp.qualitiinternet.com.br/www/" local="131522071256220930" remote="131406525000000000" Dst="1" />
+<file name="OpenDKIMSigner.php" server="ftp.qualitiinternet.com.br/www/" local="131522071257396589" remote="131406525000000000" Dst="1" />
+<file name="HeaderSigner.php" server="ftp.qualitiinternet.com.br/www/" local="131522071257576717" remote="131406525000000000" Dst="1" />
+<file name="SMimeSigner.php" server="ftp.qualitiinternet.com.br/www/" local="131522071257966994" remote="131406525000000000" Dst="1" />
+<file name="BodySigner.php" server="C:/xampp/htdocs/qualiti/" local="131522071255525385" remote="131522071250000000" Dst="1" />
+<file name="DKIMSigner.php" server="C:/xampp/htdocs/qualiti/" local="131522071256220930" remote="131522071250000000" Dst="1" />
+<file name="DomainKeySigner.php" server="C:/xampp/htdocs/qualiti/" local="131522071255855620" remote="131522071250000000" Dst="1" />
+<file name="HeaderSigner.php" server="C:/xampp/htdocs/qualiti/" local="131522071257576717" remote="131522071250000000" Dst="1" />
+<file name="OpenDKIMSigner.php" server="C:/xampp/htdocs/qualiti/" local="131522071257396589" remote="131522071250000000" Dst="1" />
+<file name="SMimeSigner.php" server="C:/xampp/htdocs/qualiti/" local="131522071257966994" remote="131522071250000000" Dst="1" />
+</dwsync>

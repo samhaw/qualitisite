@@ -1,0 +1,239 @@
+	<!DOCTYPE HTML>
+    <html lang="pt-br">
+    <head>
+    <meta charset="utf-8">
+    <title>QualiTI Internet - Embarque com agente na velocidade da luz! Tenha QualiTI com você!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- Styles -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/style-01.css" rel="stylesheet">
+    <link rel="stylesheet" id="prettyphoto-css"  href="css/prettyPhoto.css" type="text/css" media="all">
+    <link href="css/fontello.css" type="text/css" rel="stylesheet">
+    <!--[if lt IE 7]>
+            <link href="css/fontello-ie7.css" type="text/css" rel="stylesheet">  
+        <![endif]-->
+    <!-- Google Web fonts -->
+    <link href="http://fonts.googleapis.com/css?family=Quattrocento:400,700" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Patua+One" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+    <style>
+    body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+    }
+    </style>
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="img/favicon.ico">
+    <link href="css/customizacoes-12.css" rel="stylesheet" type="text/css">
+    <!-- JQuery -->
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <!-- Load ScrollTo -->
+    <script type="text/javascript" src="js/jquery.scrollTo-1.4.2-min.js"></script>
+    <!-- Load LocalScroll -->
+    <script type="text/javascript" src="js/jquery.localscroll-1.2.7-min.js"></script>
+    <!-- prettyPhoto Initialization -->
+    <script type="text/javascript" charset="utf-8">
+          $(document).ready(function(){
+/*            $("a[rel^="prettyPhoto"]").prettyPhoto();*/
+			  $('.img-ms-form').click(function(){
+				$(this).next('input[type=radio]').prop('checked', true);
+			});
+          });
+        </script>
+    </head>
+    
+    <?php    	
+		$plano = $_GET['plano'];
+		echo "O valor passado pelo método GET na variável ID é: $plano";
+    ?>
+    
+    <body>
+    <!--******************** NAVBAR ********************-->
+    <div class="navbar-wrapper">
+      <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="navbar-inner">
+          <div class="container">
+            <!-- Responsive Navbar Part 1: Button for triggering responsive navbar (not covered in tutorial). Include responsive CSS to utilize. -->
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a>
+            <span class="pull-left" id="span-logo">
+            <a href="#top"> <img id="logo" src="img/logo-laranja-145px.png" alt="QualiTi Internet"> </a> 
+			</span>
+            <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
+            <nav class="pull-right nav-collapse collapse">
+              <ul id="menu-main" class="nav">
+                <li><a title="Voltar a tela inicial" href="index.php">Início</a></li>
+                <li><a title="Veja os outros serviços que oferecemos" href="solicitacao.html">Solicitar serviço</a></li>
+                <li><a title="Área exclusiva dos assinantes - Boleto, Relatório, etc" href="http://42d5023a0915.sn.mynetname.net:8081">Área do Assinate</a></li>
+                <li><a title="Área exclusiva para funcionários" href="http://webmail.qualitiinternet.com.br">E-mail</a></li>
+                <li><a title="Fale conosco" href="#contact">Contato</a></li>
+              </ul>
+            </nav>
+          </div>
+          <!-- /.container -->
+        </div>
+        <!-- /.navbar-inner -->
+      </div>
+      <!-- /.navbar -->
+    </div>
+    <!-- /.navbar-wrapper -->
+    <div id="top"></div>
+    <!-- ******************** HeaderWrap ********************-->
+
+	<section id="contact" class="single-page form-actions">
+      <div class="container">
+        <div class="align"><i class="icon-clipboard"></i></div>
+        <h1>Solicitação de serviço:</h1>
+        <div class="row">
+          <div class="span12">
+            <div class="cform" id="theme-form">
+              
+               <form action="php/insere.inc.php" method="post" class="cform-form">
+               <input TYPE="hidden" NAME="redirect" VALUE="http://www.qualitiinternet.com.br/pagina_de_resposta.html">
+                <div class="row">
+                  <div class="span12"> 
+					<div class="row">
+						<span class="your-name span6">
+							<input type="text" name="name" placeholder="Nome" class="cform-text" title="Seu nome">
+						</span> 
+					   <span class="your-name span6">
+							<input type="text" name="sobrenome" placeholder="Sobrenome" class="cform-text" size="40" title="your sobrenome">
+					   </span> 
+				  </div>
+				<div class="row">
+                  <span class="your-tel span6">
+                    	<input type="tel" name="telefone" placeholder="Telefone" class="cform-text" size="40" title="Telefone" pattern="\(\d{2}\)\d{5}-\d{4}">
+                  </span> 
+				  <span class="your-tel span6">
+                    	<input type="tel" name="telefone" placeholder="Repita o telefone" class="cform-text" size="40" title="Telefone" pattern="\(\d{2}\)\d{5/4}-\d{4}">
+                  </span> 
+			  	</div>
+				<div class="row">
+					<span class="your-email span6">
+							<input type="text" name="email" placeholder="Seu E-mail" class="cform-text" size="40" title="your email">
+					</span>
+		   			<span class="your-email span6">
+							<input type="text" name="email" placeholder="Repita seu E-mail" class="cform-text" size="40" title="your email">
+					</span> 
+               	</div>
+               	<div class="row">
+					   <span class="your-cpf span6">
+							<input type="text" name="cpf" placeholder="Informe seu CPF (somente números)" class="cform-text" size="40" title="your cpf">
+					   </span>
+              		 <span class="your-nascimento span6">
+							<input type="text" name="cpf" placeholder="Informe sua data de Nascimento" class="cform-text" size="40" title="your data de nascimento">
+					   </span>
+               	</div>
+               	<div class="row">
+					   <span class="your-endereco span10">
+							<input type="text" name="endereco" placeholder="Informe seu endereço (Nome da Rua)" class="cform-text" size="40" title="seu endereço">
+					   </span>
+					   <span class="your-numero span2">
+							<input type="text" name="numero" placeholder="Número" class="cform-text" size="5" title="seu numero">
+					   </span>
+               	</div>
+               	<div class="row">
+					   <span class="your-bairro span6">
+							<input type="text" name="bairro" placeholder="Informe seu bairro" class="cform-text" size="40" title="seu bairro">
+					   </span>
+					   <span class="your-complemento span6">
+							<input type="text" name="complemento" placeholder="Complemento" class="cform-text" size="5" title="seu complemento">
+					   </span>
+               	</div>
+               	<div class="row">
+					   <span class="your-cidade span4">
+							<input type="text" name="cidade" placeholder="Informe sua cidade" class="cform-text" size="40" title="sua cidade">
+					   </span>
+					   <span class="your-estado span4">
+							<input type="text" name="estado" placeholder="Estado" class="cform-text" size="5" title="seu estado">
+					   </span>					   
+					   <span class="your-cep span4">
+							<input type="text" name="cep" placeholder="CEP" class="cform-text" size="5" title="seu cep">
+					   </span>
+               	</div>
+				<div class="row">
+					   <span class="your-plano-8 span4">
+					   <div class="mask2" id="8mbps">
+					   	<img class="img-ms-form" src="img/8Mbps.png" alt="">
+					   	<input type="radio" name="plano" class="radio" value="Plano 8Mbps">
+					   </div>
+							
+					   </span>
+					   <span class="your-plano-16 span4">
+					   <div class="mask2" id="16mbps">
+					   	<img class="img-ms-form"  src="img/16Mbps.png" alt="">
+					   	<input type="radio" name="plano" class="radio" value="Plano 16Mbps"> 
+					   </div>
+							
+					   </span>
+					   <span class="your-plano-32 span4">
+					   <div class="mask2">
+					   	<img class="img-ms-form"  src="img/Novo Preço 32Mbps.png" alt="">
+					   	<input type="radio" name="plano" class="radio" value="Plano 32Mbps">
+					   </div>							
+					   </span>
+               	</div>
+               	<hr>
+               	<div class="row"> 	
+				</div>
+               	<div class="row">
+               	<span class="span6">
+               		<input type="submit" value="Enviar" class="cform-submit" style="width: 100%">
+               	</span>		
+               	<span class="span6">               		
+              		<input type="reset" value="Limpar" class="cform-submit" style="width: 100%">
+               	</span>					
+               	</div>
+                </div>
+			   </div>
+              </form>
+              
+            </div>
+          </div>
+          <!-- ./span12 -->
+        </div>
+        <!-- /.row -->
+      </div>
+      <!-- /.container -->
+    </section>
+
+    <!--******************** Contact Section ********************-->
+        
+   
+    <hr>
+    
+    <div class="footer-wrapper">
+      <div class="container">
+        <footer>
+          <small>&copy; 2016 QualiTi Internet. Todos os direitos reservados. CNPJ: 27.049.552.0001-40</small>
+          <br>
+		  <small>&phone; Telefones de contato: (11) 2500-2788  /  (11) 97514-9382  / (11) 99598-1294 / (11) 99846-8258</small>		  
+        </footer>
+      </div>
+      <!-- ./container -->
+    </div>    
+    <!-- Loading the javaScript at the end of the page -->
+    <script type="text/javascript" src="js/bootstrap.js"></script>
+    <script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+    <script type="text/javascript" src="js/site.js"></script>
+    
+    <!--ANALYTICS CODE-->
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(["_setAccount", "UA-29231762-1"]);
+	  _gaq.push(["_setDomainName", "dzyngiri.com"]);
+	  _gaq.push(["_trackPageview"]);
+	
+	  (function() {
+		var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;
+		ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
+		var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+    </body>
+    </html>

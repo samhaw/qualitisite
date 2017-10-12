@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitignore" server="ftp.qualitiinternet.com.br/www/" local="131522071613599883" remote="131316876000000000" Dst="1" />
+<file name="BufferingLogger.php" server="ftp.qualitiinternet.com.br/www/" local="131522071615020968" remote="131406525000000000" Dst="1" />
+<file name="CHANGELOG.md" server="ftp.qualitiinternet.com.br/www/" local="131522071615831607" remote="131316876000000000" Dst="1" />
+<file name="Debug.php" server="ftp.qualitiinternet.com.br/www/" local="131522071616381997" remote="131406525000000000" Dst="1" />
+<file name="ErrorHandler.php" server="ftp.qualitiinternet.com.br/www/" local="131522071618063331" remote="131406525000000000" Dst="1" />
+<file name="DebugClassLoader.php" server="ftp.qualitiinternet.com.br/www/" local="131522071618313504" remote="131406525000000000" Dst="1" />
+<file name="ExceptionHandler.php" server="ftp.qualitiinternet.com.br/www/" local="131522071625659096" remote="131406525000000000" Dst="1" />
+<file name="LICENSE" server="ftp.qualitiinternet.com.br/www/" local="131522071629151749" remote="131316876000000000" Dst="1" />
+<file name="README.md" server="ftp.qualitiinternet.com.br/www/" local="131522071629832274" remote="131316876000000000" Dst="1" />
+<file name="composer.json" server="ftp.qualitiinternet.com.br/www/" local="131522071651128685" remote="131316876000000000" Dst="1" />
+<file name="phpunit.xml.dist" server="ftp.qualitiinternet.com.br/www/" local="131522071652079377" remote="131316876000000000" Dst="1" />
+<file name=".gitignore" server="C:/xampp/htdocs/qualiti/" local="131522071613599883" remote="131522071610000000" Dst="1" />
+<file name="BufferingLogger.php" server="C:/xampp/htdocs/qualiti/" local="131522071615020968" remote="131522071610000000" Dst="1" />
+<file name="CHANGELOG.md" server="C:/xampp/htdocs/qualiti/" local="131522071615831607" remote="131522071610000000" Dst="1" />
+<file name="composer.json" server="C:/xampp/htdocs/qualiti/" local="131522071651128685" remote="131522071650000000" Dst="1" />
+<file name="Debug.php" server="C:/xampp/htdocs/qualiti/" local="131522071616381997" remote="131522071610000000" Dst="1" />
+<file name="DebugClassLoader.php" server="C:/xampp/htdocs/qualiti/" local="131522071618313504" remote="131522071610000000" Dst="1" />
+<file name="ErrorHandler.php" server="C:/xampp/htdocs/qualiti/" local="131522071618063331" remote="131522071610000000" Dst="1" />
+<file name="ExceptionHandler.php" server="C:/xampp/htdocs/qualiti/" local="131522071625659096" remote="131522071620000000" Dst="1" />
+<file name="LICENSE" server="C:/xampp/htdocs/qualiti/" local="131522071629151749" remote="131522071620000000" Dst="1" />
+<file name="phpunit.xml.dist" server="C:/xampp/htdocs/qualiti/" local="131522071652079377" remote="131522071650000000" Dst="1" />
+<file name="README.md" server="C:/xampp/htdocs/qualiti/" local="131522071629832274" remote="131522071620000000" Dst="1" />
+</dwsync>

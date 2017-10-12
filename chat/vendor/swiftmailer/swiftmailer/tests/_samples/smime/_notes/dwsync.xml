@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CA.srl" server="ftp.qualitiinternet.com.br/www/" local="131402906182539337" remote="130978188000000000" Dst="1" />
+<file name="ca.crt" server="ftp.qualitiinternet.com.br/www/" local="131402906183304881" remote="130978188000000000" Dst="1" />
+<file name="create-cert.sh" server="ftp.qualitiinternet.com.br/www/" local="131402906183510026" remote="130978188000000000" Dst="1" />
+<file name="ca.key" server="ftp.qualitiinternet.com.br/www/" local="131402906183625108" remote="130978188000000000" Dst="1" />
+<file name="encrypt.crt" server="ftp.qualitiinternet.com.br/www/" local="131402906184180499" remote="130978188000000000" Dst="1" />
+<file name="encrypt.key" server="ftp.qualitiinternet.com.br/www/" local="131402906184460698" remote="130978188000000000" Dst="1" />
+<file name="encrypt2.crt" server="ftp.qualitiinternet.com.br/www/" local="131402906184660844" remote="130978188000000000" Dst="1" />
+<file name="encrypt2.key" server="ftp.qualitiinternet.com.br/www/" local="131402906185171207" remote="130978188000000000" Dst="1" />
+<file name="intermediate.crt" server="ftp.qualitiinternet.com.br/www/" local="131402906185431401" remote="130978188000000000" Dst="1" />
+<file name="intermediate.key" server="ftp.qualitiinternet.com.br/www/" local="131402906185636533" remote="130978188000000000" Dst="1" />
+<file name="sign.crt" server="ftp.qualitiinternet.com.br/www/" local="131402906186492146" remote="130978188000000000" Dst="1" />
+<file name="sign.key" server="ftp.qualitiinternet.com.br/www/" local="131402906186587213" remote="130978188000000000" Dst="1" />
+<file name="sign2.crt" server="ftp.qualitiinternet.com.br/www/" local="131402906186922452" remote="130978188000000000" Dst="1" />
+<file name="sign2.key" server="ftp.qualitiinternet.com.br/www/" local="131402906187447825" remote="130978188000000000" Dst="1" />
+<file name="ca.crt" server="C:/xampp/htdocs/qualiti/" local="131402906180000000" remote="131402906180000000" Dst="1" />
+<file name="ca.key" server="C:/xampp/htdocs/qualiti/" local="131402906180000000" remote="131402906180000000" Dst="1" />
+<file name="CA.srl" server="C:/xampp/htdocs/qualiti/" local="131402906180000000" remote="131402906180000000" Dst="1" />
+<file name="create-cert.sh" server="C:/xampp/htdocs/qualiti/" local="131402906180000000" remote="131402906180000000" Dst="1" />
+<file name="encrypt.crt" server="C:/xampp/htdocs/qualiti/" local="131402906180000000" remote="131402906180000000" Dst="1" />
+<file name="encrypt.key" server="C:/xampp/htdocs/qualiti/" local="131402906180000000" remote="131402906180000000" Dst="1" />
+<file name="encrypt2.crt" server="C:/xampp/htdocs/qualiti/" local="131402906180000000" remote="131402906180000000" Dst="1" />
+<file name="encrypt2.key" server="C:/xampp/htdocs/qualiti/" local="131402906180000000" remote="131402906180000000" Dst="1" />
+<file name="intermediate.crt" server="C:/xampp/htdocs/qualiti/" local="131402906180000000" remote="131402906180000000" Dst="1" />
+<file name="intermediate.key" server="C:/xampp/htdocs/qualiti/" local="131402906180000000" remote="131402906180000000" Dst="1" />
+<file name="sign.crt" server="C:/xampp/htdocs/qualiti/" local="131402906180000000" remote="131402906180000000" Dst="1" />
+<file name="sign.key" server="C:/xampp/htdocs/qualiti/" local="131402906180000000" remote="131402906180000000" Dst="1" />
+<file name="sign2.crt" server="C:/xampp/htdocs/qualiti/" local="131402906180000000" remote="131402906180000000" Dst="1" />
+<file name="sign2.key" server="C:/xampp/htdocs/qualiti/" local="131402906180000000" remote="131402906180000000" Dst="1" />
+</dwsync>

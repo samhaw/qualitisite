@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Attachment.php" server="ftp.qualitiinternet.com.br/www/" local="131522071223522790" remote="131406525000000000" Dst="1" />
+<file name="CharsetObserver.php" server="ftp.qualitiinternet.com.br/www/" local="131522071223943079" remote="131406525000000000" Dst="1" />
+<file name="ContentEncoder.php" server="ftp.qualitiinternet.com.br/www/" local="131522071226744874" remote="131406525000000000" Dst="1" />
+<file name="EmbeddedFile.php" server="ftp.qualitiinternet.com.br/www/" local="131522071227665592" remote="131406525000000000" Dst="1" />
+<file name="EncodingObserver.php" server="ftp.qualitiinternet.com.br/www/" local="131522071227695609" remote="131406525000000000" Dst="1" />
+<file name="Grammar.php" server="ftp.qualitiinternet.com.br/www/" local="131522071228301055" remote="131406525000000000" Dst="1" />
+<file name="Header.php" server="ftp.qualitiinternet.com.br/www/" local="131522071229456978" remote="131406525000000000" Dst="1" />
+<file name="HeaderEncoder.php" server="ftp.qualitiinternet.com.br/www/" local="131522071230233341" remote="131406525000000000" Dst="1" />
+<file name="HeaderFactory.php" server="ftp.qualitiinternet.com.br/www/" local="131522071230824846" remote="131406525000000000" Dst="1" />
+<file name="HeaderSet.php" server="ftp.qualitiinternet.com.br/www/" local="131522071230974956" remote="131406525000000000" Dst="1" />
+<file name="Message.php" server="ftp.qualitiinternet.com.br/www/" local="131522071236554616" remote="131406525000000000" Dst="1" />
+<file name="MimePart.php" server="ftp.qualitiinternet.com.br/www/" local="131522071237325402" remote="131406525000000000" Dst="1" />
+<file name="MimeEntity.php" server="ftp.qualitiinternet.com.br/www/" local="131522071237681248" remote="131406525000000000" Dst="1" />
+<file name="ParameterizedHeader.php" server="ftp.qualitiinternet.com.br/www/" local="131522071238081536" remote="131406525000000000" Dst="1" />
+<file name="SimpleHeaderFactory.php" server="ftp.qualitiinternet.com.br/www/" local="131522071238767211" remote="131406525000000000" Dst="1" />
+<file name="SimpleHeaderSet.php" server="ftp.qualitiinternet.com.br/www/" local="131522071239327848" remote="131406525000000000" Dst="1" />
+<file name="SimpleMessage.php" server="ftp.qualitiinternet.com.br/www/" local="131522071240154362" remote="131406525000000000" Dst="1" />
+<file name="SimpleMimeEntity.php" server="ftp.qualitiinternet.com.br/www/" local="131522071240409577" remote="131406525000000000" Dst="1" />
+<file name="Attachment.php" server="C:/xampp/htdocs/qualiti/" local="131522071223522790" remote="131522071220000000" Dst="1" />
+<file name="CharsetObserver.php" server="C:/xampp/htdocs/qualiti/" local="131522071223943079" remote="131522071220000000" Dst="1" />
+<file name="ContentEncoder.php" server="C:/xampp/htdocs/qualiti/" local="131522071226744874" remote="131522071220000000" Dst="1" />
+<file name="EmbeddedFile.php" server="C:/xampp/htdocs/qualiti/" local="131522071227665592" remote="131522071220000000" Dst="1" />
+<file name="EncodingObserver.php" server="C:/xampp/htdocs/qualiti/" local="131522071227695609" remote="131522071220000000" Dst="1" />
+<file name="Grammar.php" server="C:/xampp/htdocs/qualiti/" local="131522071228301055" remote="131522071220000000" Dst="1" />
+<file name="Header.php" server="C:/xampp/htdocs/qualiti/" local="131522071229456978" remote="131522071220000000" Dst="1" />
+<file name="HeaderEncoder.php" server="C:/xampp/htdocs/qualiti/" local="131522071230233341" remote="131522071230000000" Dst="1" />
+<file name="HeaderFactory.php" server="C:/xampp/htdocs/qualiti/" local="131522071230824846" remote="131522071230000000" Dst="1" />
+<file name="HeaderSet.php" server="C:/xampp/htdocs/qualiti/" local="131522071230974956" remote="131522071230000000" Dst="1" />
+<file name="Message.php" server="C:/xampp/htdocs/qualiti/" local="131522071236554616" remote="131522071230000000" Dst="1" />
+<file name="MimeEntity.php" server="C:/xampp/htdocs/qualiti/" local="131522071237681248" remote="131522071230000000" Dst="1" />
+<file name="MimePart.php" server="C:/xampp/htdocs/qualiti/" local="131522071237325402" remote="131522071230000000" Dst="1" />
+<file name="ParameterizedHeader.php" server="C:/xampp/htdocs/qualiti/" local="131522071238081536" remote="131522071230000000" Dst="1" />
+<file name="SimpleHeaderFactory.php" server="C:/xampp/htdocs/qualiti/" local="131522071238767211" remote="131522071230000000" Dst="1" />
+<file name="SimpleHeaderSet.php" server="C:/xampp/htdocs/qualiti/" local="131522071239327848" remote="131522071230000000" Dst="1" />
+<file name="SimpleMessage.php" server="C:/xampp/htdocs/qualiti/" local="131522071240154362" remote="131522071240000000" Dst="1" />
+<file name="SimpleMimeEntity.php" server="C:/xampp/htdocs/qualiti/" local="131522071240409577" remote="131522071240000000" Dst="1" />
+</dwsync>

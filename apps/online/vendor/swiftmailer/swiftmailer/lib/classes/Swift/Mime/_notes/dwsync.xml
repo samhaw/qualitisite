@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Attachment.php" server="C:/xampp/htdocs/qualiti/" local="131317255670000000" remote="131317255670000000" Dst="1" />
+<file name="CharsetObserver.php" server="C:/xampp/htdocs/qualiti/" local="131317255670000000" remote="131317255670000000" Dst="1" />
+<file name="ContentEncoder.php" server="C:/xampp/htdocs/qualiti/" local="131317255670000000" remote="131317255670000000" Dst="1" />
+<file name="EmbeddedFile.php" server="C:/xampp/htdocs/qualiti/" local="131317255820000000" remote="131317255820000000" Dst="1" />
+<file name="EncodingObserver.php" server="C:/xampp/htdocs/qualiti/" local="131317255670000000" remote="131317255670000000" Dst="1" />
+<file name="Grammar.php" server="C:/xampp/htdocs/qualiti/" local="131317255670000000" remote="131317255670000000" Dst="1" />
+<file name="Header.php" server="C:/xampp/htdocs/qualiti/" local="131317255670000000" remote="131317255670000000" Dst="1" />
+<file name="HeaderEncoder.php" server="C:/xampp/htdocs/qualiti/" local="131317255670000000" remote="131317255670000000" Dst="1" />
+<file name="HeaderFactory.php" server="C:/xampp/htdocs/qualiti/" local="131317255820000000" remote="131317255820000000" Dst="1" />
+<file name="HeaderSet.php" server="C:/xampp/htdocs/qualiti/" local="131317255670000000" remote="131317255670000000" Dst="1" />
+<file name="Message.php" server="C:/xampp/htdocs/qualiti/" local="131317255680000000" remote="131317255680000000" Dst="1" />
+<file name="MimeEntity.php" server="C:/xampp/htdocs/qualiti/" local="131317255830000000" remote="131317255830000000" Dst="1" />
+<file name="MimePart.php" server="C:/xampp/htdocs/qualiti/" local="131317255680000000" remote="131317255680000000" Dst="1" />
+<file name="ParameterizedHeader.php" server="C:/xampp/htdocs/qualiti/" local="131317255680000000" remote="131317255680000000" Dst="1" />
+<file name="SimpleHeaderFactory.php" server="C:/xampp/htdocs/qualiti/" local="131317255840000000" remote="131317255840000000" Dst="1" />
+<file name="SimpleHeaderSet.php" server="C:/xampp/htdocs/qualiti/" local="131317255680000000" remote="131317255680000000" Dst="1" />
+<file name="SimpleMessage.php" server="C:/xampp/htdocs/qualiti/" local="131317255680000000" remote="131317255680000000" Dst="1" />
+<file name="SimpleMimeEntity.php" server="C:/xampp/htdocs/qualiti/" local="131317255690000000" remote="131317255690000000" Dst="1" />
+</dwsync>

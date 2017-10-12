@@ -1,0 +1,170 @@
+#brand-hack img{
+}
+
+#logo{
+	width: auto;
+	position: absolute;
+	z-index: 10;
+	margin:1.7em 0 0 ;
+}
+.navbar-inner{
+	z-index: 5;
+}
+
+.navbar-wrapper {
+}
+
+.container {
+}
+
+#input-servico{
+	width: 0px;
+	margin: 0px;
+	padding: 0px;
+	background: #9D13C9;
+}
+/* input[type=tel] {
+ 	font-size: 1em;
+	width: 100%;
+}*/
+#span-logo {
+	margin-top: -1.3em;
+}
+#input-servico{
+	width: 0px;
+	margin: 0px;
+	padding: 0px;
+	background: #9D13C9;
+}
+/*.your-tel{
+	margin-bottom: 1.5em;
+}
+*/
+
+/*Modificar Label de campos requeridos*/
+label{
+	position: absolute;
+	margin-top: -7.5em;
+	background: url("../img/yellow.png") repeat;	
+	filter:opacity(alpha=10);
+	-moz-opacity:1;
+	opacity:0.7;
+	box-shadow: color black;
+	border-radius: 0.5em 0.5em 0 0;
+	width: auto;
+	padding: 0 3em;
+	font-size: 0.8em;
+	color: blue;
+	font-weight: bold;
+
+}
+#plano-error{
+	margin-top: 0.5em;	
+	position: relative;
+	float: left;
+	background: url("../img/yellow.png") repeat;	
+	filter:opacity(alpha=10);
+	-moz-opacity:1;
+	opacity:0.7;
+	box-shadow: color black;
+	border-radius: 0.5em;
+	padding: 0 3em;
+	font-size: 0.8em;
+	color: blue;
+	font-weight: bold;
+}
+
+/*Escolha de Planos*/
+/*.selecionar-method{
+	position: relative;
+	margin-top: 0;
+	border-radius: 0.5em;
+	padding: 0px;
+	border: 0px;
+	height: 15em;
+}
+*/
+.selecionar label{
+	margin-top: 0;	
+	position: absolute;
+	float: none;
+	border-radius: 0;
+	padding: 0;
+	font-size: 0;
+	color: blue;
+	font-weight: bold;
+}
+
+.selecionar {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.selecionar:after {
+  content: "";
+  clear: both;
+}
+
+.sel {
+	height: 12em;
+	position: relative;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  float: left;
+}
+
+.sel label {
+	cursor: pointer;
+	display: block;
+	position: absolute;
+	width: 250px;
+	height: 127px;
+}
+
+.sel + .sel {
+	margin: 0;
+	padding: 0;
+}
+
+#p8 label {
+  background-image: url("../img/Preço 8Mbps-250.png");
+	background-repeat: no-repeat;
+}
+
+#p16 label {
+	background-image: url("../img/Preço 18Mbps-250.png");
+	background-repeat: no-repeat;
+}
+
+#p32 label {
+	background-image: url("../img/Preço 32Mbps-250.png");
+	background-repeat: no-repeat;
+}
+
+.selecionar input:focus + label {
+  outline: 2px dotted #21b4d0;
+}
+
+.selecionar input:checked + label {
+  outline: 4px solid #21b4d0;
+}
+
+.selecionar input:checked + label:after {
+  background: url(http://icons.iconseeker.com/png/64/vistoon/checked.png);
+  bottom: -10px;
+  content: "";
+  display: inline-block;
+  height: 64px;
+  position: absolute;
+  right: -20px;
+  width: 64px;
+}
+
+@-moz-document url-prefix() {
+  .selecionar input:checked + label:after {
+    bottom: 0;
+    right: 0;
+    background-color: #21b4d0;
+  }
+}

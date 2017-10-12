@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ExceptionInterface.php" server="C:/xampp/htdocs/qualiti/" local="131317256300000000" remote="131317256300000000" Dst="1" />
+<file name="InvalidParameterException.php" server="C:/xampp/htdocs/qualiti/" local="131317256300000000" remote="131317256300000000" Dst="1" />
+<file name="MethodNotAllowedException.php" server="C:/xampp/htdocs/qualiti/" local="131317256300000000" remote="131317256300000000" Dst="1" />
+<file name="MissingMandatoryParametersException.php" server="C:/xampp/htdocs/qualiti/" local="131317256300000000" remote="131317256300000000" Dst="1" />
+<file name="ResourceNotFoundException.php" server="C:/xampp/htdocs/qualiti/" local="131317256310000000" remote="131317256310000000" Dst="1" />
+<file name="RouteNotFoundException.php" server="C:/xampp/htdocs/qualiti/" local="131317256310000000" remote="131317256310000000" Dst="1" />
+</dwsync>

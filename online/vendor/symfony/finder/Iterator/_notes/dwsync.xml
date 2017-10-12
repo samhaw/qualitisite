@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CustomFilterIterator.php" server="ftp.qualitiinternet.com.br/www/" local="131522071673433051" remote="131406525000000000" Dst="1" />
+<file name="DateRangeFilterIterator.php" server="ftp.qualitiinternet.com.br/www/" local="131522071674253706" remote="131406525000000000" Dst="1" />
+<file name="DepthRangeFilterIterator.php" server="ftp.qualitiinternet.com.br/www/" local="131522071675164420" remote="131406525000000000" Dst="1" />
+<file name="ExcludeDirectoryFilterIterator.php" server="ftp.qualitiinternet.com.br/www/" local="131522071675424605" remote="131406525000000000" Dst="1" />
+<file name="FilecontentFilterIterator.php" server="ftp.qualitiinternet.com.br/www/" local="131522071676615513" remote="131406525000000000" Dst="1" />
+<file name="FileTypeFilterIterator.php" server="ftp.qualitiinternet.com.br/www/" local="131522071676845668" remote="131406525000000000" Dst="1" />
+<file name="FilenameFilterIterator.php" server="ftp.qualitiinternet.com.br/www/" local="131522071678021601" remote="131406525000000000" Dst="1" />
+<file name="FilterIterator.php" server="ftp.qualitiinternet.com.br/www/" local="131522071678704354" remote="131406525000000000" Dst="1" />
+<file name="MultiplePcreFilterIterator.php" server="ftp.qualitiinternet.com.br/www/" local="131522071679369890" remote="131406525000000000" Dst="1" />
+<file name="PathFilterIterator.php" server="ftp.qualitiinternet.com.br/www/" local="131522071680290591" remote="131406525000000000" Dst="1" />
+<file name="RecursiveDirectoryIterator.php" server="ftp.qualitiinternet.com.br/www/" local="131522071680840985" remote="131406525000000000" Dst="1" />
+<file name="SortableIterator.php" server="ftp.qualitiinternet.com.br/www/" local="131522071682056925" remote="131406525000000000" Dst="1" />
+<file name="SizeRangeFilterIterator.php" server="ftp.qualitiinternet.com.br/www/" local="131522071682086950" remote="131406525000000000" Dst="1" />
+<file name="CustomFilterIterator.php" server="C:/xampp/htdocs/qualiti/" local="131522071673433051" remote="131522071670000000" Dst="1" />
+<file name="DateRangeFilterIterator.php" server="C:/xampp/htdocs/qualiti/" local="131522071674253706" remote="131522071670000000" Dst="1" />
+<file name="DepthRangeFilterIterator.php" server="C:/xampp/htdocs/qualiti/" local="131522071675164420" remote="131522071670000000" Dst="1" />
+<file name="ExcludeDirectoryFilterIterator.php" server="C:/xampp/htdocs/qualiti/" local="131522071675424605" remote="131522071670000000" Dst="1" />
+<file name="FilecontentFilterIterator.php" server="C:/xampp/htdocs/qualiti/" local="131522071676615513" remote="131522071670000000" Dst="1" />
+<file name="FilenameFilterIterator.php" server="C:/xampp/htdocs/qualiti/" local="131522071678021601" remote="131522071670000000" Dst="1" />
+<file name="FileTypeFilterIterator.php" server="C:/xampp/htdocs/qualiti/" local="131522071676845668" remote="131522071670000000" Dst="1" />
+<file name="FilterIterator.php" server="C:/xampp/htdocs/qualiti/" local="131522071678704354" remote="131522071670000000" Dst="1" />
+<file name="MultiplePcreFilterIterator.php" server="C:/xampp/htdocs/qualiti/" local="131522071679369890" remote="131522071670000000" Dst="1" />
+<file name="PathFilterIterator.php" server="C:/xampp/htdocs/qualiti/" local="131522071680290591" remote="131522071680000000" Dst="1" />
+<file name="RecursiveDirectoryIterator.php" server="C:/xampp/htdocs/qualiti/" local="131522071680840985" remote="131522071680000000" Dst="1" />
+<file name="SizeRangeFilterIterator.php" server="C:/xampp/htdocs/qualiti/" local="131522071682086950" remote="131522071680000000" Dst="1" />
+<file name="SortableIterator.php" server="C:/xampp/htdocs/qualiti/" local="131522071682056925" remote="131522071680000000" Dst="1" />
+</dwsync>

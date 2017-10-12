@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CustomFilterIteratorTest.php" server="C:/xampp/htdocs/qualiti/" local="131317256190000000" remote="131317256190000000" Dst="1" />
+<file name="DateRangeFilterIteratorTest.php" server="C:/xampp/htdocs/qualiti/" local="131317256190000000" remote="131317256190000000" Dst="1" />
+<file name="DepthRangeFilterIteratorTest.php" server="C:/xampp/htdocs/qualiti/" local="131317256190000000" remote="131317256190000000" Dst="1" />
+<file name="ExcludeDirectoryFilterIteratorTest.php" server="C:/xampp/htdocs/qualiti/" local="131317256190000000" remote="131317256190000000" Dst="1" />
+<file name="FilecontentFilterIteratorTest.php" server="C:/xampp/htdocs/qualiti/" local="131317256190000000" remote="131317256190000000" Dst="1" />
+<file name="FilenameFilterIteratorTest.php" server="C:/xampp/htdocs/qualiti/" local="131317256190000000" remote="131317256190000000" Dst="1" />
+<file name="FileTypeFilterIteratorTest.php" server="C:/xampp/htdocs/qualiti/" local="131317256190000000" remote="131317256190000000" Dst="1" />
+<file name="FilterIteratorTest.php" server="C:/xampp/htdocs/qualiti/" local="131317256190000000" remote="131317256190000000" Dst="1" />
+<file name="Iterator.php" server="C:/xampp/htdocs/qualiti/" local="131317256190000000" remote="131317256190000000" Dst="1" />
+<file name="IteratorTestCase.php" server="C:/xampp/htdocs/qualiti/" local="131317256190000000" remote="131317256190000000" Dst="1" />
+<file name="MockFileListIterator.php" server="C:/xampp/htdocs/qualiti/" local="131317256190000000" remote="131317256190000000" Dst="1" />
+<file name="MockSplFileInfo.php" server="C:/xampp/htdocs/qualiti/" local="131317256190000000" remote="131317256190000000" Dst="1" />
+<file name="MultiplePcreFilterIteratorTest.php" server="C:/xampp/htdocs/qualiti/" local="131317256190000000" remote="131317256190000000" Dst="1" />
+<file name="PathFilterIteratorTest.php" server="C:/xampp/htdocs/qualiti/" local="131317256190000000" remote="131317256190000000" Dst="1" />
+<file name="RealIteratorTestCase.php" server="C:/xampp/htdocs/qualiti/" local="131317256190000000" remote="131317256190000000" Dst="1" />
+<file name="RecursiveDirectoryIteratorTest.php" server="C:/xampp/htdocs/qualiti/" local="131317256200000000" remote="131317256200000000" Dst="1" />
+<file name="SizeRangeFilterIteratorTest.php" server="C:/xampp/htdocs/qualiti/" local="131317256200000000" remote="131317256200000000" Dst="1" />
+<file name="SortableIteratorTest.php" server="C:/xampp/htdocs/qualiti/" local="131317256200000000" remote="131317256200000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="YtsAnchorAlias.yml" server="ftp.qualitiinternet.com.br/www/" local="131522071945216145" remote="131316876000000000" Dst="1" />
+<file name="YtsBasicTests.yml" server="ftp.qualitiinternet.com.br/www/" local="131522071945776542" remote="131316876000000000" Dst="1" />
+<file name="YtsBlockMapping.yml" server="ftp.qualitiinternet.com.br/www/" local="131522071946281901" remote="131316876000000000" Dst="1" />
+<file name="YtsDocumentSeparator.yml" server="ftp.qualitiinternet.com.br/www/" local="131522071947117489" remote="131316876000000000" Dst="1" />
+<file name="YtsErrorTests.yml" server="ftp.qualitiinternet.com.br/www/" local="131522071947287610" remote="131316876000000000" Dst="1" />
+<file name="YtsFlowCollections.yml" server="ftp.qualitiinternet.com.br/www/" local="131522071948333352" remote="131316876000000000" Dst="1" />
+<file name="YtsNullsAndEmpties.yml" server="ftp.qualitiinternet.com.br/www/" local="131522071949188959" remote="131316876000000000" Dst="1" />
+<file name="YtsFoldedScalars.yml" server="ftp.qualitiinternet.com.br/www/" local="131522071949564221" remote="131316876000000000" Dst="1" />
+<file name="YtsSpecificationExamples.yml" server="ftp.qualitiinternet.com.br/www/" local="131522071950524906" remote="131316876000000000" Dst="1" />
+<file name="YtsTypeTransfers.yml" server="ftp.qualitiinternet.com.br/www/" local="131522071951505602" remote="131316876000000000" Dst="1" />
+<file name="embededPhp.yml" server="ftp.qualitiinternet.com.br/www/" local="131522071951915893" remote="131316876000000000" Dst="1" />
+<file name="escapedCharacters.yml" server="ftp.qualitiinternet.com.br/www/" local="131522071951975936" remote="131316876000000000" Dst="1" />
+<file name="index.yml" server="ftp.qualitiinternet.com.br/www/" local="131522071953051703" remote="131316876000000000" Dst="1" />
+<file name="sfCompact.yml" server="ftp.qualitiinternet.com.br/www/" local="131522071953226823" remote="131316876000000000" Dst="1" />
+<file name="sfComments.yml" server="ftp.qualitiinternet.com.br/www/" local="131522071953376930" remote="131316876000000000" Dst="1" />
+<file name="sfMergeKey.yml" server="ftp.qualitiinternet.com.br/www/" local="131522071954267566" remote="131316876000000000" Dst="1" />
+<file name="sfObjects.yml" server="ftp.qualitiinternet.com.br/www/" local="131522071954392655" remote="131316876000000000" Dst="1" />
+<file name="sfQuotes.yml" server="ftp.qualitiinternet.com.br/www/" local="131522071954923026" remote="131316876000000000" Dst="1" />
+<file name="sfTests.yml" server="ftp.qualitiinternet.com.br/www/" local="131522071955453407" remote="131316876000000000" Dst="1" />
+<file name="unindentedCollections.yml" server="ftp.qualitiinternet.com.br/www/" local="131522071956309010" remote="131316876000000000" Dst="1" />
+<file name="embededPhp.yml" server="C:/xampp/htdocs/qualiti/" local="131522071951915893" remote="131522071950000000" Dst="1" />
+<file name="escapedCharacters.yml" server="C:/xampp/htdocs/qualiti/" local="131522071951975936" remote="131522071950000000" Dst="1" />
+<file name="index.yml" server="C:/xampp/htdocs/qualiti/" local="131522071953051703" remote="131522071950000000" Dst="1" />
+<file name="sfComments.yml" server="C:/xampp/htdocs/qualiti/" local="131522071953376930" remote="131522071950000000" Dst="1" />
+<file name="sfCompact.yml" server="C:/xampp/htdocs/qualiti/" local="131522071953226823" remote="131522071950000000" Dst="1" />
+<file name="sfMergeKey.yml" server="C:/xampp/htdocs/qualiti/" local="131522071954267566" remote="131522071950000000" Dst="1" />
+<file name="sfObjects.yml" server="C:/xampp/htdocs/qualiti/" local="131522071954392655" remote="131522071950000000" Dst="1" />
+<file name="sfQuotes.yml" server="C:/xampp/htdocs/qualiti/" local="131522071954923026" remote="131522071950000000" Dst="1" />
+<file name="sfTests.yml" server="C:/xampp/htdocs/qualiti/" local="131522071955453407" remote="131522071950000000" Dst="1" />
+<file name="unindentedCollections.yml" server="C:/xampp/htdocs/qualiti/" local="131522071956309010" remote="131522071950000000" Dst="1" />
+<file name="YtsAnchorAlias.yml" server="C:/xampp/htdocs/qualiti/" local="131522071945216145" remote="131522071940000000" Dst="1" />
+<file name="YtsBasicTests.yml" server="C:/xampp/htdocs/qualiti/" local="131522071945776542" remote="131522071940000000" Dst="1" />
+<file name="YtsBlockMapping.yml" server="C:/xampp/htdocs/qualiti/" local="131522071946281901" remote="131522071940000000" Dst="1" />
+<file name="YtsDocumentSeparator.yml" server="C:/xampp/htdocs/qualiti/" local="131522071947117489" remote="131522071940000000" Dst="1" />
+<file name="YtsErrorTests.yml" server="C:/xampp/htdocs/qualiti/" local="131522071947287610" remote="131522071940000000" Dst="1" />
+<file name="YtsFlowCollections.yml" server="C:/xampp/htdocs/qualiti/" local="131522071948333352" remote="131522071940000000" Dst="1" />
+<file name="YtsFoldedScalars.yml" server="C:/xampp/htdocs/qualiti/" local="131522071949564221" remote="131522071940000000" Dst="1" />
+<file name="YtsNullsAndEmpties.yml" server="C:/xampp/htdocs/qualiti/" local="131522071949188959" remote="131522071940000000" Dst="1" />
+<file name="YtsSpecificationExamples.yml" server="C:/xampp/htdocs/qualiti/" local="131522071950524906" remote="131522071950000000" Dst="1" />
+<file name="YtsTypeTransfers.yml" server="C:/xampp/htdocs/qualiti/" local="131522071951505602" remote="131522071950000000" Dst="1" />
+</dwsync>

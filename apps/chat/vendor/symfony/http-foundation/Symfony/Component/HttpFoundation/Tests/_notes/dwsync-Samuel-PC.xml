@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AcceptHeaderItemTest.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="AcceptHeaderTest.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="ResponseHeaderBagTest.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="BinaryFileResponseTest.php" server="ftp.qualitiinternet.com.br//www/" local="131302617865593221" remote="130978152000000000" Dst="2" />
+<file name="ApacheRequestTest.php" server="ftp.qualitiinternet.com.br//www/" local="131302617865643224" remote="130978152000000000" Dst="2" />
+<file name="ExpressionRequestMatcherTest.php" server="ftp.qualitiinternet.com.br//www/" local="131302617866113251" remote="130978152000000000" Dst="2" />
+<file name="CookieTest.php" server="ftp.qualitiinternet.com.br//www/" local="131302617866143253" remote="130978152000000000" Dst="2" />
+<file name="ClockMock.php" server="ftp.qualitiinternet.com.br//www/" local="131302617866303262" remote="130978152000000000" Dst="2" />
+<file name="FileBagTest.php" server="ftp.qualitiinternet.com.br//www/" local="131302617870513503" remote="130978152000000000" Dst="2" />
+<file name="HeaderBagTest.php" server="ftp.qualitiinternet.com.br//www/" local="131302617870553505" remote="130978152000000000" Dst="2" />
+<file name="IpUtilsTest.php" server="ftp.qualitiinternet.com.br//www/" local="131302617870913526" remote="130978152000000000" Dst="2" />
+<file name="JsonResponseTest.php" server="ftp.qualitiinternet.com.br//www/" local="131302617871133538" remote="130978152000000000" Dst="2" />
+<file name="RedirectResponseTest.php" server="ftp.qualitiinternet.com.br//www/" local="131302617871753574" remote="130978152000000000" Dst="2" />
+<file name="RequestMatcherTest.php" server="ftp.qualitiinternet.com.br//www/" local="131302617871793576" remote="130978152000000000" Dst="2" />
+<file name="ParameterBagTest.php" server="ftp.qualitiinternet.com.br//www/" local="131302617872003588" remote="130978152000000000" Dst="2" />
+<file name="RequestStackTest.php" server="ftp.qualitiinternet.com.br//www/" local="131302617872413611" remote="130978152000000000" Dst="2" />
+<file name="ResponseTest.php" server="ftp.qualitiinternet.com.br//www/" local="131302617872813634" remote="130978152000000000" Dst="2" />
+<file name="ResponseTestCase.php" server="ftp.qualitiinternet.com.br//www/" local="131302617873103651" remote="130978152000000000" Dst="2" />
+<file name="RequestTest.php" server="ftp.qualitiinternet.com.br//www/" local="131302617873203657" remote="130978152000000000" Dst="2" />
+<file name="ServerBagTest.php" server="ftp.qualitiinternet.com.br//www/" local="131302617873333664" remote="130978152000000000" Dst="2" />
+<file name="StreamedResponseTest.php" server="ftp.qualitiinternet.com.br//www/" local="131302617886494417" remote="130978152000000000" Dst="2" />
+<file name="ApacheRequestTest.php" server="C:/xampp/htdocs/qualiti/" local="131302617865643224" remote="131302617860000000" Dst="2" />
+<file name="BinaryFileResponseTest.php" server="C:/xampp/htdocs/qualiti/" local="131302617865593221" remote="131302617860000000" Dst="2" />
+<file name="ClockMock.php" server="C:/xampp/htdocs/qualiti/" local="131302617866303262" remote="131302617860000000" Dst="2" />
+<file name="CookieTest.php" server="C:/xampp/htdocs/qualiti/" local="131302617866143253" remote="131302617860000000" Dst="2" />
+<file name="ExpressionRequestMatcherTest.php" server="C:/xampp/htdocs/qualiti/" local="131302617866113251" remote="131302617860000000" Dst="2" />
+<file name="FileBagTest.php" server="C:/xampp/htdocs/qualiti/" local="131302617870513503" remote="131302617870000000" Dst="2" />
+<file name="HeaderBagTest.php" server="C:/xampp/htdocs/qualiti/" local="131302617870553505" remote="131302617870000000" Dst="2" />
+<file name="IpUtilsTest.php" server="C:/xampp/htdocs/qualiti/" local="131302617870913526" remote="131302617870000000" Dst="2" />
+<file name="JsonResponseTest.php" server="C:/xampp/htdocs/qualiti/" local="131302617871133538" remote="131302617870000000" Dst="2" />
+<file name="ParameterBagTest.php" server="C:/xampp/htdocs/qualiti/" local="131302617872003588" remote="131302617870000000" Dst="2" />
+<file name="RedirectResponseTest.php" server="C:/xampp/htdocs/qualiti/" local="131302617871753574" remote="131302617870000000" Dst="2" />
+<file name="RequestMatcherTest.php" server="C:/xampp/htdocs/qualiti/" local="131302617871793576" remote="131302617870000000" Dst="2" />
+<file name="RequestStackTest.php" server="C:/xampp/htdocs/qualiti/" local="131302617872413611" remote="131302617870000000" Dst="2" />
+<file name="RequestTest.php" server="C:/xampp/htdocs/qualiti/" local="131302617873203657" remote="131302617870000000" Dst="2" />
+<file name="ResponseTest.php" server="C:/xampp/htdocs/qualiti/" local="131302617872813634" remote="131302617870000000" Dst="2" />
+<file name="ResponseTestCase.php" server="C:/xampp/htdocs/qualiti/" local="131302617873103651" remote="131302617870000000" Dst="2" />
+<file name="ServerBagTest.php" server="C:/xampp/htdocs/qualiti/" local="131302617873333664" remote="131302617870000000" Dst="2" />
+<file name="StreamedResponseTest.php" server="C:/xampp/htdocs/qualiti/" local="131302617886494417" remote="131302617880000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="LegacyPdoSessionHandler.php" server="ftp.qualitiinternet.com.br/www/" local="131522070053708789" remote="131406524400000000" Dst="1" />
+<file name="MemcacheSessionHandler.php" server="ftp.qualitiinternet.com.br/www/" local="131522070054474358" remote="131406524400000000" Dst="1" />
+<file name="MemcachedSessionHandler.php" server="ftp.qualitiinternet.com.br/www/" local="131522070055221003" remote="131406524400000000" Dst="1" />
+<file name="MongoDbSessionHandler.php" server="ftp.qualitiinternet.com.br/www/" local="131522070055561231" remote="131406524400000000" Dst="1" />
+<file name="NativeFileSessionHandler.php" server="ftp.qualitiinternet.com.br/www/" local="131522070056242488" remote="131406524400000000" Dst="1" />
+<file name="NativeSessionHandler.php" server="ftp.qualitiinternet.com.br/www/" local="131522070056802911" remote="131406524400000000" Dst="1" />
+<file name="NullSessionHandler.php" server="ftp.qualitiinternet.com.br/www/" local="131522070057113953" remote="131406524400000000" Dst="1" />
+<file name="PdoSessionHandler.php" server="ftp.qualitiinternet.com.br/www/" local="131522070059229115" remote="131406524400000000" Dst="1" />
+<file name="WriteCheckSessionHandler.php" server="ftp.qualitiinternet.com.br/www/" local="131522070060254869" remote="131406524400000000" Dst="1" />
+<file name="LegacyPdoSessionHandler.php" server="C:/xampp/htdocs/qualiti/" local="131522070053708789" remote="131522070050000000" Dst="1" />
+<file name="MemcachedSessionHandler.php" server="C:/xampp/htdocs/qualiti/" local="131522070055221003" remote="131522070050000000" Dst="1" />
+<file name="MemcacheSessionHandler.php" server="C:/xampp/htdocs/qualiti/" local="131522070054474358" remote="131522070050000000" Dst="1" />
+<file name="MongoDbSessionHandler.php" server="C:/xampp/htdocs/qualiti/" local="131522070055561231" remote="131522070050000000" Dst="1" />
+<file name="NativeFileSessionHandler.php" server="C:/xampp/htdocs/qualiti/" local="131522070056242488" remote="131522070050000000" Dst="1" />
+<file name="NativeSessionHandler.php" server="C:/xampp/htdocs/qualiti/" local="131522070056802911" remote="131522070050000000" Dst="1" />
+<file name="NullSessionHandler.php" server="C:/xampp/htdocs/qualiti/" local="131522070057113953" remote="131522070050000000" Dst="1" />
+<file name="PdoSessionHandler.php" server="C:/xampp/htdocs/qualiti/" local="131522070059229115" remote="131522070050000000" Dst="1" />
+<file name="WriteCheckSessionHandler.php" server="C:/xampp/htdocs/qualiti/" local="131522070060254869" remote="131522070060000000" Dst="1" />
+</dwsync>

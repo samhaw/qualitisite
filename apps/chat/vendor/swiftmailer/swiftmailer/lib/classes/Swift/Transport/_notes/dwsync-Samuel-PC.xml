@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractSmtpTransport.php" server="ftp.qualitiinternet.com.br//www/" local="131302617570076319" remote="130978152000000000" Dst="2" />
+<file name="EsmtpHandler.php" server="ftp.qualitiinternet.com.br//www/" local="131302617571286388" remote="130978152000000000" Dst="2" />
+<file name="EsmtpTransport.php" server="ftp.qualitiinternet.com.br//www/" local="131302617571626407" remote="130978152000000000" Dst="2" />
+<file name="FailoverTransport.php" server="ftp.qualitiinternet.com.br//www/" local="131302617571956426" remote="130978152000000000" Dst="2" />
+<file name="IoBuffer.php" server="ftp.qualitiinternet.com.br//www/" local="131302617572186439" remote="130978152000000000" Dst="2" />
+<file name="MailInvoker.php" server="ftp.qualitiinternet.com.br//www/" local="131302617572706469" remote="130978152000000000" Dst="2" />
+<file name="MailTransport.php" server="ftp.qualitiinternet.com.br//www/" local="131302617572716470" remote="130978152000000000" Dst="2" />
+<file name="LoadBalancedTransport.php" server="ftp.qualitiinternet.com.br//www/" local="131302617572986485" remote="130978152000000000" Dst="2" />
+<file name="NullTransport.php" server="ftp.qualitiinternet.com.br//www/" local="131302617573286502" remote="130978152000000000" Dst="2" />
+<file name="SimpleMailInvoker.php" server="ftp.qualitiinternet.com.br//www/" local="131302617573556518" remote="130978152000000000" Dst="2" />
+<file name="SendmailTransport.php" server="ftp.qualitiinternet.com.br//www/" local="131302617573676525" remote="130978152000000000" Dst="2" />
+<file name="SmtpAgent.php" server="ftp.qualitiinternet.com.br//www/" local="131302617573916538" remote="130978152000000000" Dst="2" />
+<file name="SpoolTransport.php" server="ftp.qualitiinternet.com.br//www/" local="131302617574146552" remote="130978152000000000" Dst="2" />
+<file name="StreamBuffer.php" server="ftp.qualitiinternet.com.br//www/" local="131302617574166553" remote="130978152000000000" Dst="2" />
+<file name="AbstractSmtpTransport.php" server="C:/xampp/htdocs/qualiti/" local="131302617570076319" remote="131302617570000000" Dst="2" />
+<file name="EsmtpHandler.php" server="C:/xampp/htdocs/qualiti/" local="131302617571286388" remote="131302617570000000" Dst="2" />
+<file name="EsmtpTransport.php" server="C:/xampp/htdocs/qualiti/" local="131302617571626407" remote="131302617570000000" Dst="2" />
+<file name="FailoverTransport.php" server="C:/xampp/htdocs/qualiti/" local="131302617571956426" remote="131302617570000000" Dst="2" />
+<file name="IoBuffer.php" server="C:/xampp/htdocs/qualiti/" local="131302617572186439" remote="131302617570000000" Dst="2" />
+<file name="LoadBalancedTransport.php" server="C:/xampp/htdocs/qualiti/" local="131302617572986485" remote="131302617570000000" Dst="2" />
+<file name="MailInvoker.php" server="C:/xampp/htdocs/qualiti/" local="131302617572706469" remote="131302617570000000" Dst="2" />
+<file name="MailTransport.php" server="C:/xampp/htdocs/qualiti/" local="131302617572716470" remote="131302617570000000" Dst="2" />
+<file name="NullTransport.php" server="C:/xampp/htdocs/qualiti/" local="131302617573286502" remote="131302617570000000" Dst="2" />
+<file name="SendmailTransport.php" server="C:/xampp/htdocs/qualiti/" local="131302617573676525" remote="131302617570000000" Dst="2" />
+<file name="SimpleMailInvoker.php" server="C:/xampp/htdocs/qualiti/" local="131302617573556518" remote="131302617570000000" Dst="2" />
+<file name="SmtpAgent.php" server="C:/xampp/htdocs/qualiti/" local="131302617573916538" remote="131302617570000000" Dst="2" />
+<file name="SpoolTransport.php" server="C:/xampp/htdocs/qualiti/" local="131302617574146552" remote="131302617570000000" Dst="2" />
+<file name="StreamBuffer.php" server="C:/xampp/htdocs/qualiti/" local="131302617574166553" remote="131302617570000000" Dst="2" />
+</dwsync>

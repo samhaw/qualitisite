@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitignore" server="ftp.qualitiinternet.com.br/www/" local="131522070176012701" remote="130978188000000000" Dst="1" />
+<file name="CHANGELOG.md" server="ftp.qualitiinternet.com.br/www/" local="131522070177977326" remote="130978188000000000" Dst="1" />
+<file name="Interval.php" server="ftp.qualitiinternet.com.br/www/" local="131522070190734880" remote="131406524400000000" Dst="1" />
+<file name="IdentityTranslator.php" server="ftp.qualitiinternet.com.br/www/" local="131522070191360354" remote="131406524400000000" Dst="1" />
+<file name="LICENSE" server="ftp.qualitiinternet.com.br/www/" local="131522070191825731" remote="130978188000000000" Dst="1" />
+<file name="LoggingTranslator.php" server="ftp.qualitiinternet.com.br/www/" local="131522070201953544" remote="131406524400000000" Dst="1" />
+<file name="MessageCatalogue.php" server="ftp.qualitiinternet.com.br/www/" local="131522070202964368" remote="131406524400000000" Dst="1" />
+<file name="MessageCatalogueInterface.php" server="ftp.qualitiinternet.com.br/www/" local="131522070203699919" remote="131406524400000000" Dst="1" />
+<file name="MessageSelector.php" server="ftp.qualitiinternet.com.br/www/" local="131522070203945089" remote="131406524400000000" Dst="1" />
+<file name="MetadataAwareInterface.php" server="ftp.qualitiinternet.com.br/www/" local="131522070204210286" remote="131406524400000000" Dst="1" />
+<file name="PluralizationRules.php" server="ftp.qualitiinternet.com.br/www/" local="131522070205676416" remote="131406524400000000" Dst="1" />
+<file name="README.md" server="ftp.qualitiinternet.com.br/www/" local="131522070205836521" remote="130978188000000000" Dst="1" />
+<file name="Translator.php" server="ftp.qualitiinternet.com.br/www/" local="131522070244009614" remote="131406524400000000" Dst="1" />
+<file name="TranslatorInterface.php" server="ftp.qualitiinternet.com.br/www/" local="131522070245150483" remote="131406524400000000" Dst="1" />
+<file name="TranslatorBagInterface.php" server="ftp.qualitiinternet.com.br/www/" local="131522070245330619" remote="131406524400000000" Dst="1" />
+<file name="phpunit.xml.dist" server="ftp.qualitiinternet.com.br/www/" local="131522070246829481" remote="130978188000000000" Dst="1" />
+<file name="composer.json" server="ftp.qualitiinternet.com.br/www/" local="131522070246949567" remote="130978188000000000" Dst="1" />
+<file name=".gitignore" server="C:/xampp/htdocs/qualiti/" local="131522070176012701" remote="131522070170000000" Dst="1" />
+<file name="CHANGELOG.md" server="C:/xampp/htdocs/qualiti/" local="131522070177977326" remote="131522070170000000" Dst="1" />
+<file name="composer.json" server="C:/xampp/htdocs/qualiti/" local="131522070246949567" remote="131522070240000000" Dst="1" />
+<file name="IdentityTranslator.php" server="C:/xampp/htdocs/qualiti/" local="131522070191360354" remote="131522070190000000" Dst="1" />
+<file name="Interval.php" server="C:/xampp/htdocs/qualiti/" local="131522070190734880" remote="131522070190000000" Dst="1" />
+<file name="LICENSE" server="C:/xampp/htdocs/qualiti/" local="131522070191825731" remote="131522070190000000" Dst="1" />
+<file name="LoggingTranslator.php" server="C:/xampp/htdocs/qualiti/" local="131522070201953544" remote="131522070200000000" Dst="1" />
+<file name="MessageCatalogue.php" server="C:/xampp/htdocs/qualiti/" local="131522070202964368" remote="131522070200000000" Dst="1" />
+<file name="MessageCatalogueInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522070203699919" remote="131522070200000000" Dst="1" />
+<file name="MessageSelector.php" server="C:/xampp/htdocs/qualiti/" local="131522070203945089" remote="131522070200000000" Dst="1" />
+<file name="MetadataAwareInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522070204210286" remote="131522070200000000" Dst="1" />
+<file name="phpunit.xml.dist" server="C:/xampp/htdocs/qualiti/" local="131522070246829481" remote="131522070240000000" Dst="1" />
+<file name="PluralizationRules.php" server="C:/xampp/htdocs/qualiti/" local="131522070205676416" remote="131522070200000000" Dst="1" />
+<file name="README.md" server="C:/xampp/htdocs/qualiti/" local="131522070205836521" remote="131522070200000000" Dst="1" />
+<file name="Translator.php" server="C:/xampp/htdocs/qualiti/" local="131522070244009614" remote="131522070240000000" Dst="1" />
+<file name="TranslatorBagInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522070245330619" remote="131522070240000000" Dst="1" />
+<file name="TranslatorInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522070245150483" remote="131522070240000000" Dst="1" />
+</dwsync>

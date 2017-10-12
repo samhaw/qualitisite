@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DependencyGraph.php" server="ftp.qualitiinternet.com.br/www/" local="131522070807606588" remote="131406525000000000" Dst="1" />
+<file name="AbstractPlugin.php" server="ftp.qualitiinternet.com.br/www/" local="131522070808277124" remote="131406525000000000" Dst="1" />
+<file name="PluginInfo.php" server="ftp.qualitiinternet.com.br/www/" local="131522070808767455" remote="131406525000000000" Dst="1" />
+<file name="PluginInterface.php" server="ftp.qualitiinternet.com.br/www/" local="131522070809427966" remote="131406525000000000" Dst="1" />
+<file name="PluginManager.php" server="ftp.qualitiinternet.com.br/www/" local="131522070810288662" remote="131406525000000000" Dst="1" />
+<file name="State.php" server="ftp.qualitiinternet.com.br/www/" local="131522070810738969" remote="131406525000000000" Dst="1" />
+<file name="Utils.php" server="ftp.qualitiinternet.com.br/www/" local="131522070811186782" remote="131406525000000000" Dst="1" />
+<file name="AbstractPlugin.php" server="C:/xampp/htdocs/qualiti/" local="131522070808277124" remote="131522070800000000" Dst="1" />
+<file name="DependencyGraph.php" server="C:/xampp/htdocs/qualiti/" local="131522070807606588" remote="131522070800000000" Dst="1" />
+<file name="PluginInfo.php" server="C:/xampp/htdocs/qualiti/" local="131522070808767455" remote="131522070800000000" Dst="1" />
+<file name="PluginInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522070809427966" remote="131522070800000000" Dst="1" />
+<file name="PluginManager.php" server="C:/xampp/htdocs/qualiti/" local="131522070810288662" remote="131522070810000000" Dst="1" />
+<file name="State.php" server="C:/xampp/htdocs/qualiti/" local="131522070810738969" remote="131522070810000000" Dst="1" />
+<file name="Utils.php" server="C:/xampp/htdocs/qualiti/" local="131522070811186782" remote="131522070810000000" Dst="1" />
+</dwsync>
