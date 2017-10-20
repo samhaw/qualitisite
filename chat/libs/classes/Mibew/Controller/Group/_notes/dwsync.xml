@@ -4,8 +4,8 @@
 <file name="AbstractController.php" server="ftp.qualitiinternet.com.br/www/" local="131522068838183027" remote="131406524400000000" Dst="1" />
 <file name="MembersController.php" server="ftp.qualitiinternet.com.br/www/" local="131522068839375300" remote="131406524400000000" Dst="1" />
 <file name="SettingsController.php" server="ftp.qualitiinternet.com.br/www/" local="131522068840305990" remote="131406524400000000" Dst="1" />
-<file name="AbstractController.php" server="C:/xampp/htdocs/qualiti/" local="131522068838183027" remote="131522068830000000" Dst="1" />
-<file name="ManagementController.php" server="C:/xampp/htdocs/qualiti/" local="131522068838819851" remote="131522068830000000" Dst="1" />
-<file name="MembersController.php" server="C:/xampp/htdocs/qualiti/" local="131522068839375300" remote="131522068830000000" Dst="1" />
-<file name="SettingsController.php" server="C:/xampp/htdocs/qualiti/" local="131522068840305990" remote="131522068840000000" Dst="1" />
+<file name="AbstractController.php" server="C:/xampp/htdocs/qualiti/" local="131522068838183027" remote="131522068830000000" Dst="2" />
+<file name="ManagementController.php" server="C:/xampp/htdocs/qualiti/" local="131522068838819851" remote="131522068830000000" Dst="2" />
+<file name="MembersController.php" server="C:/xampp/htdocs/qualiti/" local="131522068839375300" remote="131522068830000000" Dst="2" />
+<file name="SettingsController.php" server="C:/xampp/htdocs/qualiti/" local="131522068840305990" remote="131522068840000000" Dst="2" />
 </dwsync>

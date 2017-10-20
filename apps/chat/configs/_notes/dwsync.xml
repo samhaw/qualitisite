@@ -5,9 +5,9 @@
 <file name="config.yml" server="ftp.qualitiinternet.com.br//www/" local="131317252888402637" remote="131316743400000000" Dst="2" />
 <file name="routing.yml" server="ftp.qualitiinternet.com.br//www/" local="131302617185044296" remote="130978152000000000" Dst="2" />
 <file name="routing_install.yml" server="ftp.qualitiinternet.com.br//www/" local="131302617185084299" remote="130978152000000000" Dst="2" />
-<file name="config.yml" server="C:/xampp/htdocs/qualiti/" local="131317252880000000" remote="131317252880000000" Dst="1" />
-<file name="database_schema.yml" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="default.config.yml" server="C:/xampp/htdocs/qualiti/" local="131317252890000000" remote="131317252890000000" Dst="1" />
-<file name="routing.yml" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="routing_install.yml" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
+<file name="config.yml" server="C:/xampp/htdocs/qualiti/" local="131317252880000000" remote="131317252880000000" Dst="2" />
+<file name="database_schema.yml" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="default.config.yml" server="C:/xampp/htdocs/qualiti/" local="131317252890000000" remote="131317252890000000" Dst="2" />
+<file name="routing.yml" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="routing_install.yml" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
 </dwsync>

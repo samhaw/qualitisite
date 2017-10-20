@@ -7,11 +7,11 @@
 <file name="MimeTypeExtensionGuesser.php" server="ftp.qualitiinternet.com.br/www/" local="131522071727740996" remote="131406525000000000" Dst="1" />
 <file name="MimeTypeGuesser.php" server="ftp.qualitiinternet.com.br/www/" local="131522071727781015" remote="131406525000000000" Dst="1" />
 <file name="MimeTypeGuesserInterface.php" server="ftp.qualitiinternet.com.br/www/" local="131522071728011179" remote="131406525000000000" Dst="1" />
-<file name="ExtensionGuesser.php" server="C:/xampp/htdocs/qualiti/" local="131522071724442399" remote="131522071720000000" Dst="1" />
-<file name="ExtensionGuesserInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522071726029662" remote="131522071720000000" Dst="1" />
-<file name="FileBinaryMimeTypeGuesser.php" server="C:/xampp/htdocs/qualiti/" local="131522071726149747" remote="131522071720000000" Dst="1" />
-<file name="FileinfoMimeTypeGuesser.php" server="C:/xampp/htdocs/qualiti/" local="131522071725769482" remote="131522071720000000" Dst="1" />
-<file name="MimeTypeExtensionGuesser.php" server="C:/xampp/htdocs/qualiti/" local="131522071727740996" remote="131522071720000000" Dst="1" />
-<file name="MimeTypeGuesser.php" server="C:/xampp/htdocs/qualiti/" local="131522071727781015" remote="131522071720000000" Dst="1" />
-<file name="MimeTypeGuesserInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522071728011179" remote="131522071720000000" Dst="1" />
+<file name="ExtensionGuesser.php" server="C:/xampp/htdocs/qualiti/" local="131522071724442399" remote="131522071720000000" Dst="2" />
+<file name="ExtensionGuesserInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522071726029662" remote="131522071720000000" Dst="2" />
+<file name="FileBinaryMimeTypeGuesser.php" server="C:/xampp/htdocs/qualiti/" local="131522071726149747" remote="131522071720000000" Dst="2" />
+<file name="FileinfoMimeTypeGuesser.php" server="C:/xampp/htdocs/qualiti/" local="131522071725769482" remote="131522071720000000" Dst="2" />
+<file name="MimeTypeExtensionGuesser.php" server="C:/xampp/htdocs/qualiti/" local="131522071727740996" remote="131522071720000000" Dst="2" />
+<file name="MimeTypeGuesser.php" server="C:/xampp/htdocs/qualiti/" local="131522071727781015" remote="131522071720000000" Dst="2" />
+<file name="MimeTypeGuesserInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522071728011179" remote="131522071720000000" Dst="2" />
 </dwsync>

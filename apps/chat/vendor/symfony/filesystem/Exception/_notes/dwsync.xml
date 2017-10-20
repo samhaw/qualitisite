@@ -4,8 +4,8 @@
 <file name="IOException.php" server="ftp.qualitiinternet.com.br//www/" local="131302617794889177" remote="130978152000000000" Dst="2" />
 <file name="FileNotFoundException.php" server="ftp.qualitiinternet.com.br//www/" local="131302617794929180" remote="130978152000000000" Dst="2" />
 <file name="IOExceptionInterface.php" server="ftp.qualitiinternet.com.br//www/" local="131302617797229311" remote="130978152000000000" Dst="2" />
-<file name="ExceptionInterface.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="FileNotFoundException.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="IOException.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="IOExceptionInterface.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
+<file name="ExceptionInterface.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="FileNotFoundException.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="IOException.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="IOExceptionInterface.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
 </dwsync>

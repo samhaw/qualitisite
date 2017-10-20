@@ -3,7 +3,7 @@
 <file name="EncoderInterface.php" server="ftp.qualitiinternet.com.br/www/" local="131522070277057400" remote="131406525000000000" Dst="1" />
 <file name="NativeEncoder.php" server="ftp.qualitiinternet.com.br/www/" local="131522070277838017" remote="131406525000000000" Dst="1" />
 <file name="SerializerEncoder.php" server="ftp.qualitiinternet.com.br/www/" local="131522070279369155" remote="131406525000000000" Dst="1" />
-<file name="EncoderInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522070277057400" remote="131522070270000000" Dst="1" />
-<file name="NativeEncoder.php" server="C:/xampp/htdocs/qualiti/" local="131522070277838017" remote="131522070270000000" Dst="1" />
-<file name="SerializerEncoder.php" server="C:/xampp/htdocs/qualiti/" local="131522070279369155" remote="131522070270000000" Dst="1" />
+<file name="EncoderInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522070277057400" remote="131522070270000000" Dst="2" />
+<file name="NativeEncoder.php" server="C:/xampp/htdocs/qualiti/" local="131522070277838017" remote="131522070270000000" Dst="2" />
+<file name="SerializerEncoder.php" server="C:/xampp/htdocs/qualiti/" local="131522070279369155" remote="131522070270000000" Dst="2" />
 </dwsync>

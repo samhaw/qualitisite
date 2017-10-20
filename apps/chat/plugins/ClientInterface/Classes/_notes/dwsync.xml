@@ -11,15 +11,15 @@
 <file name="UsersProcessor.php" server="ftp.qualitiinternet.com.br//www/" local="131314989011829580" remote="131315444400000000" Dst="2" />
 <file name="UsersUtil.php" server="ftp.qualitiinternet.com.br//www/" local="131314989018709974" remote="131315444400000000" Dst="2" />
 <file name="UrlGeneratorUtil.php" server="ftp.qualitiinternet.com.br//www/" local="131314989006779291" remote="131315444400000000" Dst="2" />
-<file name="AuthenticationManager.php" server="C:/xampp/htdocs/qualiti/" local="131314988970000000" remote="131314988970000000" Dst="1" />
-<file name="CannedResponsesUtil.php" server="C:/xampp/htdocs/qualiti/" local="131314988970000000" remote="131314988970000000" Dst="1" />
-<file name="OperatorUtil.php" server="C:/xampp/htdocs/qualiti/" local="131314988980000000" remote="131314988980000000" Dst="1" />
-<file name="PackageUtil.php" server="C:/xampp/htdocs/qualiti/" local="131314988980000000" remote="131314988980000000" Dst="1" />
-<file name="ServerUtil.php" server="C:/xampp/htdocs/qualiti/" local="131314988980000000" remote="131314988980000000" Dst="1" />
-<file name="Thread.php" server="C:/xampp/htdocs/qualiti/" local="131314988990000000" remote="131314988990000000" Dst="1" />
-<file name="ThreadProcessor.php" server="C:/xampp/htdocs/qualiti/" local="131314988990000000" remote="131314988990000000" Dst="1" />
-<file name="ThreadUtil.php" server="C:/xampp/htdocs/qualiti/" local="131314989000000000" remote="131314989000000000" Dst="1" />
-<file name="UrlGeneratorUtil.php" server="C:/xampp/htdocs/qualiti/" local="131314989000000000" remote="131314989000000000" Dst="1" />
-<file name="UsersProcessor.php" server="C:/xampp/htdocs/qualiti/" local="131314989010000000" remote="131314989010000000" Dst="1" />
-<file name="UsersUtil.php" server="C:/xampp/htdocs/qualiti/" local="131314989010000000" remote="131314989010000000" Dst="1" />
+<file name="AuthenticationManager.php" server="C:/xampp/htdocs/qualiti/" local="131314988970000000" remote="131314988970000000" Dst="2" />
+<file name="CannedResponsesUtil.php" server="C:/xampp/htdocs/qualiti/" local="131314988970000000" remote="131314988970000000" Dst="2" />
+<file name="OperatorUtil.php" server="C:/xampp/htdocs/qualiti/" local="131314988980000000" remote="131314988980000000" Dst="2" />
+<file name="PackageUtil.php" server="C:/xampp/htdocs/qualiti/" local="131314988980000000" remote="131314988980000000" Dst="2" />
+<file name="ServerUtil.php" server="C:/xampp/htdocs/qualiti/" local="131314988980000000" remote="131314988980000000" Dst="2" />
+<file name="Thread.php" server="C:/xampp/htdocs/qualiti/" local="131314988990000000" remote="131314988990000000" Dst="2" />
+<file name="ThreadProcessor.php" server="C:/xampp/htdocs/qualiti/" local="131314988990000000" remote="131314988990000000" Dst="2" />
+<file name="ThreadUtil.php" server="C:/xampp/htdocs/qualiti/" local="131314989000000000" remote="131314989000000000" Dst="2" />
+<file name="UrlGeneratorUtil.php" server="C:/xampp/htdocs/qualiti/" local="131314989000000000" remote="131314989000000000" Dst="2" />
+<file name="UsersProcessor.php" server="C:/xampp/htdocs/qualiti/" local="131314989010000000" remote="131314989010000000" Dst="2" />
+<file name="UsersUtil.php" server="C:/xampp/htdocs/qualiti/" local="131314989010000000" remote="131314989010000000" Dst="2" />
 </dwsync>

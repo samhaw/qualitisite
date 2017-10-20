@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="PrototypeNodeInterface.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="ReferenceDumper.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="ScalarNode.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="VariableNode.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
+<file name="PrototypeNodeInterface.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="ReferenceDumper.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="ScalarNode.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="VariableNode.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
 <file name="ArrayNode.php" server="ftp.qualitiinternet.com.br//www/" local="131302617645510633" remote="130978152000000000" Dst="2" />
 <file name="BooleanNode.php" server="ftp.qualitiinternet.com.br//www/" local="131302617645570637" remote="130978152000000000" Dst="2" />
 <file name="BaseNode.php" server="ftp.qualitiinternet.com.br//www/" local="131302617645710645" remote="130978152000000000" Dst="2" />
@@ -15,15 +15,15 @@
 <file name="NumericNode.php" server="ftp.qualitiinternet.com.br//www/" local="131302617654501148" remote="130978152000000000" Dst="2" />
 <file name="Processor.php" server="ftp.qualitiinternet.com.br//www/" local="131302617654651156" remote="130978152000000000" Dst="2" />
 <file name="PrototypedArrayNode.php" server="ftp.qualitiinternet.com.br//www/" local="131302617655301193" remote="130978152000000000" Dst="2" />
-<file name="ArrayNode.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="BaseNode.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="BooleanNode.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="ConfigurationInterface.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="EnumNode.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="FloatNode.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="IntegerNode.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="NodeInterface.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="NumericNode.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="Processor.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="PrototypedArrayNode.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
+<file name="ArrayNode.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="BaseNode.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="BooleanNode.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="ConfigurationInterface.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="EnumNode.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="FloatNode.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="IntegerNode.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="NodeInterface.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="NumericNode.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="Processor.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="PrototypedArrayNode.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
 </dwsync>

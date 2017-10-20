@@ -6,10 +6,10 @@
 <file name="BsdFindAdapter.php" server="ftp.qualitiinternet.com.br/www/" local="131522069704044399" remote="131406524400000000" Dst="1" />
 <file name="GnuFindAdapter.php" server="ftp.qualitiinternet.com.br/www/" local="131522069705085206" remote="131406524400000000" Dst="1" />
 <file name="PhpAdapter.php" server="ftp.qualitiinternet.com.br/www/" local="131522069706668478" remote="131406524400000000" Dst="1" />
-<file name="AbstractAdapter.php" server="C:/xampp/htdocs/qualiti/" local="131522069700200321" remote="131522069700000000" Dst="1" />
-<file name="AbstractFindAdapter.php" server="C:/xampp/htdocs/qualiti/" local="131522069701853139" remote="131522069700000000" Dst="1" />
-<file name="AdapterInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522069703026262" remote="131522069700000000" Dst="1" />
-<file name="BsdFindAdapter.php" server="C:/xampp/htdocs/qualiti/" local="131522069704044399" remote="131522069700000000" Dst="1" />
-<file name="GnuFindAdapter.php" server="C:/xampp/htdocs/qualiti/" local="131522069705085206" remote="131522069700000000" Dst="1" />
-<file name="PhpAdapter.php" server="C:/xampp/htdocs/qualiti/" local="131522069706668478" remote="131522069700000000" Dst="1" />
+<file name="AbstractAdapter.php" server="C:/xampp/htdocs/qualiti/" local="131522069700200321" remote="131522069700000000" Dst="2" />
+<file name="AbstractFindAdapter.php" server="C:/xampp/htdocs/qualiti/" local="131522069701853139" remote="131522069700000000" Dst="2" />
+<file name="AdapterInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522069703026262" remote="131522069700000000" Dst="2" />
+<file name="BsdFindAdapter.php" server="C:/xampp/htdocs/qualiti/" local="131522069704044399" remote="131522069700000000" Dst="2" />
+<file name="GnuFindAdapter.php" server="C:/xampp/htdocs/qualiti/" local="131522069705085206" remote="131522069700000000" Dst="2" />
+<file name="PhpAdapter.php" server="C:/xampp/htdocs/qualiti/" local="131522069706668478" remote="131522069700000000" Dst="2" />
 </dwsync>

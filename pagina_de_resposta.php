@@ -11,7 +11,7 @@
     <meta name="author" content="">
     <!-- Styles -->
     <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/style-02.css" rel="stylesheet">
+    <link href="css/style-04.css" rel="stylesheet">
     <link rel='stylesheet' id='prettyphoto-css'  href="css/prettyPhoto.css" type='text/css' media='all'>
     <link href="css/fontello.css" type="text/css" rel="stylesheet">
     <!--[if lt IE 7]>
@@ -33,7 +33,7 @@
         <![endif]-->
     <!-- Favicon -->
     <link rel="shortcut icon" href="img/favicon.ico">
-    <link href="css/customizacoes-27.css" rel="stylesheet" type="text/css">
+    <link href="css/customizacoes-31.css" rel="stylesheet" type="text/css">
     <!-- JQuery -->
     <script type="text/javascript" src="js/jquery.js"></script>
     <!-- Load ScrollTo -->

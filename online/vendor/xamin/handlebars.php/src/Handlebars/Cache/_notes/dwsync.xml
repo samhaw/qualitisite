@@ -3,7 +3,7 @@
 <file name="APC.php" server="ftp.qualitiinternet.com.br/www/" local="131522072055448395" remote="131406525000000000" Dst="1" />
 <file name="Disk.php" server="ftp.qualitiinternet.com.br/www/" local="131522072055918729" remote="131406525000000000" Dst="1" />
 <file name="Dummy.php" server="ftp.qualitiinternet.com.br/www/" local="131522072056834400" remote="131406525000000000" Dst="1" />
-<file name="APC.php" server="C:/xampp/htdocs/qualiti/" local="131522072055448395" remote="131522072050000000" Dst="1" />
-<file name="Disk.php" server="C:/xampp/htdocs/qualiti/" local="131522072055918729" remote="131522072050000000" Dst="1" />
-<file name="Dummy.php" server="C:/xampp/htdocs/qualiti/" local="131522072056834400" remote="131522072050000000" Dst="1" />
+<file name="APC.php" server="C:/xampp/htdocs/qualiti/" local="131522072055448395" remote="131522072050000000" Dst="2" />
+<file name="Disk.php" server="C:/xampp/htdocs/qualiti/" local="131522072055918729" remote="131522072050000000" Dst="2" />
+<file name="Dummy.php" server="C:/xampp/htdocs/qualiti/" local="131522072056834400" remote="131522072050000000" Dst="2" />
 </dwsync>

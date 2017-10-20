@@ -2,7 +2,7 @@
 <dwsync>
 <file name=".gitmodules" server="ftp.qualitiinternet.com.br//www/" local="130978152000000000" remote="130978152000000000" Dst="2" />
 <file name="update-resources.sh" server="ftp.qualitiinternet.com.br//www/" local="130978152000000000" remote="130978152000000000" Dst="2" />
-<file name=".gitmodules" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
+<file name=".gitmodules" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
 <file name="update-resources.sh" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
 <file name="CHANGELOG.md" server="ftp.qualitiinternet.com.br//www/" local="131302618034132861" remote="130978152000000000" Dst="2" />
 <file name=".travis.yml" server="ftp.qualitiinternet.com.br//www/" local="131302618034182864" remote="130978152000000000" Dst="2" />
@@ -11,11 +11,11 @@
 <file name="README.md" server="ftp.qualitiinternet.com.br//www/" local="131302618034772898" remote="130978152000000000" Dst="2" />
 <file name="composer.json" server="ftp.qualitiinternet.com.br//www/" local="131302618035312929" remote="130978152000000000" Dst="2" />
 <file name="phpunit.xml.dist" server="ftp.qualitiinternet.com.br//www/" local="131302618035332930" remote="130978152000000000" Dst="2" />
-<file name=".gitignore" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name=".travis.yml" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="CHANGELOG.md" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="composer.json" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="LICENSE" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="phpunit.xml.dist" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="README.md" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
+<file name=".gitignore" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name=".travis.yml" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="CHANGELOG.md" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="composer.json" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="LICENSE" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="phpunit.xml.dist" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="README.md" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
 </dwsync>

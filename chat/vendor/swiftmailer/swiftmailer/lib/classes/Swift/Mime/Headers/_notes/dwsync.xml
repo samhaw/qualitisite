@@ -8,12 +8,12 @@
 <file name="OpenDKIMHeader.php" server="ftp.qualitiinternet.com.br/www/" local="131522069299204816" remote="131406525000000000" Dst="1" />
 <file name="PathHeader.php" server="ftp.qualitiinternet.com.br/www/" local="131522069301441407" remote="131406525000000000" Dst="1" />
 <file name="UnstructuredHeader.php" server="ftp.qualitiinternet.com.br/www/" local="131522069302507159" remote="131406525000000000" Dst="1" />
-<file name="AbstractHeader.php" server="C:/xampp/htdocs/qualiti/" local="131522069295917484" remote="131522069290000000" Dst="1" />
-<file name="DateHeader.php" server="C:/xampp/htdocs/qualiti/" local="131522069296402858" remote="131522069290000000" Dst="1" />
-<file name="IdentificationHeader.php" server="C:/xampp/htdocs/qualiti/" local="131522069296978241" remote="131522069290000000" Dst="1" />
-<file name="MailboxHeader.php" server="C:/xampp/htdocs/qualiti/" local="131522069298084025" remote="131522069290000000" Dst="1" />
-<file name="OpenDKIMHeader.php" server="C:/xampp/htdocs/qualiti/" local="131522069299204816" remote="131522069290000000" Dst="1" />
-<file name="ParameterizedHeader.php" server="C:/xampp/htdocs/qualiti/" local="131522069300235547" remote="131522069300000000" Dst="1" />
-<file name="PathHeader.php" server="C:/xampp/htdocs/qualiti/" local="131522069301441407" remote="131522069300000000" Dst="1" />
-<file name="UnstructuredHeader.php" server="C:/xampp/htdocs/qualiti/" local="131522069302507159" remote="131522069300000000" Dst="1" />
+<file name="AbstractHeader.php" server="C:/xampp/htdocs/qualiti/" local="131522069295917484" remote="131522069290000000" Dst="2" />
+<file name="DateHeader.php" server="C:/xampp/htdocs/qualiti/" local="131522069296402858" remote="131522069290000000" Dst="2" />
+<file name="IdentificationHeader.php" server="C:/xampp/htdocs/qualiti/" local="131522069296978241" remote="131522069290000000" Dst="2" />
+<file name="MailboxHeader.php" server="C:/xampp/htdocs/qualiti/" local="131522069298084025" remote="131522069290000000" Dst="2" />
+<file name="OpenDKIMHeader.php" server="C:/xampp/htdocs/qualiti/" local="131522069299204816" remote="131522069290000000" Dst="2" />
+<file name="ParameterizedHeader.php" server="C:/xampp/htdocs/qualiti/" local="131522069300235547" remote="131522069300000000" Dst="2" />
+<file name="PathHeader.php" server="C:/xampp/htdocs/qualiti/" local="131522069301441407" remote="131522069300000000" Dst="2" />
+<file name="UnstructuredHeader.php" server="C:/xampp/htdocs/qualiti/" local="131522069302507159" remote="131522069300000000" Dst="2" />
 </dwsync>

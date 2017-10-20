@@ -6,10 +6,10 @@
 <file name="UpdateChecker.php" server="ftp.qualitiinternet.com.br/www/" local="131522070805386838" remote="131406525000000000" Dst="1" />
 <file name="Utils.php" server="ftp.qualitiinternet.com.br/www/" local="131522070805937297" remote="131406525000000000" Dst="1" />
 <file name="Updater.php" server="ftp.qualitiinternet.com.br/www/" local="131522070806369202" remote="131406525000000000" Dst="1" />
-<file name="AvailableUpdate.php" server="C:/xampp/htdocs/qualiti/" local="131522070803388310" remote="131522070800000000" Dst="1" />
-<file name="CronWorker.php" server="C:/xampp/htdocs/qualiti/" local="131522070804128899" remote="131522070800000000" Dst="1" />
-<file name="Installer.php" server="C:/xampp/htdocs/qualiti/" local="131522070804689442" remote="131522070800000000" Dst="1" />
-<file name="UpdateChecker.php" server="C:/xampp/htdocs/qualiti/" local="131522070805386838" remote="131522070800000000" Dst="1" />
-<file name="Updater.php" server="C:/xampp/htdocs/qualiti/" local="131522070806369202" remote="131522070800000000" Dst="1" />
-<file name="Utils.php" server="C:/xampp/htdocs/qualiti/" local="131522070805937297" remote="131522070800000000" Dst="1" />
+<file name="AvailableUpdate.php" server="C:/xampp/htdocs/qualiti/" local="131522070803388310" remote="131522070800000000" Dst="2" />
+<file name="CronWorker.php" server="C:/xampp/htdocs/qualiti/" local="131522070804128899" remote="131522070800000000" Dst="2" />
+<file name="Installer.php" server="C:/xampp/htdocs/qualiti/" local="131522070804689442" remote="131522070800000000" Dst="2" />
+<file name="UpdateChecker.php" server="C:/xampp/htdocs/qualiti/" local="131522070805386838" remote="131522070800000000" Dst="2" />
+<file name="Updater.php" server="C:/xampp/htdocs/qualiti/" local="131522070806369202" remote="131522070800000000" Dst="2" />
+<file name="Utils.php" server="C:/xampp/htdocs/qualiti/" local="131522070805937297" remote="131522070800000000" Dst="2" />
 </dwsync>

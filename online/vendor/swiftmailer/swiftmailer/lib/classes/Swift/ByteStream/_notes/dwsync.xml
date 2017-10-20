@@ -4,8 +4,8 @@
 <file name="AbstractFilterableInputStream.php" server="ftp.qualitiinternet.com.br/www/" local="131522071194445115" remote="131406525000000000" Dst="1" />
 <file name="FileByteStream.php" server="ftp.qualitiinternet.com.br/www/" local="131522071195385859" remote="131406525000000000" Dst="1" />
 <file name="TemporaryFileByteStream.php" server="ftp.qualitiinternet.com.br/www/" local="131522071196036316" remote="131406525000000000" Dst="1" />
-<file name="AbstractFilterableInputStream.php" server="C:/xampp/htdocs/qualiti/" local="131522071194445115" remote="131522071190000000" Dst="1" />
-<file name="ArrayByteStream.php" server="C:/xampp/htdocs/qualiti/" local="131522071193604467" remote="131522071190000000" Dst="1" />
-<file name="FileByteStream.php" server="C:/xampp/htdocs/qualiti/" local="131522071195385859" remote="131522071190000000" Dst="1" />
-<file name="TemporaryFileByteStream.php" server="C:/xampp/htdocs/qualiti/" local="131522071196036316" remote="131522071190000000" Dst="1" />
+<file name="AbstractFilterableInputStream.php" server="C:/xampp/htdocs/qualiti/" local="131522071194445115" remote="131522071190000000" Dst="2" />
+<file name="ArrayByteStream.php" server="C:/xampp/htdocs/qualiti/" local="131522071193604467" remote="131522071190000000" Dst="2" />
+<file name="FileByteStream.php" server="C:/xampp/htdocs/qualiti/" local="131522071195385859" remote="131522071190000000" Dst="2" />
+<file name="TemporaryFileByteStream.php" server="C:/xampp/htdocs/qualiti/" local="131522071196036316" remote="131522071190000000" Dst="2" />
 </dwsync>

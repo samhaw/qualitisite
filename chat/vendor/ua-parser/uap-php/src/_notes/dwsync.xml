@@ -5,9 +5,9 @@
 <file name="OperatingSystemParser.php" server="ftp.qualitiinternet.com.br/www/" local="131522070345625230" remote="131406524400000000" Dst="1" />
 <file name="Parser.php" server="ftp.qualitiinternet.com.br/www/" local="131522070346140595" remote="131406524400000000" Dst="1" />
 <file name="UserAgentParser.php" server="ftp.qualitiinternet.com.br/www/" local="131522070349750669" remote="131406524400000000" Dst="1" />
-<file name="AbstractParser.php" server="C:/xampp/htdocs/qualiti/" local="131522070337599498" remote="131522070330000000" Dst="1" />
-<file name="DeviceParser.php" server="C:/xampp/htdocs/qualiti/" local="131522070342062698" remote="131522070340000000" Dst="1" />
-<file name="OperatingSystemParser.php" server="C:/xampp/htdocs/qualiti/" local="131522070345625230" remote="131522070340000000" Dst="1" />
-<file name="Parser.php" server="C:/xampp/htdocs/qualiti/" local="131522070346140595" remote="131522070340000000" Dst="1" />
-<file name="UserAgentParser.php" server="C:/xampp/htdocs/qualiti/" local="131522070349750669" remote="131522070340000000" Dst="1" />
+<file name="AbstractParser.php" server="C:/xampp/htdocs/qualiti/" local="131522070337599498" remote="131522070330000000" Dst="2" />
+<file name="DeviceParser.php" server="C:/xampp/htdocs/qualiti/" local="131522070342062698" remote="131522070340000000" Dst="2" />
+<file name="OperatingSystemParser.php" server="C:/xampp/htdocs/qualiti/" local="131522070345625230" remote="131522070340000000" Dst="2" />
+<file name="Parser.php" server="C:/xampp/htdocs/qualiti/" local="131522070346140595" remote="131522070340000000" Dst="2" />
+<file name="UserAgentParser.php" server="C:/xampp/htdocs/qualiti/" local="131522070349750669" remote="131522070340000000" Dst="2" />
 </dwsync>

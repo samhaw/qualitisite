@@ -6,10 +6,10 @@
 <file name="IfEqualHelper.php" server="ftp.qualitiinternet.com.br/www/" local="131522069216701151" remote="131406524400000000" Dst="1" />
 <file name="IfOddHelper.php" server="ftp.qualitiinternet.com.br/www/" local="131522069218337308" remote="131406524400000000" Dst="1" />
 <file name="UnlessEqualHelper.php" server="ftp.qualitiinternet.com.br/www/" local="131522069218812653" remote="131406524400000000" Dst="1" />
-<file name="Helpers.php" server="C:/xampp/htdocs/qualiti/" local="131522069215590367" remote="131522069210000000" Dst="1" />
-<file name="IfAnyHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522069216135750" remote="131522069210000000" Dst="1" />
-<file name="IfEqualHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522069216701151" remote="131522069210000000" Dst="1" />
-<file name="IfEvenHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522069217847079" remote="131522069210000000" Dst="1" />
-<file name="IfOddHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522069218337308" remote="131522069210000000" Dst="1" />
-<file name="UnlessEqualHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522069218812653" remote="131522069210000000" Dst="1" />
+<file name="Helpers.php" server="C:/xampp/htdocs/qualiti/" local="131522069215590367" remote="131522069210000000" Dst="2" />
+<file name="IfAnyHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522069216135750" remote="131522069210000000" Dst="2" />
+<file name="IfEqualHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522069216701151" remote="131522069210000000" Dst="2" />
+<file name="IfEvenHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522069217847079" remote="131522069210000000" Dst="2" />
+<file name="IfOddHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522069218337308" remote="131522069210000000" Dst="2" />
+<file name="UnlessEqualHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522069218812653" remote="131522069210000000" Dst="2" />
 </dwsync>

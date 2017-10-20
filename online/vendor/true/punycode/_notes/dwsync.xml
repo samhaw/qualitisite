@@ -7,11 +7,11 @@
 <file name="LICENSE" server="ftp.qualitiinternet.com.br/www/" local="131522072007687500" remote="131316876000000000" Dst="1" />
 <file name="composer.json" server="ftp.qualitiinternet.com.br/www/" local="131522072008242907" remote="131316876000000000" Dst="1" />
 <file name="phpunit.xml.dist" server="ftp.qualitiinternet.com.br/www/" local="131522072008628181" remote="131316876000000000" Dst="1" />
-<file name=".gitignore" server="C:/xampp/htdocs/qualiti/" local="131522072006296514" remote="131522072000000000" Dst="1" />
-<file name=".travis.yml" server="C:/xampp/htdocs/qualiti/" local="131522072006456632" remote="131522072000000000" Dst="1" />
-<file name="CHANGELOG.md" server="C:/xampp/htdocs/qualiti/" local="131522072006921966" remote="131522072000000000" Dst="1" />
-<file name="composer.json" server="C:/xampp/htdocs/qualiti/" local="131522072008242907" remote="131522072000000000" Dst="1" />
-<file name="LICENSE" server="C:/xampp/htdocs/qualiti/" local="131522072007687500" remote="131522072000000000" Dst="1" />
-<file name="phpunit.xml.dist" server="C:/xampp/htdocs/qualiti/" local="131522072008628181" remote="131522072000000000" Dst="1" />
-<file name="README.md" server="C:/xampp/htdocs/qualiti/" local="131522072007572440" remote="131522072000000000" Dst="1" />
+<file name=".gitignore" server="C:/xampp/htdocs/qualiti/" local="131522072006296514" remote="131522072000000000" Dst="2" />
+<file name=".travis.yml" server="C:/xampp/htdocs/qualiti/" local="131522072006456632" remote="131522072000000000" Dst="2" />
+<file name="CHANGELOG.md" server="C:/xampp/htdocs/qualiti/" local="131522072006921966" remote="131522072000000000" Dst="2" />
+<file name="composer.json" server="C:/xampp/htdocs/qualiti/" local="131522072008242907" remote="131522072000000000" Dst="2" />
+<file name="LICENSE" server="C:/xampp/htdocs/qualiti/" local="131522072007687500" remote="131522072000000000" Dst="2" />
+<file name="phpunit.xml.dist" server="C:/xampp/htdocs/qualiti/" local="131522072008628181" remote="131522072000000000" Dst="2" />
+<file name="README.md" server="C:/xampp/htdocs/qualiti/" local="131522072007572440" remote="131522072000000000" Dst="2" />
 </dwsync>

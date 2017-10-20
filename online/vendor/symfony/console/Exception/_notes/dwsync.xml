@@ -6,10 +6,10 @@
 <file name="LogicException.php" server="ftp.qualitiinternet.com.br/www/" local="131522071443861094" remote="131406525000000000" Dst="1" />
 <file name="InvalidOptionException.php" server="ftp.qualitiinternet.com.br/www/" local="131522071444155550" remote="131406525000000000" Dst="1" />
 <file name="RuntimeException.php" server="ftp.qualitiinternet.com.br/www/" local="131522071444695938" remote="131406525000000000" Dst="1" />
-<file name="CommandNotFoundException.php" server="C:/xampp/htdocs/qualiti/" local="131522071442711346" remote="131522071440000000" Dst="1" />
-<file name="ExceptionInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522071443180585" remote="131522071440000000" Dst="1" />
-<file name="InvalidArgumentException.php" server="C:/xampp/htdocs/qualiti/" local="131522071443010456" remote="131522071440000000" Dst="1" />
-<file name="InvalidOptionException.php" server="C:/xampp/htdocs/qualiti/" local="131522071444155550" remote="131522071440000000" Dst="1" />
-<file name="LogicException.php" server="C:/xampp/htdocs/qualiti/" local="131522071443861094" remote="131522071440000000" Dst="1" />
-<file name="RuntimeException.php" server="C:/xampp/htdocs/qualiti/" local="131522071444695938" remote="131522071440000000" Dst="1" />
+<file name="CommandNotFoundException.php" server="C:/xampp/htdocs/qualiti/" local="131522071442711346" remote="131522071440000000" Dst="2" />
+<file name="ExceptionInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522071443180585" remote="131522071440000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="C:/xampp/htdocs/qualiti/" local="131522071443010456" remote="131522071440000000" Dst="2" />
+<file name="InvalidOptionException.php" server="C:/xampp/htdocs/qualiti/" local="131522071444155550" remote="131522071440000000" Dst="2" />
+<file name="LogicException.php" server="C:/xampp/htdocs/qualiti/" local="131522071443861094" remote="131522071440000000" Dst="2" />
+<file name="RuntimeException.php" server="C:/xampp/htdocs/qualiti/" local="131522071444695938" remote="131522071440000000" Dst="2" />
 </dwsync>

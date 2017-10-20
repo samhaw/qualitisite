@@ -7,11 +7,11 @@
 <file name="InvalidDefinitionException.php" server="ftp.qualitiinternet.com.br/www/" local="131522071388112225" remote="131406525000000000" Dst="1" />
 <file name="InvalidTypeException.php" server="ftp.qualitiinternet.com.br/www/" local="131522071389013073" remote="131406525000000000" Dst="1" />
 <file name="UnsetKeyException.php" server="ftp.qualitiinternet.com.br/www/" local="131522071389833715" remote="131406525000000000" Dst="1" />
-<file name="DuplicateKeyException.php" server="C:/xampp/htdocs/qualiti/" local="131522071385960604" remote="131522071380000000" Dst="1" />
-<file name="Exception.php" server="C:/xampp/htdocs/qualiti/" local="131522071387231557" remote="131522071380000000" Dst="1" />
-<file name="ForbiddenOverwriteException.php" server="C:/xampp/htdocs/qualiti/" local="131522071387781991" remote="131522071380000000" Dst="1" />
-<file name="InvalidConfigurationException.php" server="C:/xampp/htdocs/qualiti/" local="131522071387591860" remote="131522071380000000" Dst="1" />
-<file name="InvalidDefinitionException.php" server="C:/xampp/htdocs/qualiti/" local="131522071388112225" remote="131522071380000000" Dst="1" />
-<file name="InvalidTypeException.php" server="C:/xampp/htdocs/qualiti/" local="131522071389013073" remote="131522071380000000" Dst="1" />
-<file name="UnsetKeyException.php" server="C:/xampp/htdocs/qualiti/" local="131522071389833715" remote="131522071380000000" Dst="1" />
+<file name="DuplicateKeyException.php" server="C:/xampp/htdocs/qualiti/" local="131522071385960604" remote="131522071380000000" Dst="2" />
+<file name="Exception.php" server="C:/xampp/htdocs/qualiti/" local="131522071387231557" remote="131522071380000000" Dst="2" />
+<file name="ForbiddenOverwriteException.php" server="C:/xampp/htdocs/qualiti/" local="131522071387781991" remote="131522071380000000" Dst="2" />
+<file name="InvalidConfigurationException.php" server="C:/xampp/htdocs/qualiti/" local="131522071387591860" remote="131522071380000000" Dst="2" />
+<file name="InvalidDefinitionException.php" server="C:/xampp/htdocs/qualiti/" local="131522071388112225" remote="131522071380000000" Dst="2" />
+<file name="InvalidTypeException.php" server="C:/xampp/htdocs/qualiti/" local="131522071389013073" remote="131522071380000000" Dst="2" />
+<file name="UnsetKeyException.php" server="C:/xampp/htdocs/qualiti/" local="131522071389833715" remote="131522071380000000" Dst="2" />
 </dwsync>

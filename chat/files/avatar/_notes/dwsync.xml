@@ -3,7 +3,7 @@
 <file name=".keep" server="ftp.qualitiinternet.com.br/www/" local="131402905404041182" remote="130978188000000000" Dst="1" />
 <file name="4.jpg" server="ftp.qualitiinternet.com.br/www/" local="131522068696760518" remote="131314284000000000" Dst="1" />
 <file name="3.jpg" server="ftp.qualitiinternet.com.br/www/" local="131522068695931319" remote="131300460000000000" Dst="1" />
-<file name=".keep" server="C:/xampp/htdocs/qualiti/" local="131402905400000000" remote="131402905400000000" Dst="1" />
-<file name="3.jpg" server="C:/xampp/htdocs/qualiti/" local="131522068695931319" remote="131522068690000000" Dst="1" />
-<file name="4.jpg" server="C:/xampp/htdocs/qualiti/" local="131522068696760518" remote="131522068690000000" Dst="1" />
+<file name=".keep" server="C:/xampp/htdocs/qualiti/" local="131402905400000000" remote="131402905400000000" Dst="2" />
+<file name="3.jpg" server="C:/xampp/htdocs/qualiti/" local="131522068695931319" remote="131522068690000000" Dst="2" />
+<file name="4.jpg" server="C:/xampp/htdocs/qualiti/" local="131522068696760518" remote="131522068690000000" Dst="2" />
 </dwsync>

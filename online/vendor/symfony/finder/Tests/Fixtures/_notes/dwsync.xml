@@ -3,7 +3,7 @@
 <file name="ipsum.txt" server="ftp.qualitiinternet.com.br/www/" local="131522071692890191" remote="131316876000000000" Dst="1" />
 <file name="dolor.txt" server="ftp.qualitiinternet.com.br/www/" local="131522071693060312" remote="131316876000000000" Dst="1" />
 <file name="lorem.txt" server="ftp.qualitiinternet.com.br/www/" local="131522071693900955" remote="131316876000000000" Dst="1" />
-<file name="dolor.txt" server="C:/xampp/htdocs/qualiti/" local="131522071693060312" remote="131522071690000000" Dst="1" />
-<file name="ipsum.txt" server="C:/xampp/htdocs/qualiti/" local="131522071692890191" remote="131522071690000000" Dst="1" />
-<file name="lorem.txt" server="C:/xampp/htdocs/qualiti/" local="131522071693900955" remote="131522071690000000" Dst="1" />
+<file name="dolor.txt" server="C:/xampp/htdocs/qualiti/" local="131522071693060312" remote="131522071690000000" Dst="2" />
+<file name="ipsum.txt" server="C:/xampp/htdocs/qualiti/" local="131522071692890191" remote="131522071690000000" Dst="2" />
+<file name="lorem.txt" server="C:/xampp/htdocs/qualiti/" local="131522071693900955" remote="131522071690000000" Dst="2" />
 </dwsync>

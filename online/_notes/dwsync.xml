@@ -9,13 +9,13 @@
 <file name="cron.php" server="ftp.qualitiinternet.com.br/www/" local="131522070581730005" remote="131406525000000000" Dst="1" />
 <file name="index.php" server="ftp.qualitiinternet.com.br/www/" local="131522070582090290" remote="131406525000000000" Dst="1" />
 <file name="index_fallback.php" server="ftp.qualitiinternet.com.br/www/" local="131522070583261181" remote="131406525000000000" Dst="1" />
-<file name=".htaccess" server="C:/xampp/htdocs/qualiti/" local="131522070544156868" remote="131522070540000000" Dst="1" />
-<file name=".htaccess-ori" server="C:/xampp/htdocs/qualiti/" local="131522070545182860" remote="131522070540000000" Dst="1" />
-<file name="bk_install.php.bak" server="C:/xampp/htdocs/qualiti/" local="131522070546401588" remote="131522070540000000" Dst="1" />
-<file name="cron.php" server="C:/xampp/htdocs/qualiti/" local="131522070581730005" remote="131522070580000000" Dst="1" />
-<file name="index.php" server="C:/xampp/htdocs/qualiti/" local="131522070582090290" remote="131522070580000000" Dst="1" />
-<file name="index_fallback.php" server="C:/xampp/htdocs/qualiti/" local="131522070583261181" remote="131522070580000000" Dst="1" />
-<file name="LICENSE.txt" server="C:/xampp/htdocs/qualiti/" local="131522070544967669" remote="131522070540000000" Dst="1" />
-<file name="README.txt" server="C:/xampp/htdocs/qualiti/" local="131522070545077752" remote="131522070540000000" Dst="1" />
-<file name="VERSION.txt" server="C:/xampp/htdocs/qualiti/" local="131522070546501659" remote="131522070540000000" Dst="1" />
+<file name=".htaccess" server="C:/xampp/htdocs/qualiti/" local="131522070544156868" remote="131522070540000000" Dst="2" />
+<file name=".htaccess-ori" server="C:/xampp/htdocs/qualiti/" local="131522070545182860" remote="131522070540000000" Dst="2" />
+<file name="bk_install.php.bak" server="C:/xampp/htdocs/qualiti/" local="131522070546401588" remote="131522070540000000" Dst="2" />
+<file name="cron.php" server="C:/xampp/htdocs/qualiti/" local="131522070581730005" remote="131522070580000000" Dst="2" />
+<file name="index.php" server="C:/xampp/htdocs/qualiti/" local="131522070582090290" remote="131522070580000000" Dst="2" />
+<file name="index_fallback.php" server="C:/xampp/htdocs/qualiti/" local="131522070583261181" remote="131522070580000000" Dst="2" />
+<file name="LICENSE.txt" server="C:/xampp/htdocs/qualiti/" local="131522070544967669" remote="131522070540000000" Dst="2" />
+<file name="README.txt" server="C:/xampp/htdocs/qualiti/" local="131522070545077752" remote="131522070540000000" Dst="2" />
+<file name="VERSION.txt" server="C:/xampp/htdocs/qualiti/" local="131522070546501659" remote="131522070540000000" Dst="2" />
 </dwsync>

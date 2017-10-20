@@ -7,11 +7,11 @@
 <file name="NullOutput.php" server="ftp.qualitiinternet.com.br/www/" local="131522069517085065" remote="131406524400000000" Dst="1" />
 <file name="OutputInterface.php" server="ftp.qualitiinternet.com.br/www/" local="131522069517994445" remote="131406524400000000" Dst="1" />
 <file name="StreamOutput.php" server="ftp.qualitiinternet.com.br/www/" local="131522069518640813" remote="131406524400000000" Dst="1" />
-<file name="BufferedOutput.php" server="C:/xampp/htdocs/qualiti/" local="131522069514923150" remote="131522069510000000" Dst="1" />
-<file name="ConsoleOutput.php" server="C:/xampp/htdocs/qualiti/" local="131522069515443584" remote="131522069510000000" Dst="1" />
-<file name="ConsoleOutputInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522069516144256" remote="131522069510000000" Dst="1" />
-<file name="NullOutput.php" server="C:/xampp/htdocs/qualiti/" local="131522069517085065" remote="131522069510000000" Dst="1" />
-<file name="Output.php" server="C:/xampp/htdocs/qualiti/" local="131522069516734829" remote="131522069510000000" Dst="1" />
-<file name="OutputInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522069517994445" remote="131522069510000000" Dst="1" />
-<file name="StreamOutput.php" server="C:/xampp/htdocs/qualiti/" local="131522069518640813" remote="131522069510000000" Dst="1" />
+<file name="BufferedOutput.php" server="C:/xampp/htdocs/qualiti/" local="131522069514923150" remote="131522069510000000" Dst="2" />
+<file name="ConsoleOutput.php" server="C:/xampp/htdocs/qualiti/" local="131522069515443584" remote="131522069510000000" Dst="2" />
+<file name="ConsoleOutputInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522069516144256" remote="131522069510000000" Dst="2" />
+<file name="NullOutput.php" server="C:/xampp/htdocs/qualiti/" local="131522069517085065" remote="131522069510000000" Dst="2" />
+<file name="Output.php" server="C:/xampp/htdocs/qualiti/" local="131522069516734829" remote="131522069510000000" Dst="2" />
+<file name="OutputInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522069517994445" remote="131522069510000000" Dst="2" />
+<file name="StreamOutput.php" server="C:/xampp/htdocs/qualiti/" local="131522069518640813" remote="131522069510000000" Dst="2" />
 </dwsync>

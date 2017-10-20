@@ -7,11 +7,11 @@
 <file name="ServerController.php" server="ftp.qualitiinternet.com.br/www/" local="131522069083279604" remote="131406524400000000" Dst="1" />
 <file name="UsersController.php" server="ftp.qualitiinternet.com.br/www/" local="131522069083925066" remote="131406524400000000" Dst="1" />
 <file name="ThreadController.php" server="ftp.qualitiinternet.com.br/www/" local="131522069083885038" remote="131406524400000000" Dst="1" />
-<file name="AssetsController.php" server="C:/xampp/htdocs/qualiti/" local="131522069080847824" remote="131522069080000000" Dst="1" />
-<file name="CannedResponsesController.php" server="C:/xampp/htdocs/qualiti/" local="131522069082148776" remote="131522069080000000" Dst="1" />
-<file name="NotificationController.php" server="C:/xampp/htdocs/qualiti/" local="131522069082118751" remote="131522069080000000" Dst="1" />
-<file name="OperatorController.php" server="C:/xampp/htdocs/qualiti/" local="131522069082178789" remote="131522069080000000" Dst="1" />
-<file name="ServerController.php" server="C:/xampp/htdocs/qualiti/" local="131522069083279604" remote="131522069080000000" Dst="1" />
-<file name="ThreadController.php" server="C:/xampp/htdocs/qualiti/" local="131522069083885038" remote="131522069080000000" Dst="1" />
-<file name="UsersController.php" server="C:/xampp/htdocs/qualiti/" local="131522069083925066" remote="131522069080000000" Dst="1" />
+<file name="AssetsController.php" server="C:/xampp/htdocs/qualiti/" local="131522069080847824" remote="131522069080000000" Dst="2" />
+<file name="CannedResponsesController.php" server="C:/xampp/htdocs/qualiti/" local="131522069082148776" remote="131522069080000000" Dst="2" />
+<file name="NotificationController.php" server="C:/xampp/htdocs/qualiti/" local="131522069082118751" remote="131522069080000000" Dst="2" />
+<file name="OperatorController.php" server="C:/xampp/htdocs/qualiti/" local="131522069082178789" remote="131522069080000000" Dst="2" />
+<file name="ServerController.php" server="C:/xampp/htdocs/qualiti/" local="131522069083279604" remote="131522069080000000" Dst="2" />
+<file name="ThreadController.php" server="C:/xampp/htdocs/qualiti/" local="131522069083885038" remote="131522069080000000" Dst="2" />
+<file name="UsersController.php" server="C:/xampp/htdocs/qualiti/" local="131522069083925066" remote="131522069080000000" Dst="2" />
 </dwsync>

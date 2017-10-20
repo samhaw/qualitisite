@@ -4,8 +4,8 @@
 <file name="002_1.phpt" server="ftp.qualitiinternet.com.br/www/" local="131522071634666028" remote="131316876000000000" Dst="1" />
 <file name="002.phpt" server="ftp.qualitiinternet.com.br/www/" local="131522071635016285" remote="131316876000000000" Dst="1" />
 <file name="003.phpt" server="ftp.qualitiinternet.com.br/www/" local="131522071636107127" remote="131316876000000000" Dst="1" />
-<file name="001.phpt" server="C:/xampp/htdocs/qualiti/" local="131522071633520108" remote="131522071630000000" Dst="1" />
-<file name="002.phpt" server="C:/xampp/htdocs/qualiti/" local="131522071635016285" remote="131522071630000000" Dst="1" />
-<file name="002_1.phpt" server="C:/xampp/htdocs/qualiti/" local="131522071634666028" remote="131522071630000000" Dst="1" />
-<file name="003.phpt" server="C:/xampp/htdocs/qualiti/" local="131522071636107127" remote="131522071630000000" Dst="1" />
+<file name="001.phpt" server="C:/xampp/htdocs/qualiti/" local="131522071633520108" remote="131522071630000000" Dst="2" />
+<file name="002.phpt" server="C:/xampp/htdocs/qualiti/" local="131522071635016285" remote="131522071630000000" Dst="2" />
+<file name="002_1.phpt" server="C:/xampp/htdocs/qualiti/" local="131522071634666028" remote="131522071630000000" Dst="2" />
+<file name="003.phpt" server="C:/xampp/htdocs/qualiti/" local="131522071636107127" remote="131522071630000000" Dst="2" />
 </dwsync>

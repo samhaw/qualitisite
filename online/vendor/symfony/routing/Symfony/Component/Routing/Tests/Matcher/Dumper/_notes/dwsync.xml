@@ -4,8 +4,8 @@
 <file name="DumperCollectionTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071853279048" remote="131406525000000000" Dst="1" />
 <file name="LegacyApacheMatcherDumperTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071853714353" remote="131406525000000000" Dst="1" />
 <file name="PhpMatcherDumperTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071854514921" remote="131406525000000000" Dst="1" />
-<file name="DumperCollectionTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071853279048" remote="131522071850000000" Dst="1" />
-<file name="DumperPrefixCollectionTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071852838732" remote="131522071850000000" Dst="1" />
-<file name="LegacyApacheMatcherDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071853714353" remote="131522071850000000" Dst="1" />
-<file name="PhpMatcherDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071854514921" remote="131522071850000000" Dst="1" />
+<file name="DumperCollectionTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071853279048" remote="131522071850000000" Dst="2" />
+<file name="DumperPrefixCollectionTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071852838732" remote="131522071850000000" Dst="2" />
+<file name="LegacyApacheMatcherDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071853714353" remote="131522071850000000" Dst="2" />
+<file name="PhpMatcherDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071854514921" remote="131522071850000000" Dst="2" />
 </dwsync>

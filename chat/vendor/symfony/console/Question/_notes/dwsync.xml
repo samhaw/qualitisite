@@ -3,7 +3,7 @@
 <file name="ChoiceQuestion.php" server="ftp.qualitiinternet.com.br/www/" local="131522069518981033" remote="131406524400000000" Dst="1" />
 <file name="ConfirmationQuestion.php" server="ftp.qualitiinternet.com.br/www/" local="131522069519656585" remote="131406524400000000" Dst="1" />
 <file name="Question.php" server="ftp.qualitiinternet.com.br/www/" local="131522069520867256" remote="131406524400000000" Dst="1" />
-<file name="ChoiceQuestion.php" server="C:/xampp/htdocs/qualiti/" local="131522069518981033" remote="131522069510000000" Dst="1" />
-<file name="ConfirmationQuestion.php" server="C:/xampp/htdocs/qualiti/" local="131522069519656585" remote="131522069510000000" Dst="1" />
-<file name="Question.php" server="C:/xampp/htdocs/qualiti/" local="131522069520867256" remote="131522069520000000" Dst="1" />
+<file name="ChoiceQuestion.php" server="C:/xampp/htdocs/qualiti/" local="131522069518981033" remote="131522069510000000" Dst="2" />
+<file name="ConfirmationQuestion.php" server="C:/xampp/htdocs/qualiti/" local="131522069519656585" remote="131522069510000000" Dst="2" />
+<file name="Question.php" server="C:/xampp/htdocs/qualiti/" local="131522069520867256" remote="131522069520000000" Dst="2" />
 </dwsync>

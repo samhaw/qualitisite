@@ -8,12 +8,12 @@
 <file name="RedirectingPluginTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522069420420533" remote="131406524400000000" Dst="1" />
 <file name="ReporterPluginTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522069421546400" remote="131406524400000000" Dst="1" />
 <file name="ThrottlerPluginTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522069423413302" remote="131406524400000000" Dst="1" />
-<file name="AntiFloodPluginTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069416996296" remote="131522069410000000" Dst="1" />
-<file name="BandwidthMonitorPluginTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069416676065" remote="131522069410000000" Dst="1" />
-<file name="DecoratorPluginTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069417774229" remote="131522069410000000" Dst="1" />
-<file name="LoggerPluginTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069418424951" remote="131522069410000000" Dst="1" />
-<file name="PopBeforeSmtpPluginTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069420174029" remote="131522069420000000" Dst="1" />
-<file name="RedirectingPluginTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069420420533" remote="131522069420000000" Dst="1" />
-<file name="ReporterPluginTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069421546400" remote="131522069420000000" Dst="1" />
-<file name="ThrottlerPluginTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069423413302" remote="131522069420000000" Dst="1" />
+<file name="AntiFloodPluginTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069416996296" remote="131522069410000000" Dst="2" />
+<file name="BandwidthMonitorPluginTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069416676065" remote="131522069410000000" Dst="2" />
+<file name="DecoratorPluginTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069417774229" remote="131522069410000000" Dst="2" />
+<file name="LoggerPluginTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069418424951" remote="131522069410000000" Dst="2" />
+<file name="PopBeforeSmtpPluginTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069420174029" remote="131522069420000000" Dst="2" />
+<file name="RedirectingPluginTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069420420533" remote="131522069420000000" Dst="2" />
+<file name="ReporterPluginTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069421546400" remote="131522069420000000" Dst="2" />
+<file name="ThrottlerPluginTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069423413302" remote="131522069420000000" Dst="2" />
 </dwsync>

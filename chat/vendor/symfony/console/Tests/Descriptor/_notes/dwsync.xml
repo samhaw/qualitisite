@@ -6,10 +6,10 @@
 <file name="ObjectsProvider.php" server="ftp.qualitiinternet.com.br/www/" local="131522069534679739" remote="131406524400000000" Dst="1" />
 <file name="TextDescriptorTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522069535235299" remote="131406524400000000" Dst="1" />
 <file name="XmlDescriptorTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522069536048389" remote="131406524400000000" Dst="1" />
-<file name="AbstractDescriptorTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069533308514" remote="131522069530000000" Dst="1" />
-<file name="JsonDescriptorTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069533838890" remote="131522069530000000" Dst="1" />
-<file name="MarkdownDescriptorTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069534329704" remote="131522069530000000" Dst="1" />
-<file name="ObjectsProvider.php" server="C:/xampp/htdocs/qualiti/" local="131522069534679739" remote="131522069530000000" Dst="1" />
-<file name="TextDescriptorTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069535235299" remote="131522069530000000" Dst="1" />
-<file name="XmlDescriptorTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069536048389" remote="131522069530000000" Dst="1" />
+<file name="AbstractDescriptorTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069533308514" remote="131522069530000000" Dst="2" />
+<file name="JsonDescriptorTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069533838890" remote="131522069530000000" Dst="2" />
+<file name="MarkdownDescriptorTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069534329704" remote="131522069530000000" Dst="2" />
+<file name="ObjectsProvider.php" server="C:/xampp/htdocs/qualiti/" local="131522069534679739" remote="131522069530000000" Dst="2" />
+<file name="TextDescriptorTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069535235299" remote="131522069530000000" Dst="2" />
+<file name="XmlDescriptorTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069536048389" remote="131522069530000000" Dst="2" />
 </dwsync>

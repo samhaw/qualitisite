@@ -4,8 +4,8 @@
 <file name="layout.handlebars" server="ftp.qualitiinternet.com.br/www/" local="131522071050672349" remote="131316876000000000" Dst="1" />
 <file name="form.handlebars" server="ftp.qualitiinternet.com.br/www/" local="131522071050772424" remote="131316876000000000" Dst="1" />
 <file name="sent_description.handlebars" server="ftp.qualitiinternet.com.br/www/" local="131522071051482992" remote="131316876000000000" Dst="1" />
-<file name="description.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071049641575" remote="131522071040000000" Dst="1" />
-<file name="form.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071050772424" remote="131522071050000000" Dst="1" />
-<file name="layout.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071050672349" remote="131522071050000000" Dst="1" />
-<file name="sent_description.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071051482992" remote="131522071050000000" Dst="1" />
+<file name="description.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071049641575" remote="131522071040000000" Dst="2" />
+<file name="form.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071050772424" remote="131522071050000000" Dst="2" />
+<file name="layout.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071050672349" remote="131522071050000000" Dst="2" />
+<file name="sent_description.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071051482992" remote="131522071050000000" Dst="2" />
 </dwsync>

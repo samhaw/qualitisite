@@ -8,7 +8,7 @@
     <meta name="author" content="">
     
     <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/style-02.css" rel="stylesheet">
+    <link href="css/style-04.css" rel="stylesheet">
     <link rel="stylesheet" id="prettyphoto-css"  href="css/prettyPhoto.css" type="text/css" media="all">
     <link href="css/fontello.css" type="text/css" rel="stylesheet">
     <!--[if lt IE 7]>

@@ -4,8 +4,8 @@
 <file name="LegacyApacheUrlMatcherTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071855725780" remote="131406525000000000" Dst="1" />
 <file name="TraceableUrlMatcherTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071856591390" remote="131406525000000000" Dst="1" />
 <file name="UrlMatcherTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071857632158" remote="131406525000000000" Dst="1" />
-<file name="LegacyApacheUrlMatcherTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071855725780" remote="131522071850000000" Dst="1" />
-<file name="RedirectableUrlMatcherTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071855325496" remote="131522071850000000" Dst="1" />
-<file name="TraceableUrlMatcherTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071856591390" remote="131522071850000000" Dst="1" />
-<file name="UrlMatcherTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071857632158" remote="131522071850000000" Dst="1" />
+<file name="LegacyApacheUrlMatcherTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071855725780" remote="131522071850000000" Dst="2" />
+<file name="RedirectableUrlMatcherTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071855325496" remote="131522071850000000" Dst="2" />
+<file name="TraceableUrlMatcherTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071856591390" remote="131522071850000000" Dst="2" />
+<file name="UrlMatcherTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071857632158" remote="131522071850000000" Dst="2" />
 </dwsync>

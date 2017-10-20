@@ -9,13 +9,13 @@
 <file name="NullSessionHandlerTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522070098285121" remote="131406524400000000" Dst="1" />
 <file name="PdoSessionHandlerTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522070099235847" remote="131406524400000000" Dst="1" />
 <file name="WriteCheckSessionHandlerTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522070099696186" remote="131406524400000000" Dst="1" />
-<file name="LegacyPdoSessionHandlerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070093490634" remote="131522070090000000" Dst="1" />
-<file name="MemcachedSessionHandlerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070094879051" remote="131522070090000000" Dst="1" />
-<file name="MemcacheSessionHandlerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070093920995" remote="131522070090000000" Dst="1" />
-<file name="MongoDbSessionHandlerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070097045750" remote="131522070090000000" Dst="1" />
-<file name="NativeFileSessionHandlerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070095964932" remote="131522070090000000" Dst="1" />
-<file name="NativeSessionHandlerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070097636250" remote="131522070090000000" Dst="1" />
-<file name="NullSessionHandlerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070098285121" remote="131522070090000000" Dst="1" />
-<file name="PdoSessionHandlerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070099235847" remote="131522070090000000" Dst="1" />
-<file name="WriteCheckSessionHandlerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070099696186" remote="131522070090000000" Dst="1" />
+<file name="LegacyPdoSessionHandlerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070093490634" remote="131522070090000000" Dst="2" />
+<file name="MemcachedSessionHandlerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070094879051" remote="131522070090000000" Dst="2" />
+<file name="MemcacheSessionHandlerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070093920995" remote="131522070090000000" Dst="2" />
+<file name="MongoDbSessionHandlerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070097045750" remote="131522070090000000" Dst="2" />
+<file name="NativeFileSessionHandlerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070095964932" remote="131522070090000000" Dst="2" />
+<file name="NativeSessionHandlerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070097636250" remote="131522070090000000" Dst="2" />
+<file name="NullSessionHandlerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070098285121" remote="131522070090000000" Dst="2" />
+<file name="PdoSessionHandlerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070099235847" remote="131522070090000000" Dst="2" />
+<file name="WriteCheckSessionHandlerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070099696186" remote="131522070090000000" Dst="2" />
 </dwsync>

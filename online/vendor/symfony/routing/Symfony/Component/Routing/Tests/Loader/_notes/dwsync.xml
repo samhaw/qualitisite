@@ -8,12 +8,12 @@
 <file name="PhpFileLoaderTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071850757255" remote="131406525000000000" Dst="1" />
 <file name="XmlFileLoaderTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071851843025" remote="131406525000000000" Dst="1" />
 <file name="YamlFileLoaderTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071852188270" remote="131406525000000000" Dst="1" />
-<file name="AbstractAnnotationLoaderTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071846108953" remote="131522071840000000" Dst="1" />
-<file name="AnnotationClassLoaderTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071846919528" remote="131522071840000000" Dst="1" />
-<file name="AnnotationDirectoryLoaderTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071848475636" remote="131522071840000000" Dst="1" />
-<file name="AnnotationFileLoaderTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071848915953" remote="131522071840000000" Dst="1" />
-<file name="ClosureLoaderTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071849336247" remote="131522071840000000" Dst="1" />
-<file name="PhpFileLoaderTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071850757255" remote="131522071850000000" Dst="1" />
-<file name="XmlFileLoaderTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071851843025" remote="131522071850000000" Dst="1" />
-<file name="YamlFileLoaderTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071852188270" remote="131522071850000000" Dst="1" />
+<file name="AbstractAnnotationLoaderTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071846108953" remote="131522071840000000" Dst="2" />
+<file name="AnnotationClassLoaderTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071846919528" remote="131522071840000000" Dst="2" />
+<file name="AnnotationDirectoryLoaderTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071848475636" remote="131522071840000000" Dst="2" />
+<file name="AnnotationFileLoaderTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071848915953" remote="131522071840000000" Dst="2" />
+<file name="ClosureLoaderTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071849336247" remote="131522071840000000" Dst="2" />
+<file name="PhpFileLoaderTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071850757255" remote="131522071850000000" Dst="2" />
+<file name="XmlFileLoaderTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071851843025" remote="131522071850000000" Dst="2" />
+<file name="YamlFileLoaderTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071852188270" remote="131522071850000000" Dst="2" />
 </dwsync>

@@ -5,9 +5,9 @@
 <file name="FetchCommand.php" server="ftp.qualitiinternet.com.br/www/" local="131522070339395806" remote="131406524400000000" Dst="1" />
 <file name="ParserCommand.php" server="ftp.qualitiinternet.com.br/www/" local="131522070340181368" remote="131406524400000000" Dst="1" />
 <file name="UpdateCommand.php" server="ftp.qualitiinternet.com.br/www/" local="131522070341277149" remote="131406524400000000" Dst="1" />
-<file name="ConvertCommand.php" server="C:/xampp/htdocs/qualiti/" local="131522070337339313" remote="131522070330000000" Dst="1" />
-<file name="FetchCommand.php" server="C:/xampp/htdocs/qualiti/" local="131522070339395806" remote="131522070330000000" Dst="1" />
-<file name="LogfileCommand.php" server="C:/xampp/htdocs/qualiti/" local="131522070338265000" remote="131522070330000000" Dst="1" />
-<file name="ParserCommand.php" server="C:/xampp/htdocs/qualiti/" local="131522070340181368" remote="131522070340000000" Dst="1" />
-<file name="UpdateCommand.php" server="C:/xampp/htdocs/qualiti/" local="131522070341277149" remote="131522070340000000" Dst="1" />
+<file name="ConvertCommand.php" server="C:/xampp/htdocs/qualiti/" local="131522070337339313" remote="131522070330000000" Dst="2" />
+<file name="FetchCommand.php" server="C:/xampp/htdocs/qualiti/" local="131522070339395806" remote="131522070330000000" Dst="2" />
+<file name="LogfileCommand.php" server="C:/xampp/htdocs/qualiti/" local="131522070338265000" remote="131522070330000000" Dst="2" />
+<file name="ParserCommand.php" server="C:/xampp/htdocs/qualiti/" local="131522070340181368" remote="131522070340000000" Dst="2" />
+<file name="UpdateCommand.php" server="C:/xampp/htdocs/qualiti/" local="131522070341277149" remote="131522070340000000" Dst="2" />
 </dwsync>

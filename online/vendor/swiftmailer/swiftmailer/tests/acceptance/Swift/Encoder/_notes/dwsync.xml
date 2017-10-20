@@ -3,7 +3,7 @@
 <file name="Base64EncoderAcceptanceTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071296024504" remote="131406525000000000" Dst="1" />
 <file name="QpEncoderAcceptanceTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071296815121" remote="131406525000000000" Dst="1" />
 <file name="Rfc2231EncoderAcceptanceTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071297085317" remote="131406525000000000" Dst="1" />
-<file name="Base64EncoderAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071296024504" remote="131522071290000000" Dst="1" />
-<file name="QpEncoderAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071296815121" remote="131522071290000000" Dst="1" />
-<file name="Rfc2231EncoderAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071297085317" remote="131522071290000000" Dst="1" />
+<file name="Base64EncoderAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071296024504" remote="131522071290000000" Dst="2" />
+<file name="QpEncoderAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071296815121" remote="131522071290000000" Dst="2" />
+<file name="Rfc2231EncoderAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071297085317" remote="131522071290000000" Dst="2" />
 </dwsync>

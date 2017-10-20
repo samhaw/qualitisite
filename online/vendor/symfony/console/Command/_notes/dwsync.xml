@@ -4,8 +4,8 @@
 <file name="HelpCommand.php" server="ftp.qualitiinternet.com.br/www/" local="131522071432075395" remote="131406525000000000" Dst="1" />
 <file name="ListCommand.php" server="ftp.qualitiinternet.com.br/www/" local="131522071432660853" remote="131406525000000000" Dst="1" />
 <file name="LockableTrait.php" server="ftp.qualitiinternet.com.br/www/" local="131522071433781708" remote="131406525000000000" Dst="1" />
-<file name="Command.php" server="C:/xampp/htdocs/qualiti/" local="131522071431220113" remote="131522071430000000" Dst="1" />
-<file name="HelpCommand.php" server="C:/xampp/htdocs/qualiti/" local="131522071432075395" remote="131522071430000000" Dst="1" />
-<file name="ListCommand.php" server="C:/xampp/htdocs/qualiti/" local="131522071432660853" remote="131522071430000000" Dst="1" />
-<file name="LockableTrait.php" server="C:/xampp/htdocs/qualiti/" local="131522071433781708" remote="131522071430000000" Dst="1" />
+<file name="Command.php" server="C:/xampp/htdocs/qualiti/" local="131522071431220113" remote="131522071430000000" Dst="2" />
+<file name="HelpCommand.php" server="C:/xampp/htdocs/qualiti/" local="131522071432075395" remote="131522071430000000" Dst="2" />
+<file name="ListCommand.php" server="C:/xampp/htdocs/qualiti/" local="131522071432660853" remote="131522071430000000" Dst="2" />
+<file name="LockableTrait.php" server="C:/xampp/htdocs/qualiti/" local="131522071433781708" remote="131522071430000000" Dst="2" />
 </dwsync>

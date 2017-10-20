@@ -8,12 +8,12 @@
 <file name="SimpleHeaderSetTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071346818606" remote="131406525000000000" Dst="1" />
 <file name="SimpleMessageTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071347864562" remote="131406525000000000" Dst="1" />
 <file name="SimpleMimeEntityTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071348061047" remote="131406525000000000" Dst="1" />
-<file name="AbstractMimeEntityTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071335494671" remote="131522071330000000" Dst="1" />
-<file name="AttachmentTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071336415363" remote="131522071330000000" Dst="1" />
-<file name="EmbeddedFileTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071339434295" remote="131522071330000000" Dst="1" />
-<file name="MimePartTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071344591886" remote="131522071340000000" Dst="1" />
-<file name="SimpleHeaderFactoryTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071345942947" remote="131522071340000000" Dst="1" />
-<file name="SimpleHeaderSetTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071346818606" remote="131522071340000000" Dst="1" />
-<file name="SimpleMessageTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071347864562" remote="131522071340000000" Dst="1" />
-<file name="SimpleMimeEntityTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071348061047" remote="131522071340000000" Dst="1" />
+<file name="AbstractMimeEntityTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071335494671" remote="131522071330000000" Dst="2" />
+<file name="AttachmentTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071336415363" remote="131522071330000000" Dst="2" />
+<file name="EmbeddedFileTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071339434295" remote="131522071330000000" Dst="2" />
+<file name="MimePartTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071344591886" remote="131522071340000000" Dst="2" />
+<file name="SimpleHeaderFactoryTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071345942947" remote="131522071340000000" Dst="2" />
+<file name="SimpleHeaderSetTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071346818606" remote="131522071340000000" Dst="2" />
+<file name="SimpleMessageTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071347864562" remote="131522071340000000" Dst="2" />
+<file name="SimpleMimeEntityTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071348061047" remote="131522071340000000" Dst="2" />
 </dwsync>

@@ -7,11 +7,11 @@
 <file name="InputTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071591062155" remote="131406525000000000" Dst="1" />
 <file name="InputOptionTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071591612546" remote="131406525000000000" Dst="1" />
 <file name="StringInputTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071592643341" remote="131406525000000000" Dst="1" />
-<file name="ArgvInputTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071587356813" remote="131522071580000000" Dst="1" />
-<file name="ArrayInputTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071587867166" remote="131522071580000000" Dst="1" />
-<file name="InputArgumentTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071589229188" remote="131522071580000000" Dst="1" />
-<file name="InputDefinitionTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071589914700" remote="131522071580000000" Dst="1" />
-<file name="InputOptionTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071591612546" remote="131522071590000000" Dst="1" />
-<file name="InputTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071591062155" remote="131522071590000000" Dst="1" />
-<file name="StringInputTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071592643341" remote="131522071590000000" Dst="1" />
+<file name="ArgvInputTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071587356813" remote="131522071580000000" Dst="2" />
+<file name="ArrayInputTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071587867166" remote="131522071580000000" Dst="2" />
+<file name="InputArgumentTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071589229188" remote="131522071580000000" Dst="2" />
+<file name="InputDefinitionTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071589914700" remote="131522071580000000" Dst="2" />
+<file name="InputOptionTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071591612546" remote="131522071590000000" Dst="2" />
+<file name="InputTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071591062155" remote="131522071590000000" Dst="2" />
+<file name="StringInputTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071592643341" remote="131522071590000000" Dst="2" />
 </dwsync>

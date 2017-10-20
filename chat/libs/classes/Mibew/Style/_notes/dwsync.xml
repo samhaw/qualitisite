@@ -6,10 +6,10 @@
 <file name="InvitationStyle.php" server="ftp.qualitiinternet.com.br/www/" local="131522068893603201" remote="131406524400000000" Dst="1" />
 <file name="PageStyle.php" server="ftp.qualitiinternet.com.br/www/" local="131522068894263661" remote="131406524400000000" Dst="1" />
 <file name="StyleInterface.php" server="ftp.qualitiinternet.com.br/www/" local="131522068894670471" remote="131406524400000000" Dst="1" />
-<file name="AbstractHandlebarsPoweredStyle.php" server="C:/xampp/htdocs/qualiti/" local="131522068891871862" remote="131522068890000000" Dst="1" />
-<file name="AbstractStyle.php" server="C:/xampp/htdocs/qualiti/" local="131522068892537368" remote="131522068890000000" Dst="1" />
-<file name="ChatStyle.php" server="C:/xampp/htdocs/qualiti/" local="131522068892962704" remote="131522068890000000" Dst="1" />
-<file name="InvitationStyle.php" server="C:/xampp/htdocs/qualiti/" local="131522068893603201" remote="131522068890000000" Dst="1" />
-<file name="PageStyle.php" server="C:/xampp/htdocs/qualiti/" local="131522068894263661" remote="131522068890000000" Dst="1" />
-<file name="StyleInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522068894670471" remote="131522068890000000" Dst="1" />
+<file name="AbstractHandlebarsPoweredStyle.php" server="C:/xampp/htdocs/qualiti/" local="131522068891871862" remote="131522068890000000" Dst="2" />
+<file name="AbstractStyle.php" server="C:/xampp/htdocs/qualiti/" local="131522068892537368" remote="131522068890000000" Dst="2" />
+<file name="ChatStyle.php" server="C:/xampp/htdocs/qualiti/" local="131522068892962704" remote="131522068890000000" Dst="2" />
+<file name="InvitationStyle.php" server="C:/xampp/htdocs/qualiti/" local="131522068893603201" remote="131522068890000000" Dst="2" />
+<file name="PageStyle.php" server="C:/xampp/htdocs/qualiti/" local="131522068894263661" remote="131522068890000000" Dst="2" />
+<file name="StyleInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522068894670471" remote="131522068890000000" Dst="2" />
 </dwsync>

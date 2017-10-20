@@ -6,10 +6,10 @@
 <file name="ChatStyle.php" server="ftp.qualitiinternet.com.br/www/" local="131522070824882472" remote="131406525000000000" Dst="1" />
 <file name="PageStyle.php" server="ftp.qualitiinternet.com.br/www/" local="131522070825983309" remote="131406525000000000" Dst="1" />
 <file name="StyleInterface.php" server="ftp.qualitiinternet.com.br/www/" local="131522070826533725" remote="131406525000000000" Dst="1" />
-<file name="AbstractHandlebarsPoweredStyle.php" server="C:/xampp/htdocs/qualiti/" local="131522070823273360" remote="131522070820000000" Dst="1" />
-<file name="AbstractStyle.php" server="C:/xampp/htdocs/qualiti/" local="131522070822898060" remote="131522070820000000" Dst="1" />
-<file name="ChatStyle.php" server="C:/xampp/htdocs/qualiti/" local="131522070824882472" remote="131522070820000000" Dst="1" />
-<file name="InvitationStyle.php" server="C:/xampp/htdocs/qualiti/" local="131522070824322040" remote="131522070820000000" Dst="1" />
-<file name="PageStyle.php" server="C:/xampp/htdocs/qualiti/" local="131522070825983309" remote="131522070820000000" Dst="1" />
-<file name="StyleInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522070826533725" remote="131522070820000000" Dst="1" />
+<file name="AbstractHandlebarsPoweredStyle.php" server="C:/xampp/htdocs/qualiti/" local="131522070823273360" remote="131522070820000000" Dst="2" />
+<file name="AbstractStyle.php" server="C:/xampp/htdocs/qualiti/" local="131522070822898060" remote="131522070820000000" Dst="2" />
+<file name="ChatStyle.php" server="C:/xampp/htdocs/qualiti/" local="131522070824882472" remote="131522070820000000" Dst="2" />
+<file name="InvitationStyle.php" server="C:/xampp/htdocs/qualiti/" local="131522070824322040" remote="131522070820000000" Dst="2" />
+<file name="PageStyle.php" server="C:/xampp/htdocs/qualiti/" local="131522070825983309" remote="131522070820000000" Dst="2" />
+<file name="StyleInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522070826533725" remote="131522070820000000" Dst="2" />
 </dwsync>

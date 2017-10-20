@@ -1,0 +1,438 @@
+.modal-footer{
+	padding: 0;
+}
+.bootbox-body{
+	text-align: center;
+	font-size: 1em;
+}
+.ajuste-aviso{
+
+}
+ .modal-footer .btn-primary{
+	margin: 0;
+	align-content: center;
+	justify-content: center;
+	width: 100%;
+	text-align: center;
+	padding: 1em;
+	height: 3em;
+}
+
+.link-custom:link{
+	color: #312A1E;
+}
+.link-custom:hover{
+	color: #6C5C42;
+	text-decoration: none;
+}
+.link-custom:active{
+	color: #1AC913;
+}
+.link-custom:visited{
+	color: #6C5C42;
+}
+
+.link-custom p:link{
+	color: #312A1E;
+}
+.link-custom p:hover{
+	color: #F0BF00;
+	text-decoration: none;
+}
+.link-custom p:active{
+	color: #1AC913;
+}
+.link-custom p:visited{
+	color: #312A1E;
+}
+#services a{
+	color: #312A1E;
+	text-decoration: none;
+	text-align: justify;
+}
+#services p{
+	text-align: justify;
+}
+.box{
+	padding: 1em;
+}
+
+.footer-wrapper small{
+	font: normal;
+	font-family:  'Patua One', cursive, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#telefone-float{
+	background-color: #f0bf00;
+	z-index: 500; 
+	position: absolute; 
+/*	filter:opacity(alpha=10);
+	-moz-opacity:1;
+	opacity:0.7;*/
+	box-shadow: color black;
+	border-radius:0 0 0.8em 0.8em;
+	text-align: center;
+	padding: 0 0.4em;
+	margin: 0.5em 0 0 3em;
+}
+#telefone-float a{
+	font-size: 0.8em;
+	font-weight: bolder;
+	color: #0b333f;
+}
+#logo{
+	position: relative;
+	z-index: 10;
+	margin:1.7em 0 0 0;
+}
+
+#span-logo img{
+	background-size: cover;
+}
+/*Modifica a posicao do Menu Principal*/
+#menu-main{
+	padding: 0;
+	margin: 0.6em 0 0;
+}
+.navbar-inner{
+	z-index: 5;
+	padding: 0.5em 0;
+}
+
+/*.navbar .btn-navbar {
+	margin: 1em 0 0;
+}*/
+.navbar-wrapper {
+}
+
+h1, header h4{
+	text-shadow: #999 1px 2px 2px;
+	-webkit-text-shadow: #999 1px 2px 2px;
+	-webkit-text-shadow: #999 1px 2px 2px;
+}
+#icon-atalhos{
+	margin-top: 1em;
+}
+#input-servico{
+	width: 0px;
+	margin: 0px;
+	padding: 0px;
+	background: #9D13C9;
+}
+/* input[type=tel] {
+ 	font-size: 1em;
+	width: 100%;
+}*/
+#span-logo {
+	margin-top: -1.3em;
+}
+#input-servico{
+	width: 0px;
+	margin: 0px;
+	padding: 0px;
+	background: #9D13C9;
+}
+/*.your-tel{
+	margin-bottom: 1.5em;
+}
+*/
+
+/*Modificar Label de campos requeridos*/
+label{
+	position: absolute;
+	margin-top: -6.7em;
+	background: #FF0004;	
+	filter:opacity(alpha=10);
+	-moz-opacity:1;
+	opacity:0.7;
+	border-radius: 0.5em 0.5em 0 0;
+	width: auto;
+	padding: 0 1em;
+	font-size: auto;
+	color: whitesmoke;
+}
+.error{
+	z-index: -1;
+}
+#plano-error{
+	margin-top: 0.5em;	
+	position: relative;
+	float: left;
+	background: url("../img/yellow.png") repeat;	
+	filter:opacity(alpha=10);
+	-moz-opacity:1;
+	opacity:0.7;
+	box-shadow: color black;
+	border-radius: 0.5em;
+	padding: 0 3em;
+	font-size: 0.8em;
+	color: blue;
+	font-weight: bold;
+}
+
+/*Escolha de Planos*/
+/*.selecionar-method{
+	position: relative;
+	margin-top: 0;
+	border-radius: 0.5em;
+	padding: 0px;
+	border: 0px;
+	height: 15em;
+}
+*/
+.selecionar label{
+	margin-top: 0;	
+	position: absolute;
+	float: none;
+	border-radius: 0;
+	padding: 0;
+	font-size: 0;
+	color: blue;
+	font-weight: bold;
+	filter:opacity(alpha=100);
+	-moz-opacity:10;
+	opacity:10;
+}
+
+.selecionar {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.selecionar:after {
+  content: "";
+  clear: both;
+}
+ @-ms-viewport {
+ width: device-width;
+}
+.sel {
+  position: relative;
+  box-sizing: border-box;
+  float: left;
+  border: 0 solid #ccc;
+  height: 15em;	
+}
+
+@media (max-width: 480px) { 
+	.sel {
+		height: 6em;	
+		margin-bottom: 1em;
+	}
+}
+ @media (min-width: 667px) and (max-width: 375em) {
+	.sel {
+		height: 10em;
+		margin-bottom: 1em;		
+	}
+} 
+@media (max-width: 767px) {
+	.sel {
+		height: 2em;
+		margin-bottom: 1em;		
+	}
+		#telefone-float{
+				margin: 1.6em 0 0 0.4em;
+		}
+}
+@media (min-width: 736px) and (max-width: 414px) {
+	.sel {
+		height: 15em;	
+	}
+}
+@media (min-width: 768px) and (max-width: 979px) {
+	.sel {
+		height: 15em;	
+	}
+}
+ @media (max-width: 979px) {
+	.sel {
+		height: 10em;	
+	}
+	#telefone-float{
+	margin: 1.6em 0 0 0.4em;
+ }	 
+}
+ @media (min-width: 980px) {
+	.sel {
+		height: 10em;	
+	}
+}
+ @media (min-width: 1200px) {
+	.sel {
+		height: 12em;	
+	}
+}
+ @media (max-width: 1px) {
+	 
+	 #headerwrap {
+	}
+}
+
+.sel input{
+  height: 100px;
+  cursor: pointer;
+  display: block;
+  position: absolute;
+  margin: 0;
+  padding: 0;
+}
+
+.sel + .sel {
+}
+
+.sel label{
+  bottom: 0px;
+  cursor: pointer;
+  display: block;
+  font-size: 0;
+  left: 0;
+  position: absolute;
+  right: 1px;
+  text-indent: 100%;
+  top: 0;
+  white-space: nowrap;	
+  margin: 0;
+  padding: 0;
+}
+
+.pc8Mbps label {
+  background: url("../img/8Mbps-SemPromocao.png") no-repeat;
+  background-size: cover;
+}
+
+.pc16Mbps label {
+  background: url("../img/16Mbps-SemPromocao.png") no-repeat;
+  background-size: cover;	
+}
+
+.pc32Mbps label {
+  background: url("../img/32Mbps-SemPromocao.png") no-repeat;
+  background-size: cover;	
+}
+
+.selecionar input:focus + label {
+  outline: 2px dotted #F0BF00;
+}
+
+.selecionar input:checked + label {
+  outline: 2px solid #FFBE00;
+}
+
+.selecionar input:checked + label:after {
+  background: url(../img/checked-64-amarelo.png);
+  bottom: -2px;
+  content: "";
+  display: inline-block;
+  height: 64px;
+  position: absolute;
+  right: -3px;
+  width: 64px;
+}
+
+
+mark{
+	background-color: #f0bf00;
+	opacity: 0.8;
+	filter: alpha(opacity=80); /* For IE8 and earlier */
+	-moz-opacity:1;
+	border-radius: 0.5em 0.5em 0 0;
+	padding: 0 1em;
+	color: whitesmoke;
+	margin-bottom: -2px;
+	color: #525252;
+	font-size: 1em;
+	position: absolute;
+	margin-top: 0;
+}
+.email-enviado {
+	background-color: #f0bf00;
+	filter:opacity(alpha=10);
+	-moz-opacity:1;
+	opacity:0.7;
+}
+
+#data-nascimento{
+	font-size: 1em;
+	color: #8C8C8C;
+	margin-right: 0;
+	width: 100%;
+}
+
+@-moz-document url-prefix() {
+  .selecionar input:checked + label:after {
+    bottom: 0;
+    right: 0;
+    background-color: #21b4d0;
+  }
+}
+
+.ui-dialog{
+	z-index: 10;
+}
+#imgmodal{height: 50%; width: auto}
+
+body{
+	font-weight: normal; /* reset default browser weight for our webfonts */
+	font-family:  'Patua One', cursive, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+	#telefone-float{
+		margin-left: 0.4em;
+	}
+
+
+@import('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.0/css/bootstrap.min.css') .funkyradio div {
+    clear: both;
+    /*margin: 0 50px;*/
+    overflow: hidden;
+}
+.funkyradio label{
+	color: 0;
+	background: 0;
+}
+.funkyradio label {
+    /*min-width: 400px;*/
+    width: 80%;
+    border-radius: 3px;
+    border: 1px solid #0b333f;
+    font-weight: normal;
+}
+.funkyradio input[type="radio"]:empty {
+    display: none;
+}
+.funkyradio input[type="radio"]:empty ~ label {
+    position: relative;
+    line-height: 2.5em;
+    text-indent: 3.25em;
+    margin-top: 2em;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.funkyradio input[type="radio"]:empty ~ label:before{
+    position: absolute;
+    display: block;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    content:'';
+    width: 2.5em;
+    background: #fff;
+    border-radius: 3px 0 0 3px;
+}
+.funkyradio input[type="radio"]:checked ~ label:before{
+    content:'\2714';
+    text-indent: .9em;
+    color: #0b333f;
+    background-color: #f0bf00;
+}
+.funkyradio input[type="radio"]:checked ~ label{
+    color: #f0bf00;
+}
+.funkyradio-primary input[type="radio"]:checked ~ label:before{
+    color: #fff;
+    background-color: #f0bf00;
+}

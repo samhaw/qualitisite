@@ -4,8 +4,8 @@
 <file name=".unknownextension" server="ftp.qualitiinternet.com.br/www/" local="131522070073827266" remote="130978188000000000" Dst="1" />
 <file name="test" server="ftp.qualitiinternet.com.br/www/" local="131522070074468439" remote="130978188000000000" Dst="1" />
 <file name="test.gif" server="ftp.qualitiinternet.com.br/www/" local="131522070075098895" remote="130978188000000000" Dst="1" />
-<file name=".unknownextension" server="C:/xampp/htdocs/qualiti/" local="131522070073827266" remote="131522070070000000" Dst="1" />
-<file name="other-file.example" server="C:/xampp/htdocs/qualiti/" local="131522070072816498" remote="131522070070000000" Dst="1" />
-<file name="test" server="C:/xampp/htdocs/qualiti/" local="131522070074468439" remote="131522070070000000" Dst="1" />
-<file name="test.gif" server="C:/xampp/htdocs/qualiti/" local="131522070075098895" remote="131522070070000000" Dst="1" />
+<file name=".unknownextension" server="C:/xampp/htdocs/qualiti/" local="131522070073827266" remote="131522070070000000" Dst="2" />
+<file name="other-file.example" server="C:/xampp/htdocs/qualiti/" local="131522070072816498" remote="131522070070000000" Dst="2" />
+<file name="test" server="C:/xampp/htdocs/qualiti/" local="131522070074468439" remote="131522070070000000" Dst="2" />
+<file name="test.gif" server="C:/xampp/htdocs/qualiti/" local="131522070075098895" remote="131522070070000000" Dst="2" />
 </dwsync>

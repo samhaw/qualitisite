@@ -5,9 +5,9 @@
 <file name="Template.php" server="ftp.qualitiinternet.com.br/www/" local="131522068873211257" remote="131406524400000000" Dst="1" />
 <file name="Utils.php" server="ftp.qualitiinternet.com.br/www/" local="131522068874712454" remote="131406524400000000" Dst="1" />
 <file name="MailerFactoryInterface.php" server="ftp.qualitiinternet.com.br/www/" local="131522068872780947" remote="131406524400000000" Dst="1" />
-<file name="MailerFactory.php" server="C:/xampp/htdocs/qualiti/" local="131522068871942326" remote="131522068870000000" Dst="1" />
-<file name="MailerFactoryAwareInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522068872861008" remote="131522068870000000" Dst="1" />
-<file name="MailerFactoryInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522068872780947" remote="131522068870000000" Dst="1" />
-<file name="Template.php" server="C:/xampp/htdocs/qualiti/" local="131522068873211257" remote="131522068870000000" Dst="1" />
-<file name="Utils.php" server="C:/xampp/htdocs/qualiti/" local="131522068874712454" remote="131522068870000000" Dst="1" />
+<file name="MailerFactory.php" server="C:/xampp/htdocs/qualiti/" local="131522068871942326" remote="131522068870000000" Dst="2" />
+<file name="MailerFactoryAwareInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522068872861008" remote="131522068870000000" Dst="2" />
+<file name="MailerFactoryInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522068872780947" remote="131522068870000000" Dst="2" />
+<file name="Template.php" server="C:/xampp/htdocs/qualiti/" local="131522068873211257" remote="131522068870000000" Dst="2" />
+<file name="Utils.php" server="C:/xampp/htdocs/qualiti/" local="131522068874712454" remote="131522068870000000" Dst="2" />
 </dwsync>

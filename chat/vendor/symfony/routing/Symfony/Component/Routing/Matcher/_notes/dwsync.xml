@@ -7,11 +7,11 @@
 <file name="TraceableUrlMatcher.php" server="ftp.qualitiinternet.com.br/www/" local="131522070130681107" remote="131406524400000000" Dst="1" />
 <file name="UrlMatcher.php" server="ftp.qualitiinternet.com.br/www/" local="131522070131311597" remote="131406524400000000" Dst="1" />
 <file name="UrlMatcherInterface.php" server="ftp.qualitiinternet.com.br/www/" local="131522070131882357" remote="131406524400000000" Dst="1" />
-<file name="ApacheUrlMatcher.php" server="C:/xampp/htdocs/qualiti/" local="131522070125024406" remote="131522070120000000" Dst="1" />
-<file name="RedirectableUrlMatcher.php" server="C:/xampp/htdocs/qualiti/" local="131522070128519492" remote="131522070120000000" Dst="1" />
-<file name="RedirectableUrlMatcherInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522070129720391" remote="131522070120000000" Dst="1" />
-<file name="RequestMatcherInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522070130210778" remote="131522070130000000" Dst="1" />
-<file name="TraceableUrlMatcher.php" server="C:/xampp/htdocs/qualiti/" local="131522070130681107" remote="131522070130000000" Dst="1" />
-<file name="UrlMatcher.php" server="C:/xampp/htdocs/qualiti/" local="131522070131311597" remote="131522070130000000" Dst="1" />
-<file name="UrlMatcherInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522070131882357" remote="131522070130000000" Dst="1" />
+<file name="ApacheUrlMatcher.php" server="C:/xampp/htdocs/qualiti/" local="131522070125024406" remote="131522070120000000" Dst="2" />
+<file name="RedirectableUrlMatcher.php" server="C:/xampp/htdocs/qualiti/" local="131522070128519492" remote="131522070120000000" Dst="2" />
+<file name="RedirectableUrlMatcherInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522070129720391" remote="131522070120000000" Dst="2" />
+<file name="RequestMatcherInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522070130210778" remote="131522070130000000" Dst="2" />
+<file name="TraceableUrlMatcher.php" server="C:/xampp/htdocs/qualiti/" local="131522070130681107" remote="131522070130000000" Dst="2" />
+<file name="UrlMatcher.php" server="C:/xampp/htdocs/qualiti/" local="131522070131311597" remote="131522070130000000" Dst="2" />
+<file name="UrlMatcherInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522070131882357" remote="131522070130000000" Dst="2" />
 </dwsync>

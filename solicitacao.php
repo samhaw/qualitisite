@@ -18,7 +18,7 @@
 
     <link href="css/bootstrap.css" rel="stylesheet">
 
-    <link href="css/style-02.css" rel="stylesheet">
+    <link href="css/style-04.css" rel="stylesheet">
 
     <link rel="stylesheet" id="prettyphoto-css"  href="css/prettyPhoto.css" type="text/css" media="all">
 
@@ -64,7 +64,7 @@
 
     <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
 
-    <link href="css/customizacoes-27.css" rel="stylesheet" type="text/css">
+    <link href="css/customizacoes-31.css" rel="stylesheet" type="text/css">
 
     <!-- JQuery -->
 
@@ -127,11 +127,11 @@
             <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
 
             <nav class="pull-right nav-collapse collapse">
-
               <ul id="menu-main" class="nav">
                 <li><a title="Voltar a tela inicial" href="index.php">Início</a></li>
                 <li><a title="Faça o pré-cadastro, sem compromisso!" href="solicitacao.php">Solicitar/Disponibilidade</a></li>
                 <li><a title="Área exclusiva dos assinantes - Boleto, Relatório, etc" href="http://42d5023a0915.sn.mynetname.net:8181">Área do Assinante</a></li>
+                <li><a title="Gere a segunda-via com data atualizada" href="http://segundavia.qualitiinternet.com.br">Segunda-via</a></li> 
                 <li><a title="Área exclusiva para funcionários" href="http://webmail.qualitiinternet.com.br">E-mail</a></li>
                 <li><a title="Fale conosco" href="index.php#contact">Contato</a></li>
               </ul>
@@ -154,6 +154,7 @@
         <div class="align"><i class="icon-clipboard"></i></div>
 
         <h1>Solicitação de serviço:</h1>
+        <h2 style="text-align: center; margin-top: -1em;">(Pré-Cadastro)</h2>
         <h4>Este é um pré-cadastro que não confirma a contratação do serviço. É necessário aguardar a confirmação da viabilidade técnica e validação das informações que será feita, após este, via contato por WhatsApp</h4>
 
       <hr>
@@ -252,9 +253,10 @@
 					   Cidade:
 							<input id="cidade" type="text" name="cidade" placeholder="Informe sua cidade" class="cform-text" size="40" title="Sua cidade" required="required">
 					   </span>
-					   <span class="your-estado span4">
+						<span class="your-estado span4">
 					   Estado:
 							<input id="uf" type="text" name="estado" placeholder="Estado" class="cform-text" size="5" title="Seu estado" required="required">
+						</span>		
 					   </span>					   
 
                	</div>
@@ -300,33 +302,52 @@
 
                	<hr>
 
-				<div class="row">
-					
-					<span class="span4" style="padding-top: 0.3em">Selecione o dia do Vencimento da Mensalidade:</span>
-
-					<span class="span2" style="padding-top: 0.4em">Dia 5:<input style="margin: -0.3em 0 0 2em" type="radio" name="vencimento" value="Dia 5"></span>
-
-					<span class="span2" style="padding-top: 0.4em">Dia 10:<input style="margin: -0.3em 0 0 2em" type="radio" name="vencimento" value="Dia 10"></span>
-
-					<span class="span2" style="padding-top: 0.4em">Dia 20:<input style="margin: -0.3em 0 0 2em" type="radio" name="vencimento" value="Dia 20"></span>
-
-					<span class="span2" style="padding-top: 0.4em">Dia 25:<input style="margin: -0.3em 0 0 2em" type="radio" name="vencimento" value="Dia 25"></span>
-
-
+				<div class="row-fluid">					
+					<span class="span12" style="padding-top: 0.3em">Selecione o dia do Vencimento da Mensalidade:</span>
+					<div class="funkyradio span12">
+						<div class="funkyradio-primary span3">
+							<input type="radio" name="radio-vencimento" id="Vencimento1" value="Dia 5"/>
+							<label for="Vencimento1">Dia 5</label>
+						</div>
+						<div class="funkyradio-primary span3">
+							<input type="radio" name="radio-vencimento" id="Vencimento2" value="Dia 10"/>
+							<label for="Vencimento2">Dia 10</label>
+						</div>
+						<div class="funkyradio-primary span3">
+							<input type="radio" name="radio-vencimento" id="Vencimento3" value="Dia 20"/>
+							<label for="Vencimento3">Dia 20</label>
+						</div>
+						<div class="funkyradio-primary span3">
+							<input type="radio" name="radio-vencimento" id="Vencimento4" value="Dia 25"/>
+							<label for="Vencimento4">Dia 25</label>
+						</div>
+					</div>		
 				</div>	
 
 				<hr>
 
-				<div class="row">
-					<span class="span4" style="padding-top: 0.3em">Forma Pagamento da Taxa de Instalação:</span>
-					<span class="span2" style="padding-top: 0.4em">À vista:<input style="margin: -0.3em 0 0 2em" type="radio" name="Forma de Pagamento" value="À Vista"></span>
-					<span class="span2" style="padding-top: 0.4em">Parcelado:<input style="margin: -0.3em 0 0 2em" type="radio" name="Forma de Pagamento" value="Parcelado">
-					</span>
-				</div>	          	
+				<div class="row-fluid">
+					<span class="span12" style="padding-top: 0.3em">Forma Pagamento da Taxa de Instalação:</span>
+					<div class="funkyradio span12">
+						<div class="funkyradio-primary span4">
+							<input type="radio" name="radio-pagamento" id="radio1" value="À vista: R$ 230,00"/>
+							<label for="radio1">À vista: R$ 230,00</label>
+						</div>
+						<div class="funkyradio-primary span4">
+							<input type="radio" name="radio-pagamento" id="radio2" value="Parcelado: R$ 260,00"/>
+							<label for="radio2">Parcelado: R$ 260,00</label>
+						</div>						
+						<div class="funkyradio-primary span4">
+							<input type="radio" name="radio-pagamento" id="radio3" value="Cartão em 12x: R$ 300,00"/>
+							<label for="radio3">Cartão em 12x: R$ 300,00</label>
+						</div>
+					</div>
+				</div>
+               	
 
                	<hr>				  
 
-					  <h6>1 - Valor da taxa de instalação: R$ 350.</h6>            	
+					  <h6>1 - Valor da taxa de instalação: R$ 230,00 à vista e R$ 260,00 parcelado.</h6>            	
 
 					  <h6>2 - Em algumas instalações a fibra chegará apenas ao Distribuidor Geral do prédio ou vila, e deste ponto será distribuido por cabo metálico do tipo UTP/STP. Porém, cada clientes terá sua conexão independente. A banda NÃO é compartilhada em nenhuma das situações e o circuito continua mantendo as caracteristica de qualidade da fibra.</h6>
 
@@ -411,18 +432,6 @@
     <script type="text/javascript" src="js/jquery.mask.min.js"></script>
 
     <script type="text/javascript" src="js/bootbox.min.js"></script>
-
-
-
-	<!-- BEGIN JIVOSITE CODE {literal} -->
-
-	<script type='text/javascript'>
-
-	(function(){ var widget_id = 'Ms4LJIfqgW';var d=document;var w=window;function l(){
-
-	var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
-
-	<!-- {/literal} END JIVOSITE CODE -->   
 
     <!--ANALYTICS CODE-->
 

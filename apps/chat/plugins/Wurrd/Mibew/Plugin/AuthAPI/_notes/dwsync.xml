@@ -7,11 +7,11 @@
 <file name="database_schema.yml" server="ftp.qualitiinternet.com.br//www/" local="131317253325317627" remote="131316691200000000" Dst="2" />
 <file name="routing.yml" server="ftp.qualitiinternet.com.br//www/" local="131317253326797712" remote="131316691200000000" Dst="2" />
 <file name="Plugin.php" server="ftp.qualitiinternet.com.br//www/" local="131317253328127788" remote="131316691200000000" Dst="2" />
-<file name="Constants.php" server="C:/xampp/htdocs/qualiti/" local="131317253310000000" remote="131317253310000000" Dst="1" />
-<file name="database_schema.yml" server="C:/xampp/htdocs/qualiti/" local="131317253320000000" remote="131317253320000000" Dst="1" />
-<file name="LICENSE" server="C:/xampp/htdocs/qualiti/" local="131317253320000000" remote="131317253320000000" Dst="1" />
-<file name="Plugin.php" server="C:/xampp/htdocs/qualiti/" local="131317253320000000" remote="131317253320000000" Dst="1" />
-<file name="README.md" server="C:/xampp/htdocs/qualiti/" local="131317253320000000" remote="131317253320000000" Dst="1" />
-<file name="routing.yml" server="C:/xampp/htdocs/qualiti/" local="131317253320000000" remote="131317253320000000" Dst="1" />
-<file name="WurrdInstaller.php" server="C:/xampp/htdocs/qualiti/" local="131317253320000000" remote="131317253320000000" Dst="1" />
+<file name="Constants.php" server="C:/xampp/htdocs/qualiti/" local="131317253310000000" remote="131317253310000000" Dst="2" />
+<file name="database_schema.yml" server="C:/xampp/htdocs/qualiti/" local="131317253320000000" remote="131317253320000000" Dst="2" />
+<file name="LICENSE" server="C:/xampp/htdocs/qualiti/" local="131317253320000000" remote="131317253320000000" Dst="2" />
+<file name="Plugin.php" server="C:/xampp/htdocs/qualiti/" local="131317253320000000" remote="131317253320000000" Dst="2" />
+<file name="README.md" server="C:/xampp/htdocs/qualiti/" local="131317253320000000" remote="131317253320000000" Dst="2" />
+<file name="routing.yml" server="C:/xampp/htdocs/qualiti/" local="131317253320000000" remote="131317253320000000" Dst="2" />
+<file name="WurrdInstaller.php" server="C:/xampp/htdocs/qualiti/" local="131317253320000000" remote="131317253320000000" Dst="2" />
 </dwsync>

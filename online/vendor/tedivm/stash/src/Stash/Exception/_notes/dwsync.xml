@@ -5,9 +5,9 @@
 <file name="InvalidArgumentException.php" server="ftp.qualitiinternet.com.br/www/" local="131522071977106952" remote="131406525000000000" Dst="1" />
 <file name="WindowsPathMaxLengthException.php" server="ftp.qualitiinternet.com.br/www/" local="131522071977987752" remote="131406525000000000" Dst="1" />
 <file name="RuntimeException.php" server="ftp.qualitiinternet.com.br/www/" local="131522071978197918" remote="131406525000000000" Dst="1" />
-<file name="Exception.php" server="C:/xampp/htdocs/qualiti/" local="131522071976741654" remote="131522071970000000" Dst="1" />
-<file name="InvalidArgumentException.php" server="C:/xampp/htdocs/qualiti/" local="131522071977106952" remote="131522071970000000" Dst="1" />
-<file name="LogicException.php" server="C:/xampp/htdocs/qualiti/" local="131522071976956828" remote="131522071970000000" Dst="1" />
-<file name="RuntimeException.php" server="C:/xampp/htdocs/qualiti/" local="131522071978197918" remote="131522071970000000" Dst="1" />
-<file name="WindowsPathMaxLengthException.php" server="C:/xampp/htdocs/qualiti/" local="131522071977987752" remote="131522071970000000" Dst="1" />
+<file name="Exception.php" server="C:/xampp/htdocs/qualiti/" local="131522071976741654" remote="131522071970000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="C:/xampp/htdocs/qualiti/" local="131522071977106952" remote="131522071970000000" Dst="2" />
+<file name="LogicException.php" server="C:/xampp/htdocs/qualiti/" local="131522071976956828" remote="131522071970000000" Dst="2" />
+<file name="RuntimeException.php" server="C:/xampp/htdocs/qualiti/" local="131522071978197918" remote="131522071970000000" Dst="2" />
+<file name="WindowsPathMaxLengthException.php" server="C:/xampp/htdocs/qualiti/" local="131522071977987752" remote="131522071970000000" Dst="2" />
 </dwsync>

@@ -6,10 +6,10 @@
 <file name="LoaderInterface.php" server="ftp.qualitiinternet.com.br/www/" local="131522071399590705" remote="131406525000000000" Dst="1" />
 <file name="LoaderResolverInterface.php" server="ftp.qualitiinternet.com.br/www/" local="131522071399765872" remote="131406525000000000" Dst="1" />
 <file name="LoaderResolver.php" server="ftp.qualitiinternet.com.br/www/" local="131522071400136131" remote="131406525000000000" Dst="1" />
-<file name="DelegatingLoader.php" server="C:/xampp/htdocs/qualiti/" local="131522071397141416" remote="131522071390000000" Dst="1" />
-<file name="FileLoader.php" server="C:/xampp/htdocs/qualiti/" local="131522071398299691" remote="131522071390000000" Dst="1" />
-<file name="Loader.php" server="C:/xampp/htdocs/qualiti/" local="131522071398675004" remote="131522071390000000" Dst="1" />
-<file name="LoaderInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522071399590705" remote="131522071390000000" Dst="1" />
-<file name="LoaderResolver.php" server="C:/xampp/htdocs/qualiti/" local="131522071400136131" remote="131522071400000000" Dst="1" />
-<file name="LoaderResolverInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522071399765872" remote="131522071390000000" Dst="1" />
+<file name="DelegatingLoader.php" server="C:/xampp/htdocs/qualiti/" local="131522071397141416" remote="131522071390000000" Dst="2" />
+<file name="FileLoader.php" server="C:/xampp/htdocs/qualiti/" local="131522071398299691" remote="131522071390000000" Dst="2" />
+<file name="Loader.php" server="C:/xampp/htdocs/qualiti/" local="131522071398675004" remote="131522071390000000" Dst="2" />
+<file name="LoaderInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522071399590705" remote="131522071390000000" Dst="2" />
+<file name="LoaderResolver.php" server="C:/xampp/htdocs/qualiti/" local="131522071400136131" remote="131522071400000000" Dst="2" />
+<file name="LoaderResolverInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522071399765872" remote="131522071390000000" Dst="2" />
 </dwsync>

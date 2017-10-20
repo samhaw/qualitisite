@@ -3,7 +3,7 @@
 <file name="DependencyContainerTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522069395282491" remote="131406524400000000" Dst="1" />
 <file name="MailerTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522069403044266" remote="131406524400000000" Dst="1" />
 <file name="MessageTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522069403274673" remote="131406524400000000" Dst="1" />
-<file name="DependencyContainerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069395282491" remote="131522069390000000" Dst="1" />
-<file name="MailerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069403044266" remote="131522069400000000" Dst="1" />
-<file name="MessageTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069403274673" remote="131522069400000000" Dst="1" />
+<file name="DependencyContainerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069395282491" remote="131522069390000000" Dst="2" />
+<file name="MailerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069403044266" remote="131522069400000000" Dst="2" />
+<file name="MessageTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069403274673" remote="131522069400000000" Dst="2" />
 </dwsync>

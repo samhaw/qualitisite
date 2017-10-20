@@ -8,12 +8,12 @@
 <file name="LoadBalancedTransportTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522069436979370" remote="131406524400000000" Dst="1" />
 <file name="SendmailTransportTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522069437229611" remote="131406524400000000" Dst="1" />
 <file name="StreamBufferTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522069438090235" remote="131406524400000000" Dst="1" />
-<file name="AbstractSmtpEventSupportTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069428230783" remote="131522069420000000" Dst="1" />
-<file name="AbstractSmtpTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069428771171" remote="131522069420000000" Dst="1" />
-<file name="EsmtpTransportTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069434703161" remote="131522069430000000" Dst="1" />
-<file name="FailoverTransportTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069435528293" remote="131522069430000000" Dst="1" />
-<file name="LoadBalancedTransportTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069436979370" remote="131522069430000000" Dst="1" />
-<file name="MailTransportTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069436599104" remote="131522069430000000" Dst="1" />
-<file name="SendmailTransportTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069437229611" remote="131522069430000000" Dst="1" />
-<file name="StreamBufferTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069438090235" remote="131522069430000000" Dst="1" />
+<file name="AbstractSmtpEventSupportTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069428230783" remote="131522069420000000" Dst="2" />
+<file name="AbstractSmtpTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069428771171" remote="131522069420000000" Dst="2" />
+<file name="EsmtpTransportTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069434703161" remote="131522069430000000" Dst="2" />
+<file name="FailoverTransportTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069435528293" remote="131522069430000000" Dst="2" />
+<file name="LoadBalancedTransportTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069436979370" remote="131522069430000000" Dst="2" />
+<file name="MailTransportTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069436599104" remote="131522069430000000" Dst="2" />
+<file name="SendmailTransportTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069437229611" remote="131522069430000000" Dst="2" />
+<file name="StreamBufferTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069438090235" remote="131522069430000000" Dst="2" />
 </dwsync>

@@ -6,10 +6,10 @@
 <file name="SslSocketAcceptanceTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071307893570" remote="131406525000000000" Dst="1" />
 <file name="SocketTimeoutTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071308193787" remote="131406525000000000" Dst="1" />
 <file name="TlsSocketAcceptanceTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071309063438" remote="131406525000000000" Dst="1" />
-<file name="AbstractStreamBufferAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071306492507" remote="131522071300000000" Dst="1" />
-<file name="BasicSocketAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071306642622" remote="131522071300000000" Dst="1" />
-<file name="ProcessAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071307358160" remote="131522071300000000" Dst="1" />
-<file name="SocketTimeoutTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071308193787" remote="131522071300000000" Dst="1" />
-<file name="SslSocketAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071307893570" remote="131522071300000000" Dst="1" />
-<file name="TlsSocketAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071309063438" remote="131522071300000000" Dst="1" />
+<file name="AbstractStreamBufferAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071306492507" remote="131522071300000000" Dst="2" />
+<file name="BasicSocketAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071306642622" remote="131522071300000000" Dst="2" />
+<file name="ProcessAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071307358160" remote="131522071300000000" Dst="2" />
+<file name="SocketTimeoutTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071308193787" remote="131522071300000000" Dst="2" />
+<file name="SslSocketAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071307893570" remote="131522071300000000" Dst="2" />
+<file name="TlsSocketAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071309063438" remote="131522071300000000" Dst="2" />
 </dwsync>

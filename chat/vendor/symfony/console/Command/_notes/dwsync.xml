@@ -3,7 +3,7 @@
 <file name="Command.php" server="ftp.qualitiinternet.com.br/www/" local="131522069487213746" remote="131406524400000000" Dst="1" />
 <file name="HelpCommand.php" server="ftp.qualitiinternet.com.br/www/" local="131522069487559016" remote="131406524400000000" Dst="1" />
 <file name="ListCommand.php" server="ftp.qualitiinternet.com.br/www/" local="131522069488545472" remote="131406524400000000" Dst="1" />
-<file name="Command.php" server="C:/xampp/htdocs/qualiti/" local="131522069487213746" remote="131522069480000000" Dst="1" />
-<file name="HelpCommand.php" server="C:/xampp/htdocs/qualiti/" local="131522069487559016" remote="131522069480000000" Dst="1" />
-<file name="ListCommand.php" server="C:/xampp/htdocs/qualiti/" local="131522069488545472" remote="131522069480000000" Dst="1" />
+<file name="Command.php" server="C:/xampp/htdocs/qualiti/" local="131522069487213746" remote="131522069480000000" Dst="2" />
+<file name="HelpCommand.php" server="C:/xampp/htdocs/qualiti/" local="131522069487559016" remote="131522069480000000" Dst="2" />
+<file name="ListCommand.php" server="C:/xampp/htdocs/qualiti/" local="131522069488545472" remote="131522069480000000" Dst="2" />
 </dwsync>

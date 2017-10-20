@@ -8,12 +8,12 @@
 <file name="PluralizationRulesTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522070226239093" remote="131406524400000000" Dst="1" />
 <file name="TranslatorTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522070227164745" remote="131406524400000000" Dst="1" />
 <file name="TranslatorCacheTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522070227755164" remote="131406524400000000" Dst="1" />
-<file name="IdentityTranslatorTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070213772676" remote="131522070210000000" Dst="1" />
-<file name="IntervalTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070215352622" remote="131522070210000000" Dst="1" />
-<file name="LoggingTranslatorTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070223302009" remote="131522070220000000" Dst="1" />
-<file name="MessageCatalogueTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070224637957" remote="131522070220000000" Dst="1" />
-<file name="MessageSelectorTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070225633659" remote="131522070220000000" Dst="1" />
-<file name="PluralizationRulesTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070226239093" remote="131522070220000000" Dst="1" />
-<file name="TranslatorCacheTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070227755164" remote="131522070220000000" Dst="1" />
-<file name="TranslatorTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070227164745" remote="131522070220000000" Dst="1" />
+<file name="IdentityTranslatorTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070213772676" remote="131522070210000000" Dst="2" />
+<file name="IntervalTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070215352622" remote="131522070210000000" Dst="2" />
+<file name="LoggingTranslatorTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070223302009" remote="131522070220000000" Dst="2" />
+<file name="MessageCatalogueTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070224637957" remote="131522070220000000" Dst="2" />
+<file name="MessageSelectorTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070225633659" remote="131522070220000000" Dst="2" />
+<file name="PluralizationRulesTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070226239093" remote="131522070220000000" Dst="2" />
+<file name="TranslatorCacheTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070227755164" remote="131522070220000000" Dst="2" />
+<file name="TranslatorTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070227164745" remote="131522070220000000" Dst="2" />
 </dwsync>

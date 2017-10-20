@@ -6,10 +6,10 @@
 <file name="GroupsController.php" server="ftp.qualitiinternet.com.br/www/" local="131522068849378178" remote="131406524400000000" Dst="1" />
 <file name="PermissionsController.php" server="ftp.qualitiinternet.com.br/www/" local="131522068850498969" remote="131406524400000000" Dst="1" />
 <file name="ProfileController.php" server="ftp.qualitiinternet.com.br/www/" local="131522068851339561" remote="131406524400000000" Dst="1" />
-<file name="AbstractController.php" server="C:/xampp/htdocs/qualiti/" local="131522068847496835" remote="131522068840000000" Dst="1" />
-<file name="AvatarController.php" server="C:/xampp/htdocs/qualiti/" local="131522068849218061" remote="131522068840000000" Dst="1" />
-<file name="GroupsController.php" server="C:/xampp/htdocs/qualiti/" local="131522068849378178" remote="131522068840000000" Dst="1" />
-<file name="ManagementController.php" server="C:/xampp/htdocs/qualiti/" local="131522068849463230" remote="131522068840000000" Dst="1" />
-<file name="PermissionsController.php" server="C:/xampp/htdocs/qualiti/" local="131522068850498969" remote="131522068850000000" Dst="1" />
-<file name="ProfileController.php" server="C:/xampp/htdocs/qualiti/" local="131522068851339561" remote="131522068850000000" Dst="1" />
+<file name="AbstractController.php" server="C:/xampp/htdocs/qualiti/" local="131522068847496835" remote="131522068840000000" Dst="2" />
+<file name="AvatarController.php" server="C:/xampp/htdocs/qualiti/" local="131522068849218061" remote="131522068840000000" Dst="2" />
+<file name="GroupsController.php" server="C:/xampp/htdocs/qualiti/" local="131522068849378178" remote="131522068840000000" Dst="2" />
+<file name="ManagementController.php" server="C:/xampp/htdocs/qualiti/" local="131522068849463230" remote="131522068840000000" Dst="2" />
+<file name="PermissionsController.php" server="C:/xampp/htdocs/qualiti/" local="131522068850498969" remote="131522068850000000" Dst="2" />
+<file name="ProfileController.php" server="C:/xampp/htdocs/qualiti/" local="131522068851339561" remote="131522068850000000" Dst="2" />
 </dwsync>

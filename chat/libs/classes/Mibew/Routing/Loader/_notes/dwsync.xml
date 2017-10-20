@@ -3,7 +3,7 @@
 <file name="CacheLoader.php" server="ftp.qualitiinternet.com.br/www/" local="131522068888255865" remote="131406524400000000" Dst="1" />
 <file name="DummyPluginLoader.php" server="ftp.qualitiinternet.com.br/www/" local="131522068889361645" remote="131406524400000000" Dst="1" />
 <file name="PluginLoader.php" server="ftp.qualitiinternet.com.br/www/" local="131522068890002112" remote="131406524400000000" Dst="1" />
-<file name="CacheLoader.php" server="C:/xampp/htdocs/qualiti/" local="131522068888255865" remote="131522068880000000" Dst="1" />
-<file name="DummyPluginLoader.php" server="C:/xampp/htdocs/qualiti/" local="131522068889361645" remote="131522068880000000" Dst="1" />
-<file name="PluginLoader.php" server="C:/xampp/htdocs/qualiti/" local="131522068890002112" remote="131522068890000000" Dst="1" />
+<file name="CacheLoader.php" server="C:/xampp/htdocs/qualiti/" local="131522068888255865" remote="131522068880000000" Dst="2" />
+<file name="DummyPluginLoader.php" server="C:/xampp/htdocs/qualiti/" local="131522068889361645" remote="131522068880000000" Dst="2" />
+<file name="PluginLoader.php" server="C:/xampp/htdocs/qualiti/" local="131522068890002112" remote="131522068890000000" Dst="2" />
 </dwsync>

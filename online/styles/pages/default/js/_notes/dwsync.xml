@@ -5,9 +5,9 @@
 <file name="locale.js" server="ftp.qualitiinternet.com.br/www/" local="131522071100788448" remote="131316876000000000" Dst="1" />
 <file name="ie.js" server="ftp.qualitiinternet.com.br/www/" local="131522071101288854" remote="131316876000000000" Dst="1" />
 <file name="toggle_menu.js" server="ftp.qualitiinternet.com.br/www/" local="131522071101809228" remote="131316876000000000" Dst="1" />
-<file name="autoclose.js" server="C:/xampp/htdocs/qualiti/" local="131522071099874603" remote="131522071090000000" Dst="1" />
-<file name="dashboard.js" server="C:/xampp/htdocs/qualiti/" local="131522071100044720" remote="131522071100000000" Dst="1" />
-<file name="ie.js" server="C:/xampp/htdocs/qualiti/" local="131522071101288854" remote="131522071100000000" Dst="1" />
-<file name="locale.js" server="C:/xampp/htdocs/qualiti/" local="131522071100788448" remote="131522071100000000" Dst="1" />
-<file name="toggle_menu.js" server="C:/xampp/htdocs/qualiti/" local="131522071101809228" remote="131522071100000000" Dst="1" />
+<file name="autoclose.js" server="C:/xampp/htdocs/qualiti/" local="131522071099874603" remote="131522071090000000" Dst="2" />
+<file name="dashboard.js" server="C:/xampp/htdocs/qualiti/" local="131522071100044720" remote="131522071100000000" Dst="2" />
+<file name="ie.js" server="C:/xampp/htdocs/qualiti/" local="131522071101288854" remote="131522071100000000" Dst="2" />
+<file name="locale.js" server="C:/xampp/htdocs/qualiti/" local="131522071100788448" remote="131522071100000000" Dst="2" />
+<file name="toggle_menu.js" server="C:/xampp/htdocs/qualiti/" local="131522071101809228" remote="131522071100000000" Dst="2" />
 </dwsync>

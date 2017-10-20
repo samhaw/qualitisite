@@ -9,13 +9,13 @@
 <file name="notPsr0Bis.php" server="ftp.qualitiinternet.com.br/www/" local="131522071647195647" remote="131406525000000000" Dst="1" />
 <file name="casemismatch.php" server="ftp.qualitiinternet.com.br/www/" local="131522071647345758" remote="131406525000000000" Dst="1" />
 <file name="reallyNotPsr0.php" server="ftp.qualitiinternet.com.br/www/" local="131522071648786917" remote="131406525000000000" Dst="1" />
-<file name="casemismatch.php" server="C:/xampp/htdocs/qualiti/" local="131522071647345758" remote="131522071640000000" Dst="1" />
-<file name="ClassAlias.php" server="C:/xampp/htdocs/qualiti/" local="131522071643302612" remote="131522071640000000" Dst="1" />
-<file name="DeprecatedClass.php" server="C:/xampp/htdocs/qualiti/" local="131522071644473554" remote="131522071640000000" Dst="1" />
-<file name="DeprecatedInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522071644113260" remote="131522071640000000" Dst="1" />
-<file name="NonDeprecatedInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522071645354213" remote="131522071640000000" Dst="1" />
-<file name="notPsr0Bis.php" server="C:/xampp/htdocs/qualiti/" local="131522071647195647" remote="131522071640000000" Dst="1" />
-<file name="PEARClass.php" server="C:/xampp/htdocs/qualiti/" local="131522071645944691" remote="131522071640000000" Dst="1" />
-<file name="reallyNotPsr0.php" server="C:/xampp/htdocs/qualiti/" local="131522071648786917" remote="131522071640000000" Dst="1" />
-<file name="ToStringThrower.php" server="C:/xampp/htdocs/qualiti/" local="131522071646530141" remote="131522071640000000" Dst="1" />
+<file name="casemismatch.php" server="C:/xampp/htdocs/qualiti/" local="131522071647345758" remote="131522071640000000" Dst="2" />
+<file name="ClassAlias.php" server="C:/xampp/htdocs/qualiti/" local="131522071643302612" remote="131522071640000000" Dst="2" />
+<file name="DeprecatedClass.php" server="C:/xampp/htdocs/qualiti/" local="131522071644473554" remote="131522071640000000" Dst="2" />
+<file name="DeprecatedInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522071644113260" remote="131522071640000000" Dst="2" />
+<file name="NonDeprecatedInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522071645354213" remote="131522071640000000" Dst="2" />
+<file name="notPsr0Bis.php" server="C:/xampp/htdocs/qualiti/" local="131522071647195647" remote="131522071640000000" Dst="2" />
+<file name="PEARClass.php" server="C:/xampp/htdocs/qualiti/" local="131522071645944691" remote="131522071640000000" Dst="2" />
+<file name="reallyNotPsr0.php" server="C:/xampp/htdocs/qualiti/" local="131522071648786917" remote="131522071640000000" Dst="2" />
+<file name="ToStringThrower.php" server="C:/xampp/htdocs/qualiti/" local="131522071646530141" remote="131522071640000000" Dst="2" />
 </dwsync>

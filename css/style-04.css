@@ -253,17 +253,15 @@ ul#menu-main > li > a:hover {
 05 Single-Page Sections ------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------- */
 #headerwrap {
+	background: url(../img/foto-01.2.jpg) #0b333f no-repeat center fixed;
 	width: 100%;
-	background: url(../img/foto-01.jpg) #0b333f no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	;
 	min-height: 600px;
-	margin-top: -60px;
-	padding-top:160px;
 	text-align:center;
+	margin-top: -1.5em;
 }
 #headerwrap h1 {
 	color: #FFFFFF;
@@ -863,7 +861,6 @@ footer p {
 }
  @media (min-width: 768px) and (max-width: 979px) {
  #headerwrap {
- padding-top:0;
 }
 }
  @media (max-width: 767px) {
@@ -909,7 +906,6 @@ footer p {
     /* Smaller screens ----------- */
 	@media (max-width : 480px) {
  #headerwrap {
- padding-top:0;
 }
  #headerwrap h1 {
  font-size:2em;

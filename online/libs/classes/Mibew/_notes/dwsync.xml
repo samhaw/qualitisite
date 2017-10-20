@@ -6,10 +6,10 @@
 <file name="ProcessLock.php" server="ftp.qualitiinternet.com.br/www/" local="131522070812337654" remote="131406525000000000" Dst="1" />
 <file name="Settings.php" server="ftp.qualitiinternet.com.br/www/" local="131522070822162543" remote="131406525000000000" Dst="1" />
 <file name="Thread.php" server="ftp.qualitiinternet.com.br/www/" local="131522070827494475" remote="131406525000000000" Dst="1" />
-<file name="Application.php" server="C:/xampp/htdocs/qualiti/" local="131522070739268164" remote="131522070730000000" Dst="1" />
-<file name="Ban.php" server="C:/xampp/htdocs/qualiti/" local="131522070747284261" remote="131522070740000000" Dst="1" />
-<file name="Database.php" server="C:/xampp/htdocs/qualiti/" local="131522070785053482" remote="131522070780000000" Dst="1" />
-<file name="ProcessLock.php" server="C:/xampp/htdocs/qualiti/" local="131522070812337654" remote="131522070810000000" Dst="1" />
-<file name="Settings.php" server="C:/xampp/htdocs/qualiti/" local="131522070822162543" remote="131522070820000000" Dst="1" />
-<file name="Thread.php" server="C:/xampp/htdocs/qualiti/" local="131522070827494475" remote="131522070820000000" Dst="1" />
+<file name="Application.php" server="C:/xampp/htdocs/qualiti/" local="131522070739268164" remote="131522070730000000" Dst="2" />
+<file name="Ban.php" server="C:/xampp/htdocs/qualiti/" local="131522070747284261" remote="131522070740000000" Dst="2" />
+<file name="Database.php" server="C:/xampp/htdocs/qualiti/" local="131522070785053482" remote="131522070780000000" Dst="2" />
+<file name="ProcessLock.php" server="C:/xampp/htdocs/qualiti/" local="131522070812337654" remote="131522070810000000" Dst="2" />
+<file name="Settings.php" server="C:/xampp/htdocs/qualiti/" local="131522070822162543" remote="131522070820000000" Dst="2" />
+<file name="Thread.php" server="C:/xampp/htdocs/qualiti/" local="131522070827494475" remote="131522070820000000" Dst="2" />
 </dwsync>

@@ -3,7 +3,7 @@
 <file name="agents_collection.js" server="ftp.qualitiinternet.com.br/www/" local="131402905445735364" remote="130978188000000000" Dst="1" />
 <file name="threads_collection.js" server="ftp.qualitiinternet.com.br/www/" local="131402905446230716" remote="130978188000000000" Dst="1" />
 <file name="visitors_collection.js" server="ftp.qualitiinternet.com.br/www/" local="131402905446395830" remote="130978188000000000" Dst="1" />
-<file name="agents_collection.js" server="C:/xampp/htdocs/qualiti/" local="131402905440000000" remote="131402905440000000" Dst="1" />
-<file name="threads_collection.js" server="C:/xampp/htdocs/qualiti/" local="131402905440000000" remote="131402905440000000" Dst="1" />
-<file name="visitors_collection.js" server="C:/xampp/htdocs/qualiti/" local="131402905440000000" remote="131402905440000000" Dst="1" />
+<file name="agents_collection.js" server="C:/xampp/htdocs/qualiti/" local="131402905440000000" remote="131402905440000000" Dst="2" />
+<file name="threads_collection.js" server="C:/xampp/htdocs/qualiti/" local="131402905440000000" remote="131402905440000000" Dst="2" />
+<file name="visitors_collection.js" server="C:/xampp/htdocs/qualiti/" local="131402905440000000" remote="131402905440000000" Dst="2" />
 </dwsync>

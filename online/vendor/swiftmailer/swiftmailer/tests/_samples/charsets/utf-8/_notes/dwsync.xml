@@ -3,7 +3,7 @@
 <file name="one.txt" server="ftp.qualitiinternet.com.br/www/" local="131522071284183245" remote="131316876000000000" Dst="1" />
 <file name="three.txt" server="ftp.qualitiinternet.com.br/www/" local="131522071284933829" remote="131316876000000000" Dst="1" />
 <file name="two.txt" server="ftp.qualitiinternet.com.br/www/" local="131522071285479780" remote="131316876000000000" Dst="1" />
-<file name="one.txt" server="C:/xampp/htdocs/qualiti/" local="131522071284183245" remote="131522071280000000" Dst="1" />
-<file name="three.txt" server="C:/xampp/htdocs/qualiti/" local="131522071284933829" remote="131522071280000000" Dst="1" />
-<file name="two.txt" server="C:/xampp/htdocs/qualiti/" local="131522071285479780" remote="131522071280000000" Dst="1" />
+<file name="one.txt" server="C:/xampp/htdocs/qualiti/" local="131522071284183245" remote="131522071280000000" Dst="2" />
+<file name="three.txt" server="C:/xampp/htdocs/qualiti/" local="131522071284933829" remote="131522071280000000" Dst="2" />
+<file name="two.txt" server="C:/xampp/htdocs/qualiti/" local="131522071285479780" remote="131522071280000000" Dst="2" />
 </dwsync>

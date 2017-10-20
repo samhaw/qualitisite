@@ -3,7 +3,7 @@
 <file name="Base64Encoder.php" server="ftp.qualitiinternet.com.br/www/" local="131522069257790300" remote="131406525000000000" Dst="1" />
 <file name="QpEncoder.php" server="ftp.qualitiinternet.com.br/www/" local="131522069259071204" remote="131406525000000000" Dst="1" />
 <file name="Rfc2231Encoder.php" server="ftp.qualitiinternet.com.br/www/" local="131522069259576567" remote="131406525000000000" Dst="1" />
-<file name="Base64Encoder.php" server="C:/xampp/htdocs/qualiti/" local="131522069257790300" remote="131522069250000000" Dst="1" />
-<file name="QpEncoder.php" server="C:/xampp/htdocs/qualiti/" local="131522069259071204" remote="131522069250000000" Dst="1" />
-<file name="Rfc2231Encoder.php" server="C:/xampp/htdocs/qualiti/" local="131522069259576567" remote="131522069250000000" Dst="1" />
+<file name="Base64Encoder.php" server="C:/xampp/htdocs/qualiti/" local="131522069257790300" remote="131522069250000000" Dst="2" />
+<file name="QpEncoder.php" server="C:/xampp/htdocs/qualiti/" local="131522069259071204" remote="131522069250000000" Dst="2" />
+<file name="Rfc2231Encoder.php" server="C:/xampp/htdocs/qualiti/" local="131522069259576567" remote="131522069250000000" Dst="2" />
 </dwsync>

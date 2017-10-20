@@ -6,10 +6,10 @@
 <file name="ReplaceHelperTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522069243960489" remote="131406524400000000" Dst="1" />
 <file name="TruncateHelperTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522069245006231" remote="131406524400000000" Dst="1" />
 <file name="UppercaseHelperTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522069245386501" remote="131406524400000000" Dst="1" />
-<file name="HelpersTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069242174222" remote="131522069240000000" Dst="1" />
-<file name="LowercaseHelperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069243149918" remote="131522069240000000" Dst="1" />
-<file name="RepeatHelperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069243505166" remote="131522069240000000" Dst="1" />
-<file name="ReplaceHelperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069243960489" remote="131522069240000000" Dst="1" />
-<file name="TruncateHelperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069245006231" remote="131522069240000000" Dst="1" />
-<file name="UppercaseHelperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069245386501" remote="131522069240000000" Dst="1" />
+<file name="HelpersTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069242174222" remote="131522069240000000" Dst="2" />
+<file name="LowercaseHelperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069243149918" remote="131522069240000000" Dst="2" />
+<file name="RepeatHelperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069243505166" remote="131522069240000000" Dst="2" />
+<file name="ReplaceHelperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069243960489" remote="131522069240000000" Dst="2" />
+<file name="TruncateHelperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069245006231" remote="131522069240000000" Dst="2" />
+<file name="UppercaseHelperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069245386501" remote="131522069240000000" Dst="2" />
 </dwsync>

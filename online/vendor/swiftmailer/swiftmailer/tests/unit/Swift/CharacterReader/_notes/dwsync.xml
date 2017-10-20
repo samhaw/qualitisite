@@ -3,7 +3,7 @@
 <file name="GenericFixedWidthReaderTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071320251884" remote="131406525000000000" Dst="1" />
 <file name="UsAsciiReaderTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071321120851" remote="131406525000000000" Dst="1" />
 <file name="Utf8ReaderTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071322061573" remote="131406525000000000" Dst="1" />
-<file name="GenericFixedWidthReaderTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071320251884" remote="131522071320000000" Dst="1" />
-<file name="UsAsciiReaderTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071321120851" remote="131522071320000000" Dst="1" />
-<file name="Utf8ReaderTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071322061573" remote="131522071320000000" Dst="1" />
+<file name="GenericFixedWidthReaderTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071320251884" remote="131522071320000000" Dst="2" />
+<file name="UsAsciiReaderTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071321120851" remote="131522071320000000" Dst="2" />
+<file name="Utf8ReaderTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071322061573" remote="131522071320000000" Dst="2" />
 </dwsync>

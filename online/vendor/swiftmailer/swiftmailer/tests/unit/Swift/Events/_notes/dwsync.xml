@@ -7,11 +7,11 @@
 <file name="SendEventTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071329269922" remote="131406525000000000" Dst="1" />
 <file name="TransportChangeEventTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071329940449" remote="131406525000000000" Dst="1" />
 <file name="TransportExceptionEventTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071330650970" remote="131406525000000000" Dst="1" />
-<file name="CommandEventTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071326556651" remote="131522071320000000" Dst="1" />
-<file name="EventObjectTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071326836880" remote="131522071320000000" Dst="1" />
-<file name="ResponseEventTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071327303420" remote="131522071320000000" Dst="1" />
-<file name="SendEventTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071329269922" remote="131522071320000000" Dst="1" />
-<file name="SimpleEventDispatcherTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071328759504" remote="131522071320000000" Dst="1" />
-<file name="TransportChangeEventTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071329940449" remote="131522071320000000" Dst="1" />
-<file name="TransportExceptionEventTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071330650970" remote="131522071330000000" Dst="1" />
+<file name="CommandEventTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071326556651" remote="131522071320000000" Dst="2" />
+<file name="EventObjectTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071326836880" remote="131522071320000000" Dst="2" />
+<file name="ResponseEventTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071327303420" remote="131522071320000000" Dst="2" />
+<file name="SendEventTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071329269922" remote="131522071320000000" Dst="2" />
+<file name="SimpleEventDispatcherTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071328759504" remote="131522071320000000" Dst="2" />
+<file name="TransportChangeEventTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071329940449" remote="131522071320000000" Dst="2" />
+<file name="TransportExceptionEventTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071330650970" remote="131522071330000000" Dst="2" />
 </dwsync>

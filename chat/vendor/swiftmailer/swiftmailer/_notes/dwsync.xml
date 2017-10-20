@@ -9,13 +9,13 @@
 <file name="VERSION" server="ftp.qualitiinternet.com.br/www/" local="131402906072188780" remote="130978188000000000" Dst="1" />
 <file name="composer.json" server="ftp.qualitiinternet.com.br/www/" local="131402906072268837" remote="130978188000000000" Dst="1" />
 <file name="phpunit.xml.dist" server="ftp.qualitiinternet.com.br/www/" local="131402906176875311" remote="130978188000000000" Dst="1" />
-<file name=".gitattributes" server="C:/xampp/htdocs/qualiti/" local="131402906070000000" remote="131402906070000000" Dst="1" />
-<file name=".gitignore" server="C:/xampp/htdocs/qualiti/" local="131402906070000000" remote="131402906070000000" Dst="1" />
-<file name=".travis.yml" server="C:/xampp/htdocs/qualiti/" local="131402906070000000" remote="131402906070000000" Dst="1" />
-<file name="CHANGES" server="C:/xampp/htdocs/qualiti/" local="131402906070000000" remote="131402906070000000" Dst="1" />
-<file name="composer.json" server="C:/xampp/htdocs/qualiti/" local="131402906070000000" remote="131402906070000000" Dst="1" />
-<file name="LICENSE" server="C:/xampp/htdocs/qualiti/" local="131402906070000000" remote="131402906070000000" Dst="1" />
-<file name="phpunit.xml.dist" server="C:/xampp/htdocs/qualiti/" local="131402906170000000" remote="131402906170000000" Dst="1" />
-<file name="README" server="C:/xampp/htdocs/qualiti/" local="131402906070000000" remote="131402906070000000" Dst="1" />
-<file name="VERSION" server="C:/xampp/htdocs/qualiti/" local="131402906070000000" remote="131402906070000000" Dst="1" />
+<file name=".gitattributes" server="C:/xampp/htdocs/qualiti/" local="131402906070000000" remote="131402906070000000" Dst="2" />
+<file name=".gitignore" server="C:/xampp/htdocs/qualiti/" local="131402906070000000" remote="131402906070000000" Dst="2" />
+<file name=".travis.yml" server="C:/xampp/htdocs/qualiti/" local="131402906070000000" remote="131402906070000000" Dst="2" />
+<file name="CHANGES" server="C:/xampp/htdocs/qualiti/" local="131402906070000000" remote="131402906070000000" Dst="2" />
+<file name="composer.json" server="C:/xampp/htdocs/qualiti/" local="131402906070000000" remote="131402906070000000" Dst="2" />
+<file name="LICENSE" server="C:/xampp/htdocs/qualiti/" local="131402906070000000" remote="131402906070000000" Dst="2" />
+<file name="phpunit.xml.dist" server="C:/xampp/htdocs/qualiti/" local="131402906170000000" remote="131402906170000000" Dst="2" />
+<file name="README" server="C:/xampp/htdocs/qualiti/" local="131402906070000000" remote="131402906070000000" Dst="2" />
+<file name="VERSION" server="C:/xampp/htdocs/qualiti/" local="131402906070000000" remote="131402906070000000" Dst="2" />
 </dwsync>

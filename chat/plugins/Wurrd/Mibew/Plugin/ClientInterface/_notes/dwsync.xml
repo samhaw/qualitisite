@@ -7,11 +7,11 @@
 <file name="README.md" server="ftp.qualitiinternet.com.br/www/" local="131522069086977227" remote="131316012000000000" Dst="1" />
 <file name="database_schema.yml" server="ftp.qualitiinternet.com.br/www/" local="131522069087242415" remote="131316012000000000" Dst="1" />
 <file name="routing.yml" server="ftp.qualitiinternet.com.br/www/" local="131522069201259552" remote="131316012000000000" Dst="1" />
-<file name="Constants.php" server="C:/xampp/htdocs/qualiti/" local="131522069080737741" remote="131522069080000000" Dst="1" />
-<file name="database_schema.yml" server="C:/xampp/htdocs/qualiti/" local="131522069087242415" remote="131522069080000000" Dst="1" />
-<file name="Installer.php" server="C:/xampp/htdocs/qualiti/" local="131522069085471163" remote="131522069080000000" Dst="1" />
-<file name="LICENSE" server="C:/xampp/htdocs/qualiti/" local="131522069086011538" remote="131522069080000000" Dst="1" />
-<file name="Plugin.php" server="C:/xampp/htdocs/qualiti/" local="131522069086031556" remote="131522069080000000" Dst="1" />
-<file name="README.md" server="C:/xampp/htdocs/qualiti/" local="131522069086977227" remote="131522069080000000" Dst="1" />
-<file name="routing.yml" server="C:/xampp/htdocs/qualiti/" local="131522069201259552" remote="131522069200000000" Dst="1" />
+<file name="Constants.php" server="C:/xampp/htdocs/qualiti/" local="131522069080737741" remote="131522069080000000" Dst="2" />
+<file name="database_schema.yml" server="C:/xampp/htdocs/qualiti/" local="131522069087242415" remote="131522069080000000" Dst="2" />
+<file name="Installer.php" server="C:/xampp/htdocs/qualiti/" local="131522069085471163" remote="131522069080000000" Dst="2" />
+<file name="LICENSE" server="C:/xampp/htdocs/qualiti/" local="131522069086011538" remote="131522069080000000" Dst="2" />
+<file name="Plugin.php" server="C:/xampp/htdocs/qualiti/" local="131522069086031556" remote="131522069080000000" Dst="2" />
+<file name="README.md" server="C:/xampp/htdocs/qualiti/" local="131522069086977227" remote="131522069080000000" Dst="2" />
+<file name="routing.yml" server="C:/xampp/htdocs/qualiti/" local="131522069201259552" remote="131522069200000000" Dst="2" />
 </dwsync>

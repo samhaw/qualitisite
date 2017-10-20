@@ -4,8 +4,8 @@
 <file name="AbstractProcessor.php" server="ftp.qualitiinternet.com.br/www/" local="131522070813618601" remote="131406525000000000" Dst="1" />
 <file name="UsersProcessor.php" server="ftp.qualitiinternet.com.br/www/" local="131522070815851159" remote="131406525000000000" Dst="1" />
 <file name="ThreadProcessor.php" server="ftp.qualitiinternet.com.br/www/" local="131522070816641784" remote="131406525000000000" Dst="1" />
-<file name="AbstractProcessor.php" server="C:/xampp/htdocs/qualiti/" local="131522070813618601" remote="131522070810000000" Dst="1" />
-<file name="ClientSideProcessor.php" server="C:/xampp/htdocs/qualiti/" local="131522070812757956" remote="131522070810000000" Dst="1" />
-<file name="ThreadProcessor.php" server="C:/xampp/htdocs/qualiti/" local="131522070816641784" remote="131522070810000000" Dst="1" />
-<file name="UsersProcessor.php" server="C:/xampp/htdocs/qualiti/" local="131522070815851159" remote="131522070810000000" Dst="1" />
+<file name="AbstractProcessor.php" server="C:/xampp/htdocs/qualiti/" local="131522070813618601" remote="131522070810000000" Dst="2" />
+<file name="ClientSideProcessor.php" server="C:/xampp/htdocs/qualiti/" local="131522070812757956" remote="131522070810000000" Dst="2" />
+<file name="ThreadProcessor.php" server="C:/xampp/htdocs/qualiti/" local="131522070816641784" remote="131522070810000000" Dst="2" />
+<file name="UsersProcessor.php" server="C:/xampp/htdocs/qualiti/" local="131522070815851159" remote="131522070810000000" Dst="2" />
 </dwsync>

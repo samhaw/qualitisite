@@ -8,12 +8,12 @@
 <file name="threads_collection.handlebars" server="ftp.qualitiinternet.com.br/www/" local="131402905907985044" remote="130978188000000000" Dst="1" />
 <file name="visitor.handlebars" server="ftp.qualitiinternet.com.br/www/" local="131402905908040084" remote="130978188000000000" Dst="1" />
 <file name="visitors_collection.handlebars" server="ftp.qualitiinternet.com.br/www/" local="131402905908765240" remote="130978188000000000" Dst="1" />
-<file name="agent.handlebars" server="C:/xampp/htdocs/qualiti/" local="131402905900000000" remote="131402905900000000" Dst="1" />
-<file name="no_threads.handlebars" server="C:/xampp/htdocs/qualiti/" local="131402905900000000" remote="131402905900000000" Dst="1" />
-<file name="no_visitors.handlebars" server="C:/xampp/htdocs/qualiti/" local="131402905900000000" remote="131402905900000000" Dst="1" />
-<file name="queued_thread.handlebars" server="C:/xampp/htdocs/qualiti/" local="131402905900000000" remote="131402905900000000" Dst="1" />
-<file name="status_panel.handlebars" server="C:/xampp/htdocs/qualiti/" local="131402905900000000" remote="131402905900000000" Dst="1" />
-<file name="threads_collection.handlebars" server="C:/xampp/htdocs/qualiti/" local="131402905900000000" remote="131402905900000000" Dst="1" />
-<file name="visitor.handlebars" server="C:/xampp/htdocs/qualiti/" local="131402905900000000" remote="131402905900000000" Dst="1" />
-<file name="visitors_collection.handlebars" server="C:/xampp/htdocs/qualiti/" local="131402905900000000" remote="131402905900000000" Dst="1" />
+<file name="agent.handlebars" server="C:/xampp/htdocs/qualiti/" local="131402905900000000" remote="131402905900000000" Dst="2" />
+<file name="no_threads.handlebars" server="C:/xampp/htdocs/qualiti/" local="131402905900000000" remote="131402905900000000" Dst="2" />
+<file name="no_visitors.handlebars" server="C:/xampp/htdocs/qualiti/" local="131402905900000000" remote="131402905900000000" Dst="2" />
+<file name="queued_thread.handlebars" server="C:/xampp/htdocs/qualiti/" local="131402905900000000" remote="131402905900000000" Dst="2" />
+<file name="status_panel.handlebars" server="C:/xampp/htdocs/qualiti/" local="131402905900000000" remote="131402905900000000" Dst="2" />
+<file name="threads_collection.handlebars" server="C:/xampp/htdocs/qualiti/" local="131402905900000000" remote="131402905900000000" Dst="2" />
+<file name="visitor.handlebars" server="C:/xampp/htdocs/qualiti/" local="131402905900000000" remote="131402905900000000" Dst="2" />
+<file name="visitors_collection.handlebars" server="C:/xampp/htdocs/qualiti/" local="131402905900000000" remote="131402905900000000" Dst="2" />
 </dwsync>

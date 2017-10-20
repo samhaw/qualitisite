@@ -5,9 +5,9 @@
 <file name="OutputFormatterStyleInterface.php" server="ftp.qualitiinternet.com.br/www/" local="131522071446350047" remote="131406525000000000" Dst="1" />
 <file name="OutputFormatterStyle.php" server="ftp.qualitiinternet.com.br/www/" local="131522071447055591" remote="131406525000000000" Dst="1" />
 <file name="OutputFormatterStyleStack.php" server="ftp.qualitiinternet.com.br/www/" local="131522071448551729" remote="131406525000000000" Dst="1" />
-<file name="OutputFormatter.php" server="C:/xampp/htdocs/qualiti/" local="131522071445161345" remote="131522071440000000" Dst="1" />
-<file name="OutputFormatterInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522071445999816" remote="131522071440000000" Dst="1" />
-<file name="OutputFormatterStyle.php" server="C:/xampp/htdocs/qualiti/" local="131522071447055591" remote="131522071440000000" Dst="1" />
-<file name="OutputFormatterStyleInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522071446350047" remote="131522071440000000" Dst="1" />
-<file name="OutputFormatterStyleStack.php" server="C:/xampp/htdocs/qualiti/" local="131522071448551729" remote="131522071440000000" Dst="1" />
+<file name="OutputFormatter.php" server="C:/xampp/htdocs/qualiti/" local="131522071445161345" remote="131522071440000000" Dst="2" />
+<file name="OutputFormatterInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522071445999816" remote="131522071440000000" Dst="2" />
+<file name="OutputFormatterStyle.php" server="C:/xampp/htdocs/qualiti/" local="131522071447055591" remote="131522071440000000" Dst="2" />
+<file name="OutputFormatterStyleInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522071446350047" remote="131522071440000000" Dst="2" />
+<file name="OutputFormatterStyleStack.php" server="C:/xampp/htdocs/qualiti/" local="131522071448551729" remote="131522071440000000" Dst="2" />
 </dwsync>

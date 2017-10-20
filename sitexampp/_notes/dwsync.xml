@@ -3,12 +3,12 @@
 <file name="applications.html" server="ftp.qualitiinternet.com.br/www/" local="131522072080744746" remote="131238252000000000" Dst="1" />
 <file name="applications.html" server="C:/xampp/htdocs/" local="131179405477776337" remote="131179405470000000" Dst="1" />
 <file name="applications.html" server="ftp.qualitiinternet.com.br//www/" local="131238304800000000" remote="131238304800000000" Dst="2" />
-<file name="applications.html" server="C:/xampp/htdocs/qualiti/" local="131522072080744746" remote="131522072080000000" Dst="1" />
+<file name="applications.html" server="C:/xampp/htdocs/qualiti/" local="131522072080744746" remote="131522072080000000" Dst="2" />
 <file name="bitnami.css" server="ftp.qualitiinternet.com.br//www/" local="131302618124748044" remote="131238304800000000" Dst="2" />
 <file name="index.php" server="ftp.qualitiinternet.com.br//www/" local="131302618215823253" remote="131238304800000000" Dst="2" />
 <file name="favicon.ico" server="ftp.qualitiinternet.com.br//www/" local="131302618215893257" remote="131238304800000000" Dst="2" />
-<file name="bitnami.css" server="C:/xampp/htdocs/qualiti/" local="131238304800000000" remote="131238304800000000" Dst="1" />
-<file name="favicon.ico" server="C:/xampp/htdocs/qualiti/" local="131238304800000000" remote="131238304800000000" Dst="1" />
-<file name="index.php" server="C:/xampp/htdocs/qualiti/" local="131522072089982941" remote="131522072080000000" Dst="1" />
+<file name="bitnami.css" server="C:/xampp/htdocs/qualiti/" local="131238304800000000" remote="131238304800000000" Dst="2" />
+<file name="favicon.ico" server="C:/xampp/htdocs/qualiti/" local="131238304800000000" remote="131238304800000000" Dst="2" />
+<file name="index.php" server="C:/xampp/htdocs/qualiti/" local="131522072089982941" remote="131522072080000000" Dst="2" />
 <file name="index.php" server="ftp.qualitiinternet.com.br/www/" local="131522072089982941" remote="131406525000000000" Dst="1" />
 </dwsync>

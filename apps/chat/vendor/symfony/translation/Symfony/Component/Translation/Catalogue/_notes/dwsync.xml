@@ -4,8 +4,8 @@
 <file name="DiffOperation.php" server="ftp.qualitiinternet.com.br//www/" local="131302617930236919" remote="130978152000000000" Dst="2" />
 <file name="MergeOperation.php" server="ftp.qualitiinternet.com.br//www/" local="131302617930706946" remote="130978152000000000" Dst="2" />
 <file name="OperationInterface.php" server="ftp.qualitiinternet.com.br//www/" local="131302617930566938" remote="130978152000000000" Dst="2" />
-<file name="AbstractOperation.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="DiffOperation.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="MergeOperation.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="OperationInterface.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
+<file name="AbstractOperation.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="DiffOperation.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="MergeOperation.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="OperationInterface.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
 </dwsync>

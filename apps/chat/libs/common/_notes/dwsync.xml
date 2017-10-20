@@ -10,14 +10,14 @@
 <file name="string.php" server="ftp.qualitiinternet.com.br//www/" local="131302617414057395" remote="130978152000000000" Dst="2" />
 <file name="verification.php" server="ftp.qualitiinternet.com.br//www/" local="131302617414467418" remote="130978152000000000" Dst="2" />
 <file name="misc.php" server="ftp.qualitiinternet.com.br//www/" local="131302617443369072" remote="130978152000000000" Dst="2" />
-<file name="configurations.php" server="C:/xampp/htdocs/qualiti/" local="130981608000000000" remote="130981608000000000" Dst="1" />
-<file name="constants.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="csrf.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="datetime.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="locale.php" server="C:/xampp/htdocs/qualiti/" local="130983336000000000" remote="130983336000000000" Dst="1" />
-<file name="misc.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="request.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="response.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="string.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="verification.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
+<file name="configurations.php" server="C:/xampp/htdocs/qualiti/" local="130981608000000000" remote="130981608000000000" Dst="2" />
+<file name="constants.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="csrf.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="datetime.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="locale.php" server="C:/xampp/htdocs/qualiti/" local="130983336000000000" remote="130983336000000000" Dst="2" />
+<file name="misc.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="request.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="response.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="string.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="verification.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
 </dwsync>

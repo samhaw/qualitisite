@@ -11,15 +11,15 @@
 <file name="PoFileDumperTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522070211752709" remote="131406524400000000" Dst="1" />
 <file name="YamlFileDumperTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522070212463294" remote="131406524400000000" Dst="1" />
 <file name="XliffFileDumperTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522070214987363" remote="131406524400000000" Dst="1" />
-<file name="CsvFileDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070208358164" remote="131522070200000000" Dst="1" />
-<file name="FileDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070208062921" remote="131522070200000000" Dst="1" />
-<file name="IcuResFileDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070209480905" remote="131522070200000000" Dst="1" />
-<file name="IniFileDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070209135596" remote="131522070200000000" Dst="1" />
-<file name="JsonFileDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070209771098" remote="131522070200000000" Dst="1" />
-<file name="MoFileDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070210336533" remote="131522070210000000" Dst="1" />
-<file name="PhpFileDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070211237279" remote="131522070210000000" Dst="1" />
-<file name="PoFileDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070211752709" remote="131522070210000000" Dst="1" />
-<file name="QtFileDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070211482517" remote="131522070210000000" Dst="1" />
-<file name="XliffFileDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070214987363" remote="131522070210000000" Dst="1" />
-<file name="YamlFileDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070212463294" remote="131522070210000000" Dst="1" />
+<file name="CsvFileDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070208358164" remote="131522070200000000" Dst="2" />
+<file name="FileDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070208062921" remote="131522070200000000" Dst="2" />
+<file name="IcuResFileDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070209480905" remote="131522070200000000" Dst="2" />
+<file name="IniFileDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070209135596" remote="131522070200000000" Dst="2" />
+<file name="JsonFileDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070209771098" remote="131522070200000000" Dst="2" />
+<file name="MoFileDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070210336533" remote="131522070210000000" Dst="2" />
+<file name="PhpFileDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070211237279" remote="131522070210000000" Dst="2" />
+<file name="PoFileDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070211752709" remote="131522070210000000" Dst="2" />
+<file name="QtFileDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070211482517" remote="131522070210000000" Dst="2" />
+<file name="XliffFileDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070214987363" remote="131522070210000000" Dst="2" />
+<file name="YamlFileDumperTest.php" server="C:/xampp/htdocs/qualiti/" local="131522070212463294" remote="131522070210000000" Dst="2" />
 </dwsync>

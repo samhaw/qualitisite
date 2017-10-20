@@ -3,7 +3,7 @@
 <file name="AbstractOperationTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071889057477" remote="131406525000000000" Dst="1" />
 <file name="DiffOperationTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071889537813" remote="131406525000000000" Dst="1" />
 <file name="MergeOperationTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071890033164" remote="131406525000000000" Dst="1" />
-<file name="AbstractOperationTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071889057477" remote="131522071880000000" Dst="1" />
-<file name="DiffOperationTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071889537813" remote="131522071880000000" Dst="1" />
-<file name="MergeOperationTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071890033164" remote="131522071890000000" Dst="1" />
+<file name="AbstractOperationTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071889057477" remote="131522071880000000" Dst="2" />
+<file name="DiffOperationTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071889537813" remote="131522071880000000" Dst="2" />
+<file name="MergeOperationTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071890033164" remote="131522071890000000" Dst="2" />
 </dwsync>

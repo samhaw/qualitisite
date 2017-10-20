@@ -3,7 +3,7 @@
 <file name="DKIMSignerTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522069423167798" remote="131406524400000000" Dst="1" />
 <file name="OpenDKIMSignerTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522069423613448" remote="131406524400000000" Dst="1" />
 <file name="SMimeSignerTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522069425678870" remote="131406524400000000" Dst="1" />
-<file name="DKIMSignerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069423167798" remote="131522069420000000" Dst="1" />
-<file name="OpenDKIMSignerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069423613448" remote="131522069420000000" Dst="1" />
-<file name="SMimeSignerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069425678870" remote="131522069420000000" Dst="1" />
+<file name="DKIMSignerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069423167798" remote="131522069420000000" Dst="2" />
+<file name="OpenDKIMSignerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069423613448" remote="131522069420000000" Dst="2" />
+<file name="SMimeSignerTest.php" server="C:/xampp/htdocs/qualiti/" local="131522069425678870" remote="131522069420000000" Dst="2" />
 </dwsync>

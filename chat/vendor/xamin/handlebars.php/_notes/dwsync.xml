@@ -6,10 +6,10 @@
 <file name=".travis.yml" server="ftp.qualitiinternet.com.br/www/" local="131522070373604412" remote="130978188000000000" Dst="1" />
 <file name="phpunit.xml.dist" server="ftp.qualitiinternet.com.br/www/" local="131522070373874595" remote="130978188000000000" Dst="1" />
 <file name="composer.json" server="ftp.qualitiinternet.com.br/www/" local="131522070373999718" remote="130978188000000000" Dst="1" />
-<file name=".gitignore" server="C:/xampp/htdocs/qualiti/" local="131522070371984168" remote="131522070370000000" Dst="1" />
-<file name=".scrutinizer.yml" server="C:/xampp/htdocs/qualiti/" local="131522070372589598" remote="131522070370000000" Dst="1" />
-<file name=".travis.yml" server="C:/xampp/htdocs/qualiti/" local="131522070373604412" remote="131522070370000000" Dst="1" />
-<file name="composer.json" server="C:/xampp/htdocs/qualiti/" local="131522070373999718" remote="131522070370000000" Dst="1" />
-<file name="phpunit.xml.dist" server="C:/xampp/htdocs/qualiti/" local="131522070373874595" remote="131522070370000000" Dst="1" />
-<file name="README.markdown" server="C:/xampp/htdocs/qualiti/" local="131522070372939846" remote="131522070370000000" Dst="1" />
+<file name=".gitignore" server="C:/xampp/htdocs/qualiti/" local="131522070371984168" remote="131522070370000000" Dst="2" />
+<file name=".scrutinizer.yml" server="C:/xampp/htdocs/qualiti/" local="131522070372589598" remote="131522070370000000" Dst="2" />
+<file name=".travis.yml" server="C:/xampp/htdocs/qualiti/" local="131522070373604412" remote="131522070370000000" Dst="2" />
+<file name="composer.json" server="C:/xampp/htdocs/qualiti/" local="131522070373999718" remote="131522070370000000" Dst="2" />
+<file name="phpunit.xml.dist" server="C:/xampp/htdocs/qualiti/" local="131522070373874595" remote="131522070370000000" Dst="2" />
+<file name="README.markdown" server="C:/xampp/htdocs/qualiti/" local="131522070372939846" remote="131522070370000000" Dst="2" />
 </dwsync>

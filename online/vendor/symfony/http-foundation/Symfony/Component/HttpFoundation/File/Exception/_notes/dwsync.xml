@@ -5,9 +5,9 @@
 <file name="AccessDeniedException.php" server="ftp.qualitiinternet.com.br/www/" local="131522071721895592" remote="131406525000000000" Dst="1" />
 <file name="UnexpectedTypeException.php" server="ftp.qualitiinternet.com.br/www/" local="131522071722546058" remote="131406525000000000" Dst="1" />
 <file name="UploadException.php" server="ftp.qualitiinternet.com.br/www/" local="131522071723156483" remote="131406525000000000" Dst="1" />
-<file name="AccessDeniedException.php" server="C:/xampp/htdocs/qualiti/" local="131522071721895592" remote="131522071720000000" Dst="1" />
-<file name="FileException.php" server="C:/xampp/htdocs/qualiti/" local="131522071721495309" remote="131522071720000000" Dst="1" />
-<file name="FileNotFoundException.php" server="C:/xampp/htdocs/qualiti/" local="131522071721685443" remote="131522071720000000" Dst="1" />
-<file name="UnexpectedTypeException.php" server="C:/xampp/htdocs/qualiti/" local="131522071722546058" remote="131522071720000000" Dst="1" />
-<file name="UploadException.php" server="C:/xampp/htdocs/qualiti/" local="131522071723156483" remote="131522071720000000" Dst="1" />
+<file name="AccessDeniedException.php" server="C:/xampp/htdocs/qualiti/" local="131522071721895592" remote="131522071720000000" Dst="2" />
+<file name="FileException.php" server="C:/xampp/htdocs/qualiti/" local="131522071721495309" remote="131522071720000000" Dst="2" />
+<file name="FileNotFoundException.php" server="C:/xampp/htdocs/qualiti/" local="131522071721685443" remote="131522071720000000" Dst="2" />
+<file name="UnexpectedTypeException.php" server="C:/xampp/htdocs/qualiti/" local="131522071722546058" remote="131522071720000000" Dst="2" />
+<file name="UploadException.php" server="C:/xampp/htdocs/qualiti/" local="131522071723156483" remote="131522071720000000" Dst="2" />
 </dwsync>

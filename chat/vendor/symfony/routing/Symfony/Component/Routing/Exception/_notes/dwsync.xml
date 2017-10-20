@@ -6,10 +6,10 @@
 <file name="ResourceNotFoundException.php" server="ftp.qualitiinternet.com.br/www/" local="131522070114256246" remote="131406524400000000" Dst="1" />
 <file name="MissingMandatoryParametersException.php" server="ftp.qualitiinternet.com.br/www/" local="131522070114466395" remote="131406524400000000" Dst="1" />
 <file name="RouteNotFoundException.php" server="ftp.qualitiinternet.com.br/www/" local="131522070114736587" remote="131406524400000000" Dst="1" />
-<file name="ExceptionInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522070112821005" remote="131522070110000000" Dst="1" />
-<file name="InvalidParameterException.php" server="C:/xampp/htdocs/qualiti/" local="131522070111945303" remote="131522070110000000" Dst="1" />
-<file name="MethodNotAllowedException.php" server="C:/xampp/htdocs/qualiti/" local="131522070113800901" remote="131522070110000000" Dst="1" />
-<file name="MissingMandatoryParametersException.php" server="C:/xampp/htdocs/qualiti/" local="131522070114466395" remote="131522070110000000" Dst="1" />
-<file name="ResourceNotFoundException.php" server="C:/xampp/htdocs/qualiti/" local="131522070114256246" remote="131522070110000000" Dst="1" />
-<file name="RouteNotFoundException.php" server="C:/xampp/htdocs/qualiti/" local="131522070114736587" remote="131522070110000000" Dst="1" />
+<file name="ExceptionInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522070112821005" remote="131522070110000000" Dst="2" />
+<file name="InvalidParameterException.php" server="C:/xampp/htdocs/qualiti/" local="131522070111945303" remote="131522070110000000" Dst="2" />
+<file name="MethodNotAllowedException.php" server="C:/xampp/htdocs/qualiti/" local="131522070113800901" remote="131522070110000000" Dst="2" />
+<file name="MissingMandatoryParametersException.php" server="C:/xampp/htdocs/qualiti/" local="131522070114466395" remote="131522070110000000" Dst="2" />
+<file name="ResourceNotFoundException.php" server="C:/xampp/htdocs/qualiti/" local="131522070114256246" remote="131522070110000000" Dst="2" />
+<file name="RouteNotFoundException.php" server="C:/xampp/htdocs/qualiti/" local="131522070114736587" remote="131522070110000000" Dst="2" />
 </dwsync>

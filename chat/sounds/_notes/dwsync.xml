@@ -4,8 +4,8 @@
 <file name="new_message.wav" server="ftp.qualitiinternet.com.br/www/" local="131402905844735615" remote="130978188000000000" Dst="1" />
 <file name="new_user.mp3" server="ftp.qualitiinternet.com.br/www/" local="131402905845040828" remote="130978188000000000" Dst="1" />
 <file name="new_user.wav" server="ftp.qualitiinternet.com.br/www/" local="131402905845416099" remote="130978188000000000" Dst="1" />
-<file name="new_message.mp3" server="C:/xampp/htdocs/qualiti/" local="131402905840000000" remote="131402905840000000" Dst="1" />
-<file name="new_message.wav" server="C:/xampp/htdocs/qualiti/" local="131402905840000000" remote="131402905840000000" Dst="1" />
-<file name="new_user.mp3" server="C:/xampp/htdocs/qualiti/" local="131402905840000000" remote="131402905840000000" Dst="1" />
-<file name="new_user.wav" server="C:/xampp/htdocs/qualiti/" local="131402905840000000" remote="131402905840000000" Dst="1" />
+<file name="new_message.mp3" server="C:/xampp/htdocs/qualiti/" local="131402905840000000" remote="131402905840000000" Dst="2" />
+<file name="new_message.wav" server="C:/xampp/htdocs/qualiti/" local="131402905840000000" remote="131402905840000000" Dst="2" />
+<file name="new_user.mp3" server="C:/xampp/htdocs/qualiti/" local="131402905840000000" remote="131402905840000000" Dst="2" />
+<file name="new_user.wav" server="C:/xampp/htdocs/qualiti/" local="131402905840000000" remote="131402905840000000" Dst="2" />
 </dwsync>

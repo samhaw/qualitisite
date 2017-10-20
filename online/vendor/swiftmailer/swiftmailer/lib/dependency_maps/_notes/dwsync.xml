@@ -4,8 +4,8 @@
 <file name="message_deps.php" server="ftp.qualitiinternet.com.br/www/" local="131522071276675907" remote="131406525000000000" Dst="1" />
 <file name="mime_deps.php" server="ftp.qualitiinternet.com.br/www/" local="131522071277676638" remote="131406525000000000" Dst="1" />
 <file name="transport_deps.php" server="ftp.qualitiinternet.com.br/www/" local="131522071277826762" remote="131406525000000000" Dst="1" />
-<file name="cache_deps.php" server="C:/xampp/htdocs/qualiti/" local="131522071276385692" remote="131522071270000000" Dst="1" />
-<file name="message_deps.php" server="C:/xampp/htdocs/qualiti/" local="131522071276675907" remote="131522071270000000" Dst="1" />
-<file name="mime_deps.php" server="C:/xampp/htdocs/qualiti/" local="131522071277676638" remote="131522071270000000" Dst="1" />
-<file name="transport_deps.php" server="C:/xampp/htdocs/qualiti/" local="131522071277826762" remote="131522071270000000" Dst="1" />
+<file name="cache_deps.php" server="C:/xampp/htdocs/qualiti/" local="131522071276385692" remote="131522071270000000" Dst="2" />
+<file name="message_deps.php" server="C:/xampp/htdocs/qualiti/" local="131522071276675907" remote="131522071270000000" Dst="2" />
+<file name="mime_deps.php" server="C:/xampp/htdocs/qualiti/" local="131522071277676638" remote="131522071270000000" Dst="2" />
+<file name="transport_deps.php" server="C:/xampp/htdocs/qualiti/" local="131522071277826762" remote="131522071270000000" Dst="2" />
 </dwsync>

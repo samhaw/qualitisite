@@ -5,9 +5,9 @@
 <file name="AuthenticationManagerInterface.php" server="ftp.qualitiinternet.com.br/www/" local="131522068819482329" remote="131406524400000000" Dst="1" />
 <file name="DummyAuthenticationManager.php" server="ftp.qualitiinternet.com.br/www/" local="131522068820728303" remote="131406524400000000" Dst="1" />
 <file name="SessionAuthenticationManager.php" server="ftp.qualitiinternet.com.br/www/" local="131522068821348743" remote="131406524400000000" Dst="1" />
-<file name="AuthenticationManager.php" server="C:/xampp/htdocs/qualiti/" local="131522068819117032" remote="131522068810000000" Dst="1" />
-<file name="AuthenticationManagerAwareInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522068819717526" remote="131522068810000000" Dst="1" />
-<file name="AuthenticationManagerInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522068819482329" remote="131522068810000000" Dst="1" />
-<file name="DummyAuthenticationManager.php" server="C:/xampp/htdocs/qualiti/" local="131522068820728303" remote="131522068820000000" Dst="1" />
-<file name="SessionAuthenticationManager.php" server="C:/xampp/htdocs/qualiti/" local="131522068821348743" remote="131522068820000000" Dst="1" />
+<file name="AuthenticationManager.php" server="C:/xampp/htdocs/qualiti/" local="131522068819117032" remote="131522068810000000" Dst="2" />
+<file name="AuthenticationManagerAwareInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522068819717526" remote="131522068810000000" Dst="2" />
+<file name="AuthenticationManagerInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522068819482329" remote="131522068810000000" Dst="2" />
+<file name="DummyAuthenticationManager.php" server="C:/xampp/htdocs/qualiti/" local="131522068820728303" remote="131522068820000000" Dst="2" />
+<file name="SessionAuthenticationManager.php" server="C:/xampp/htdocs/qualiti/" local="131522068821348743" remote="131522068820000000" Dst="2" />
 </dwsync>

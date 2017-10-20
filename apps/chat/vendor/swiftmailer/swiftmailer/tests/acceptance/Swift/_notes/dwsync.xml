@@ -6,10 +6,10 @@
 <file name="EncodingAcceptanceTest.php" server="ftp.qualitiinternet.com.br//www/" local="131302617594227700" remote="130978152000000000" Dst="2" />
 <file name="MessageAcceptanceTest.php" server="ftp.qualitiinternet.com.br//www/" local="131302617595167754" remote="130978152000000000" Dst="2" />
 <file name="MimePartAcceptanceTest.php" server="ftp.qualitiinternet.com.br//www/" local="131302617598757959" remote="130978152000000000" Dst="2" />
-<file name="AttachmentAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="DependencyContainerAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="EmbeddedFileAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="EncodingAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="MessageAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
-<file name="MimePartAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="1" />
+<file name="AttachmentAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="DependencyContainerAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="EmbeddedFileAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="EncodingAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="MessageAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
+<file name="MimePartAcceptanceTest.php" server="C:/xampp/htdocs/qualiti/" local="130978152000000000" remote="130978152000000000" Dst="2" />
 </dwsync>

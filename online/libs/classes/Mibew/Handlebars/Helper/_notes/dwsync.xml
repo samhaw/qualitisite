@@ -11,15 +11,15 @@
 <file name="GeneratePaginationHelper.php" server="ftp.qualitiinternet.com.br/www/" local="131522070794099866" remote="131406525000000000" Dst="1" />
 <file name="JsAssetsHelper.php" server="ftp.qualitiinternet.com.br/www/" local="131522070794470128" remote="131406525000000000" Dst="1" />
 <file name="RouteHelper.php" server="ftp.qualitiinternet.com.br/www/" local="131522070795310789" remote="131406525000000000" Dst="1" />
-<file name="AbstractAssetsHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522070789298810" remote="131522070780000000" Dst="1" />
-<file name="AssetHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522070789944294" remote="131522070780000000" Dst="1" />
-<file name="CsrfProtectedRouteHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522070790409654" remote="131522070790000000" Dst="1" />
-<file name="CsrfTokenInputHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522070790829952" remote="131522070790000000" Dst="1" />
-<file name="CssAssetsHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522070791789440" remote="131522070790000000" Dst="1" />
-<file name="FormatDateDiffHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522070792219814" remote="131522070790000000" Dst="1" />
-<file name="FormatDateHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522070792630101" remote="131522070790000000" Dst="1" />
-<file name="GeneratePaginationHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522070794099866" remote="131522070790000000" Dst="1" />
-<file name="JsAssetsHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522070794470128" remote="131522070790000000" Dst="1" />
-<file name="L10nHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522070793659523" remote="131522070790000000" Dst="1" />
-<file name="RouteHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522070795310789" remote="131522070790000000" Dst="1" />
+<file name="AbstractAssetsHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522070789298810" remote="131522070780000000" Dst="2" />
+<file name="AssetHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522070789944294" remote="131522070780000000" Dst="2" />
+<file name="CsrfProtectedRouteHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522070790409654" remote="131522070790000000" Dst="2" />
+<file name="CsrfTokenInputHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522070790829952" remote="131522070790000000" Dst="2" />
+<file name="CssAssetsHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522070791789440" remote="131522070790000000" Dst="2" />
+<file name="FormatDateDiffHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522070792219814" remote="131522070790000000" Dst="2" />
+<file name="FormatDateHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522070792630101" remote="131522070790000000" Dst="2" />
+<file name="GeneratePaginationHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522070794099866" remote="131522070790000000" Dst="2" />
+<file name="JsAssetsHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522070794470128" remote="131522070790000000" Dst="2" />
+<file name="L10nHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522070793659523" remote="131522070790000000" Dst="2" />
+<file name="RouteHelper.php" server="C:/xampp/htdocs/qualiti/" local="131522070795310789" remote="131522070790000000" Dst="2" />
 </dwsync>

@@ -4,8 +4,8 @@
 <file name="AssetManagerInterface.php" server="ftp.qualitiinternet.com.br/www/" local="131522068816750229" remote="131406524400000000" Dst="1" />
 <file name="AssetManager.php" server="ftp.qualitiinternet.com.br/www/" local="131522068815166344" remote="131406524400000000" Dst="1" />
 <file name="Package.php" server="ftp.qualitiinternet.com.br/www/" local="131522068817966177" remote="131406524400000000" Dst="1" />
-<file name="AssetManager.php" server="C:/xampp/htdocs/qualiti/" local="131522068815166344" remote="131522068810000000" Dst="1" />
-<file name="AssetManagerAwareInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522068815724706" remote="131522068810000000" Dst="1" />
-<file name="AssetManagerInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522068816750229" remote="131522068810000000" Dst="1" />
-<file name="Package.php" server="C:/xampp/htdocs/qualiti/" local="131522068817966177" remote="131522068810000000" Dst="1" />
+<file name="AssetManager.php" server="C:/xampp/htdocs/qualiti/" local="131522068815166344" remote="131522068810000000" Dst="2" />
+<file name="AssetManagerAwareInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522068815724706" remote="131522068810000000" Dst="2" />
+<file name="AssetManagerInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522068816750229" remote="131522068810000000" Dst="2" />
+<file name="Package.php" server="C:/xampp/htdocs/qualiti/" local="131522068817966177" remote="131522068810000000" Dst="2" />
 </dwsync>

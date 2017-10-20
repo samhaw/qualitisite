@@ -3,7 +3,7 @@
 <file name="base.handlebars" server="ftp.qualitiinternet.com.br/www/" local="131522071046609137" remote="131316876000000000" Dst="1" />
 <file name="typing.handlebars" server="ftp.qualitiinternet.com.br/www/" local="131522071047499854" remote="131316876000000000" Dst="1" />
 <file name="message.handlebars" server="ftp.qualitiinternet.com.br/www/" local="131522071047900126" remote="131316876000000000" Dst="1" />
-<file name="base.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071046609137" remote="131522071040000000" Dst="1" />
-<file name="message.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071047900126" remote="131522071040000000" Dst="1" />
-<file name="typing.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071047499854" remote="131522071040000000" Dst="1" />
+<file name="base.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071046609137" remote="131522071040000000" Dst="2" />
+<file name="message.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071047900126" remote="131522071040000000" Dst="2" />
+<file name="typing.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071047499854" remote="131522071040000000" Dst="2" />
 </dwsync>

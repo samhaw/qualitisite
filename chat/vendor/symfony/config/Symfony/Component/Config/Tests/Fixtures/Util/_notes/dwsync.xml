@@ -5,9 +5,9 @@
 <file name="invalid_schema.xml" server="ftp.qualitiinternet.com.br/www/" local="131402906320328646" remote="130978188000000000" Dst="1" />
 <file name="schema.xsd" server="ftp.qualitiinternet.com.br/www/" local="131402906320428717" remote="130978188000000000" Dst="1" />
 <file name="valid.xml" server="ftp.qualitiinternet.com.br/www/" local="131402906320618848" remote="130978188000000000" Dst="1" />
-<file name="document_type.xml" server="C:/xampp/htdocs/qualiti/" local="131402906310000000" remote="131402906310000000" Dst="1" />
-<file name="invalid.xml" server="C:/xampp/htdocs/qualiti/" local="131402906310000000" remote="131402906310000000" Dst="1" />
-<file name="invalid_schema.xml" server="C:/xampp/htdocs/qualiti/" local="131402906320000000" remote="131402906320000000" Dst="1" />
-<file name="schema.xsd" server="C:/xampp/htdocs/qualiti/" local="131402906320000000" remote="131402906320000000" Dst="1" />
-<file name="valid.xml" server="C:/xampp/htdocs/qualiti/" local="131402906320000000" remote="131402906320000000" Dst="1" />
+<file name="document_type.xml" server="C:/xampp/htdocs/qualiti/" local="131402906310000000" remote="131402906310000000" Dst="2" />
+<file name="invalid.xml" server="C:/xampp/htdocs/qualiti/" local="131402906310000000" remote="131402906310000000" Dst="2" />
+<file name="invalid_schema.xml" server="C:/xampp/htdocs/qualiti/" local="131402906320000000" remote="131402906320000000" Dst="2" />
+<file name="schema.xsd" server="C:/xampp/htdocs/qualiti/" local="131402906320000000" remote="131402906320000000" Dst="2" />
+<file name="valid.xml" server="C:/xampp/htdocs/qualiti/" local="131402906320000000" remote="131402906320000000" Dst="2" />
 </dwsync>

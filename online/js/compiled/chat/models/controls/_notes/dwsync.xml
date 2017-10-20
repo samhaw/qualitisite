@@ -8,12 +8,12 @@
 <file name="send_mail.js" server="ftp.qualitiinternet.com.br/www/" local="131522070601384084" remote="131316876000000000" Dst="1" />
 <file name="sound.js" server="ftp.qualitiinternet.com.br/www/" local="131522070601864425" remote="131316876000000000" Dst="1" />
 <file name="user_name.js" server="ftp.qualitiinternet.com.br/www/" local="131522070602054560" remote="131316876000000000" Dst="1" />
-<file name="close.js" server="C:/xampp/htdocs/qualiti/" local="131522070598837060" remote="131522070590000000" Dst="1" />
-<file name="history.js" server="C:/xampp/htdocs/qualiti/" local="131522070600067997" remote="131522070600000000" Dst="1" />
-<file name="redirect.js" server="C:/xampp/htdocs/qualiti/" local="131522070600453266" remote="131522070600000000" Dst="1" />
-<file name="refresh.js" server="C:/xampp/htdocs/qualiti/" local="131522070599592625" remote="131522070590000000" Dst="1" />
-<file name="secure_mode.js" server="C:/xampp/htdocs/qualiti/" local="131522070600993649" remote="131522070600000000" Dst="1" />
-<file name="send_mail.js" server="C:/xampp/htdocs/qualiti/" local="131522070601384084" remote="131522070600000000" Dst="1" />
-<file name="sound.js" server="C:/xampp/htdocs/qualiti/" local="131522070601864425" remote="131522070600000000" Dst="1" />
-<file name="user_name.js" server="C:/xampp/htdocs/qualiti/" local="131522070602054560" remote="131522070600000000" Dst="1" />
+<file name="close.js" server="C:/xampp/htdocs/qualiti/" local="131522070598837060" remote="131522070590000000" Dst="2" />
+<file name="history.js" server="C:/xampp/htdocs/qualiti/" local="131522070600067997" remote="131522070600000000" Dst="2" />
+<file name="redirect.js" server="C:/xampp/htdocs/qualiti/" local="131522070600453266" remote="131522070600000000" Dst="2" />
+<file name="refresh.js" server="C:/xampp/htdocs/qualiti/" local="131522070599592625" remote="131522070590000000" Dst="2" />
+<file name="secure_mode.js" server="C:/xampp/htdocs/qualiti/" local="131522070600993649" remote="131522070600000000" Dst="2" />
+<file name="send_mail.js" server="C:/xampp/htdocs/qualiti/" local="131522070601384084" remote="131522070600000000" Dst="2" />
+<file name="sound.js" server="C:/xampp/htdocs/qualiti/" local="131522070601864425" remote="131522070600000000" Dst="2" />
+<file name="user_name.js" server="C:/xampp/htdocs/qualiti/" local="131522070602054560" remote="131522070600000000" Dst="2" />
 </dwsync>

@@ -62,7 +62,7 @@
 
     <link rel="shortcut icon" href="img/favicon.ico">
 
-    <link href="css/customizacoes-27.css" rel="stylesheet" type="text/css">
+    <link href="css/customizacoes-28.css" rel="stylesheet" type="text/css">
 
     <!-- JQuery -->
 
@@ -121,38 +121,22 @@
            <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
 
             <nav class="pull-right nav-collapse collapse">
-
               <ul id="menu-main" class="nav">
-
                 <li><a title="Veja todos os Planos" href="#portfolio">Inicio</a></li>
-
-                <li><a title="Solicite agora, é fácil!" href="solicitacao.php">Solicitar serviço</a></li>
-
+                <li><a title="Solicite agora, é fácil!" href="solicitacao.php">Solicitar/Disponibilidade</a></li>
                 <li><a title="Área exclusiva dos assinantes - Boleto, Relatório, etc" href="http://42d5023a0915.sn.mynetname.net:8181">Área do Assinante</a></li>
-
+                <li><a title="Gere a segunda-via com data atualizada" href="http://segundavia.qualitiinternet.com.br">Segunda-via</a></li>
                 <li><a title="Área exclusiva para funcionários" href="http://webmail.qualitiinternet.com.br">E-mail</a></li>
-
                 <li><a title="Fale conosco" href="#contact">Contato</a></li>
-
               </ul>
-
             </nav>
-
-
-
           </div>
 
 			<div class="container">
-
 				<div class="" id="telefone-float">
-
-					<a class="" href="https://api.whatsapp.com/send?phone=5511975149382&text=Olá%20!" data-tel="+55-11-25002788">&phone;  Tel: (11) 2500-2788</a>	
-
+					<a class="" href="https://api.whatsapp.com/send?phone=5511975149382&text=Olá%20!" data-tel="+55-11-25002788" target="_blank">&phone;  Tel: (11) 2500-2788</a>
 				</div> 
-
 			</div>
-
-
 
      <!-- /.navbar-inner -->
 
@@ -206,40 +190,42 @@
 
 </div>-->
 
-    <div id="headerwrap" style="background: url(img/foto-04.jpg); background-size: cover; padding-top: 3em">
+    <div id="headerwrap" style="background: url(img/foto-01.jpg); background-size: cover; padding-top: 3em">
 
       <header class="clearfix" style="padding-top: 0; margin-top: 2em">
 
-		<span id="textochamada" style="margin-top: 2em;">
+		<span class="span12">
 
-		  <h1>Internet de qualidade, econômica e <spam style="color: #F0BF00">sem limites!</spam></h1>
-
-		  <h1 style="display: none">Ligue agora: <spam style="color: #F0BF00">(11) 2500-2788</spam></h1>
+		  <h1 style="margin: 1em;">Internet de qualidade, econômica e <spam style="color: #F0BF00">sem limites!</spam></h1>
 
 		</span> 
-
+		
+		 <div class="row"></div>
          <div class="container">
+        
+          	<div class="row">	
+				<h4 style="color: whitesmoke; margin-top: 0.3; margin-bottom: 1em;">Solicite atendimento pelo WhatsApp - Cliqe no Ícone</h4>	
+				<div class="span3">  </div>
+				<div class="span3">
+					<a href="https://api.whatsapp.com/send?phone=5511975149382&text=Olá%20!%20QualiTi%20Internet.%20Estou%20interessado%20em%20contratar%20a%20internet%20de%20vocês." target="_blank"><img src="img/38_-_Whatsapp_communication_dialogue_discussion-128.png" width="64" height="64">
+					<h4 style="color: whitesmoke; margin-top: 0.3; margin-bottom: 1em;">(11) 9-7514-9382</h4>
+					</a>
+				</div>
+				<div class="span3">                	
+					<a href="https://api.whatsapp.com/send?phone=5511997961029&text=Olá%20!%20QualiTi%20Internet.%20Estou%20interessado%20em%20contratar%20a%20internet%20de%20vocês." target="_blank"><img src="img/38_-_Whatsapp_communication_dialogue_discussion-128.png" width="64" height="64">
+					<h4 style="color: whitesmoke; margin-top: 0.3; margin-bottom: 1em;">(11) 9-9796-1029</h4>
+					</a>              	
+				</div>
+				<div class="span3">  </div>          
 
-          	<div class="row">
+          </div>
+
+          	<div class="row" style="display: none">
             	<div class="span12">  
 					<a href="http://www.anatel.gov.br/" target="_blank"><img src="img/ico-anatel.png" border="0"></a>
 					<h4 style="color: whitesmoke; margin-top: 0.3; margin-bottom: 1em;">Em fase de homologação</h4>	
 				</div>
-			</div>	
-        
-          	<div class="row">					
-			<div class="span6">  		
-				<a href="https://api.whatsapp.com/send?phone=5511975149382&text=Olá%20!%20QualiTi%20Internet.%20Estou%20interessado%20em%20contratar%20a%20internet%20de%20vocês." target="_blank"><img src="img/38_-_Whatsapp_communication_dialogue_discussion-128.png" width="64" height="64">
-              	<h4 style="color: whitesmoke; margin-top: 0.3; margin-bottom: 1em;">(11) 9-7514-9382</h4>
-              	</a>
-			</div>
-			<div class="span6">                	
-				<a href="https://api.whatsapp.com/send?phone=5511975149382&text=Olá%20!%20QualiTi%20Internet.%20Estou%20interessado%20em%20contratar%20a%20internet%20de%20vocês." target="_blank"><img src="img/38_-_Whatsapp_communication_dialogue_discussion-128.png" width="64" height="64">
-              	<h4 style="color: whitesmoke; margin-top: 0.3; margin-bottom: 1em;">(11) 9-9796-1029</h4>
-              	</a>              	
-            </div>
-
-          </div>
+			</div>	                    
 
         </div>
 
@@ -830,16 +816,6 @@
     <script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
 
     <script type="text/javascript" src="js/site.js"></script>
-
-	<!-- BEGIN JIVOSITE CODE {literal} -->
-
-	<script type='text/javascript'>
-
-	(function(){ var widget_id = 'Ms4LJIfqgW';var d=document;var w=window;function l(){
-
-	var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
-
-	<!-- {/literal} END JIVOSITE CODE -->
 
     <!--ANALYTICS CODE-->
 

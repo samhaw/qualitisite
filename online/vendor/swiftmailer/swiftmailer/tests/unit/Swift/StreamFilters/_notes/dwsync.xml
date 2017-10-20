@@ -3,7 +3,7 @@
 <file name="ByteArrayReplacementFilterTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071358790099" remote="131406525000000000" Dst="1" />
 <file name="StringReplacementFilterFactoryTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071359705804" remote="131406525000000000" Dst="1" />
 <file name="StringReplacementFilterTest.php" server="ftp.qualitiinternet.com.br/www/" local="131522071360561732" remote="131406525000000000" Dst="1" />
-<file name="ByteArrayReplacementFilterTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071358790099" remote="131522071350000000" Dst="1" />
-<file name="StringReplacementFilterFactoryTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071359705804" remote="131522071350000000" Dst="1" />
-<file name="StringReplacementFilterTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071360561732" remote="131522071360000000" Dst="1" />
+<file name="ByteArrayReplacementFilterTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071358790099" remote="131522071350000000" Dst="2" />
+<file name="StringReplacementFilterFactoryTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071359705804" remote="131522071350000000" Dst="2" />
+<file name="StringReplacementFilterTest.php" server="C:/xampp/htdocs/qualiti/" local="131522071360561732" remote="131522071360000000" Dst="2" />
 </dwsync>

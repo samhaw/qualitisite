@@ -8,12 +8,12 @@
 <file name="send_mail.handlebars" server="ftp.qualitiinternet.com.br/www/" local="131522071043500971" remote="131316876000000000" Dst="1" />
 <file name="sound.handlebars" server="ftp.qualitiinternet.com.br/www/" local="131522071043921277" remote="131316876000000000" Dst="1" />
 <file name="user_name.handlebars" server="ftp.qualitiinternet.com.br/www/" local="131522071045021695" remote="131316876000000000" Dst="1" />
-<file name="close.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071041002600" remote="131522071040000000" Dst="1" />
-<file name="history.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071041077679" remote="131522071040000000" Dst="1" />
-<file name="redirect.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071042234145" remote="131522071040000000" Dst="1" />
-<file name="refresh.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071041938875" remote="131522071040000000" Dst="1" />
-<file name="secure_mode.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071043130067" remote="131522071040000000" Dst="1" />
-<file name="send_mail.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071043500971" remote="131522071040000000" Dst="1" />
-<file name="sound.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071043921277" remote="131522071040000000" Dst="1" />
-<file name="user_name.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071045021695" remote="131522071040000000" Dst="1" />
+<file name="close.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071041002600" remote="131522071040000000" Dst="2" />
+<file name="history.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071041077679" remote="131522071040000000" Dst="2" />
+<file name="redirect.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071042234145" remote="131522071040000000" Dst="2" />
+<file name="refresh.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071041938875" remote="131522071040000000" Dst="2" />
+<file name="secure_mode.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071043130067" remote="131522071040000000" Dst="2" />
+<file name="send_mail.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071043500971" remote="131522071040000000" Dst="2" />
+<file name="sound.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071043921277" remote="131522071040000000" Dst="2" />
+<file name="user_name.handlebars" server="C:/xampp/htdocs/qualiti/" local="131522071045021695" remote="131522071040000000" Dst="2" />
 </dwsync>

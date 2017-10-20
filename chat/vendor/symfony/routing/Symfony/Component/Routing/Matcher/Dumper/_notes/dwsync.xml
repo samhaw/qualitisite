@@ -7,11 +7,11 @@
 <file name="MatcherDumper.php" server="ftp.qualitiinternet.com.br/www/" local="131522070127403645" remote="131406524400000000" Dst="1" />
 <file name="MatcherDumperInterface.php" server="ftp.qualitiinternet.com.br/www/" local="131522070128824726" remote="131406524400000000" Dst="1" />
 <file name="PhpMatcherDumper.php" server="ftp.qualitiinternet.com.br/www/" local="131522070129089940" remote="131406524400000000" Dst="1" />
-<file name="ApacheMatcherDumper.php" server="C:/xampp/htdocs/qualiti/" local="131522070125514758" remote="131522070120000000" Dst="1" />
-<file name="DumperCollection.php" server="C:/xampp/htdocs/qualiti/" local="131522070126822237" remote="131522070120000000" Dst="1" />
-<file name="DumperPrefixCollection.php" server="C:/xampp/htdocs/qualiti/" local="131522070126251815" remote="131522070120000000" Dst="1" />
-<file name="DumperRoute.php" server="C:/xampp/htdocs/qualiti/" local="131522070127123438" remote="131522070120000000" Dst="1" />
-<file name="MatcherDumper.php" server="C:/xampp/htdocs/qualiti/" local="131522070127403645" remote="131522070120000000" Dst="1" />
-<file name="MatcherDumperInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522070128824726" remote="131522070120000000" Dst="1" />
-<file name="PhpMatcherDumper.php" server="C:/xampp/htdocs/qualiti/" local="131522070129089940" remote="131522070120000000" Dst="1" />
+<file name="ApacheMatcherDumper.php" server="C:/xampp/htdocs/qualiti/" local="131522070125514758" remote="131522070120000000" Dst="2" />
+<file name="DumperCollection.php" server="C:/xampp/htdocs/qualiti/" local="131522070126822237" remote="131522070120000000" Dst="2" />
+<file name="DumperPrefixCollection.php" server="C:/xampp/htdocs/qualiti/" local="131522070126251815" remote="131522070120000000" Dst="2" />
+<file name="DumperRoute.php" server="C:/xampp/htdocs/qualiti/" local="131522070127123438" remote="131522070120000000" Dst="2" />
+<file name="MatcherDumper.php" server="C:/xampp/htdocs/qualiti/" local="131522070127403645" remote="131522070120000000" Dst="2" />
+<file name="MatcherDumperInterface.php" server="C:/xampp/htdocs/qualiti/" local="131522070128824726" remote="131522070120000000" Dst="2" />
+<file name="PhpMatcherDumper.php" server="C:/xampp/htdocs/qualiti/" local="131522070129089940" remote="131522070120000000" Dst="2" />
 </dwsync>
