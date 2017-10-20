@@ -901,6 +901,9 @@ footer p {
  font-size: 18px;
  line-height: 1.5;
 }
+.your-cpf{
+margin-top: 1.5em;
+}	
 }
     
     /* Smaller screens ----------- */
@@ -917,7 +920,9 @@ footer p {
  width: 100%;
 }
 
- 
+.your-cpf{
+	margin-top: 1.5em;
+}	
 		
  #headerwrap input[type="submit"] {
  margin-top:1em;
@@ -1046,36 +1051,39 @@ footer p {
 
 	/* Smartphones (landscape) ----------- */
 	@media only screen  and (min-width : 321px) {
- #feature-headline {
- font-size: 32px; /* 34px */
-}
-			#telefone-float{
-		margin: 23px 0 0;
+		 #feature-headline {
+		 font-size: 32px; /* 34px */
+		}
+		#telefone-float{
+			margin: 23px 0 0;
+		}
 	}
-}
 	
 	/* Smartphones (portrait) ----------- */
 	@media only screen  and (max-width : 320px) {
- #feature-headline {
- font-size: 1.1875em; /* 19px */
-}
- #feature article p {
- font-family: 'Open Sans', sans-serif;
- font-size: 26px; /* font-size: 26px; */
- margin-bottom: 0;
- line-height: 30px;
- color: #fff;
-}
+	 #feature-headline {
+	 	 font-size: 1.1875em; /* 19px */
+	 }
+	 #feature article p {
+		 font-family: 'Open Sans', sans-serif;
+		 font-size: 26px; /* font-size: 26px; */
+		 margin-bottom: 0;
+		 line-height: 30px;
+		 color: #fff;
+	}
+	.your-cpf{
+		margin-top: 1.5em;
+	}		
 }
 	
 	/* iPads (portrait and landscape) ----------- */
 	@media only screen  and (min-device-width : 768px)  and (max-device-width : 1024px) {
- .banner-caption p {
- font-size: 0.6em;
-}
- #intro-caption {
- font-size: 4em;
-}
+	.banner-caption p {
+		font-size: 0.6em;
+	}
+	#intro-caption {
+	 font-size: 4em;
+	}
 }
 	
 	/* iPads (landscape) ----------- */

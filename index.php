@@ -48,7 +48,7 @@
 
     </style>
 
-    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="css/bootstrap-responsive.01.css" rel="stylesheet">
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
 
@@ -62,7 +62,7 @@
 
     <link rel="shortcut icon" href="img/favicon.ico">
 
-    <link href="css/customizacoes-28.css" rel="stylesheet" type="text/css">
+    <link href="css/customizacoes-32.css" rel="stylesheet" type="text/css">
 
     <!-- JQuery -->
 
@@ -194,9 +194,9 @@
 
       <header class="clearfix" style="padding-top: 0; margin-top: 2em">
 
-		<span class="span12">
+		<span class="" style="background-color: aquamarine">
 
-		  <h1 style="margin: 1em;">Internet de qualidade, econômica e <spam style="color: #F0BF00">sem limites!</spam></h1>
+		  <h1 style="margin: 2em 1em 1em 1em;">Internet de qualidade, econômica e <spam style="color: #F0BF00">sem limites!</spam></h1>
 
 		</span> 
 		

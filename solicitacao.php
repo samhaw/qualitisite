@@ -18,7 +18,7 @@
 
     <link href="css/bootstrap.css" rel="stylesheet">
 
-    <link href="css/style-04.css" rel="stylesheet">
+    <link href="css/style-06.css" rel="stylesheet">
 
     <link rel="stylesheet" id="prettyphoto-css"  href="css/prettyPhoto.css" type="text/css" media="all">
 
@@ -48,7 +48,7 @@
 
     </style>
 
-    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="css/bootstrap-responsive.01.css" rel="stylesheet">
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
 
@@ -64,7 +64,7 @@
 
     <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
 
-    <link href="css/customizacoes-31.css" rel="stylesheet" type="text/css">
+    <link href="css/customizacoes-32.css" rel="stylesheet" type="text/css">
 
     <!-- JQuery -->
 

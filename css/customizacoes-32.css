@@ -220,6 +220,9 @@ label{
 		height: 6em;	
 		margin-bottom: 1em;
 	}
+	.your-cpf {
+		margin-top: 1.5em;
+	}
 }
  @media (min-width: 667px) and (max-width: 375em) {
 	.sel {

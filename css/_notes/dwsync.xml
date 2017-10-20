@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="bootstrap-responsive.css" server="ftp.qualitiinternet.com.br/www/" local="131529357446269058" remote="131529364800000000" Dst="2" />
 <file name="bootstrap.min.css" server="ftp.qualitiinternet.com.br/www/" local="131522070397609193" remote="131317740000000000" Dst="1" />
 <file name="customizacoes-05.css" server="ftp.qualitiinternet.com.br/www/" local="131522070397869373" remote="131313420000000000" Dst="1" />
 <file name="bootstrap.css" server="ftp.qualitiinternet.com.br/www/" local="131522070398289714" remote="131402931000000000" Dst="1" />
@@ -31,7 +30,6 @@
 <file name="bootstrap.css" server="C:/xampp/htdocs/qualiti/" local="131522070398289714" remote="131522070390000000" Dst="2" />
 <file name="prettyPhoto.css" server="C:/xampp/htdocs/qualiti/" local="131522070407491507" remote="131522070400000000" Dst="2" />
 <file name="fontello.css" server="C:/xampp/htdocs/qualiti/" local="131522070407151265" remote="131522070400000000" Dst="2" />
-<file name="bootstrap-responsive.css" server="C:/xampp/htdocs/qualiti/" local="131529357446269058" remote="131529357440000000" Dst="2" />
 <file name="customizacoes-27.css" server="C:/xampp/htdocs/qualiti/" local="131529307989407321" remote="131529307980000000" Dst="2" />
 <file name="bootstrap.min.css" server="C:/xampp/htdocs/qualiti/" local="131522070397609193" remote="131522070390000000" Dst="2" />
 <file name="customizacoes-05.css" server="C:/xampp/htdocs/qualiti/" local="131522070397869373" remote="131522070390000000" Dst="2" />
@@ -60,7 +58,10 @@
 <file name="style.css" server="C:/xampp/htdocs/qualiti/" local="131522070409472912" remote="131522070400000000" Dst="2" />
 <file name="customizacoes-28.css" server="ftp.qualitiinternet.com.br/www/" local="131529350794051122" remote="131529364800000000" Dst="2" />
 <file name="customizacoes-28.css" server="C:/xampp/htdocs/qualiti/" local="131529350794051122" remote="131529350790000000" Dst="2" />
-<file name="style-04.css" server="C:/xampp/htdocs/qualiti/" local="131529350809974189" remote="131529350800000000" Dst="2" />
-<file name="style-04.css" server="ftp.qualitiinternet.com.br/www/" local="131529350809974189" remote="131529365400000000" Dst="2" />
-<file name="customizacoes-31.css" server="ftp.qualitiinternet.com.br/www/" local="131529435780811813" remote="131529443400000000" Dst="2" />
+<file name="customizacoes-32.css" server="C:/xampp/htdocs/qualiti/" local="131529781097496736" remote="131529781090000000" Dst="2" />
+<file name="customizacoes-32.css" server="ftp.qualitiinternet.com.br/www/" local="131529781097496736" remote="131529845400000000" Dst="2" />
+<file name="bootstrap-responsive.01.css" server="C:/xampp/htdocs/qualiti/" local="131529801449536648" remote="131529801440000000" Dst="2" />
+<file name="bootstrap-responsive.01.css" server="ftp.qualitiinternet.com.br/www/" local="131529801449536648" remote="131529852600000000" Dst="2" />
+<file name="style-06.css" server="C:/xampp/htdocs/qualiti/" local="131529855128710075" remote="131529855120000000" Dst="2" />
+<file name="style-06.css" server="ftp.qualitiinternet.com.br/www/" local="131529855128710075" remote="131529857400000000" Dst="2" />
 </dwsync>
