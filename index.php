@@ -17,12 +17,10 @@
     <!-- Styles -->
 
     <link href="css/bootstrap.css" rel="stylesheet">
-
-    <link href="css/style-02.css" rel="stylesheet">
-
+    <link href="css/style-06.css" rel="stylesheet">
     <link rel="stylesheet" id="prettyphoto-css"  href="css/prettyPhoto.css" type="text/css" media="all">
-
     <link href="css/fontello.css" type="text/css" rel="stylesheet">
+    <link href="css/bootstrap-responsive.01.css" rel="stylesheet">    
 
     <!--[if lt IE 7]>
 
@@ -33,9 +31,7 @@
     <!-- Google Web fonts -->
 
     <link href="http://fonts.googleapis.com/css?family=Quattrocento:400,700" rel="stylesheet" type="text/css">
-
     <link href="http://fonts.googleapis.com/css?family=Patua+One" rel="stylesheet" type="text/css">
-
     <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
 
     <style>
@@ -47,8 +43,6 @@
     }
 
     </style>
-
-    <link href="css/bootstrap-responsive.01.css" rel="stylesheet">
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
 

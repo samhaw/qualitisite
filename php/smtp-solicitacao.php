@@ -42,9 +42,12 @@ if(strtolower($_SERVER['REQUEST_METHOD']) == "post"){
 			<meta name='description' content=''>
 			<meta name='author' content=''>
 			<link href='https://www.qualitiinternet.com.br/css/bootstrap.css' rel='stylesheet'>
-			<link href='https://www.qualitiinternet.com.br/css/style-01.css' rel='stylesheet'>
+			<link href='https://www.qualitiinternet.com.br/css/style-06.css' rel='stylesheet'>
 			<link href='http://fonts.googleapis.com/css?family=Patua+One' rel='stylesheet'
-    		<link href='https://www.qualitiinternet.com.br/css/customizacoes-14.css' rel='stylesheet' type='text/css'>
+			<link href='https://www.qualitiinternet.com.br/css/prettyPhoto.css' rel='stylesheet'
+			<link href='https://www.qualitiinternet.com.br/css/fontello.css' rel='stylesheet'
+			<link href='https://www.qualitiinternet.com.br/css/bootstrap-responsive.01' rel='stylesheet'	
+    		<link href='https://www.qualitiinternet.com.br/css/customizacoes-32.css' rel='stylesheet' type='text/css'>
 			</head>
 			<body style='background-color: #DFDFDF'>
 			<div id='headerwrap'>
@@ -140,39 +143,4 @@ if(strtolower($_SERVER['REQUEST_METHOD']) == "post"){
 	}
 
 }
-else
-{
-#Caso a página seja chamada por outro método
 ?>
-
-<html lang='pt-br'>
-			<head>
-			<meta charset='utf-8'>
-			<title>QualiTi Internet - Embarque com a gente na velocidade da luz! Tenha QualiTi com você!</title>
-			<meta name='viewport' content='width=device-width, initial-scale=1.0'>
-			<meta name='description' content=''>
-			<meta name='author' content=''>
-			<link href='https://www.qualitiinternet.com.br/css/bootstrap.css' rel='stylesheet'>
-			<link href='https://www.qualitiinternet.com.br/css/style-01.css' rel='stylesheet'>
-			<link href='http://fonts.googleapis.com/css?family=Quattrocento:400,700' rel='stylesheet' type='text/css'>
-			<link href='http://fonts.googleapis.com/css?family=Patua+One' rel='stylesheet' type='text/css'>
-			<link href='https://www.qualitiinternet.com.br/css/bootstrap-responsive.css' rel='stylesheet'>
-			</head>
-			<body>
-			<div id='headerwrap'>
-			<header class='clearfix'>
-
-			</header>
-			</div>
-			<div class="footer-wrapper">
-			  <div class="container">
-				<footer>
-				  <small>&copy; 2016 QualiTi Internet. Todos os direitos reservados. CNPJ: 27.049.552.0001-40</small>
-				  <br>
-				  <small> Telefones de contato: (11) 2500-2788  /  (11) 97514-9382  / (11) 99598-1294 / (11) 99846-8258</small>		  
-				</footer>
-			  </div>
-			</div>   
-			</body>
-	</html>
-<?php } ?>

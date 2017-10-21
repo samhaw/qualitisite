@@ -331,15 +331,15 @@
 					<div class="funkyradio span12">
 						<div class="funkyradio-primary span4">
 							<input type="radio" name="radio-pagamento" id="radio1" value="À vista: R$ 230,00"/>
-							<label for="radio1">À vista: R$ 230,00</label>
+							<label for="radio1">À vista: R$ 230</label>
 						</div>
 						<div class="funkyradio-primary span4">
-							<input type="radio" name="radio-pagamento" id="radio2" value="Parcelado: R$ 260,00"/>
-							<label for="radio2">Parcelado: R$ 260,00</label>
+							<input type="radio" name="radio-pagamento" id="radio2" value="Boleto até 3x: R$ 260,00"/>
+							<label for="radio2">Boleto até 3x: R$ 260</label>
 						</div>						
 						<div class="funkyradio-primary span4">
-							<input type="radio" name="radio-pagamento" id="radio3" value="Cartão em 12x: R$ 300,00"/>
-							<label for="radio3">Cartão em 12x: R$ 300,00</label>
+							<input type="radio" name="radio-pagamento" id="radio3" value="Cartão até 12x: R$ 300,00"/>
+							<label for="radio3">Cartão até 12x: R$ 300</label>
 						</div>
 					</div>
 				</div>

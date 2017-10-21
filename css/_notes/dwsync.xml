@@ -27,9 +27,9 @@
 <file name="style-01.css" server="ftp.qualitiinternet.com.br/www/" local="131522070408562266" remote="131326380000000000" Dst="1" />
 <file name="style.css" server="ftp.qualitiinternet.com.br/www/" local="131522070409472912" remote="131326380000000000" Dst="1" />
 <file name="style-calender-datapicker.css" server="ftp.qualitiinternet.com.br/www/" local="131522070409748108" remote="131402931000000000" Dst="1" />
-<file name="bootstrap.css" server="C:/xampp/htdocs/qualiti/" local="131522070398289714" remote="131522070390000000" Dst="2" />
-<file name="prettyPhoto.css" server="C:/xampp/htdocs/qualiti/" local="131522070407491507" remote="131522070400000000" Dst="2" />
-<file name="fontello.css" server="C:/xampp/htdocs/qualiti/" local="131522070407151265" remote="131522070400000000" Dst="2" />
+<file name="bootstrap.css" server="C:/xampp/htdocs/qualiti/" local="131522070398289714" remote="131522034390000000" Dst="2" />
+<file name="prettyPhoto.css" server="C:/xampp/htdocs/qualiti/" local="131522070407491507" remote="131522034400000000" Dst="2" />
+<file name="fontello.css" server="C:/xampp/htdocs/qualiti/" local="131522070407151265" remote="131522034400000000" Dst="2" />
 <file name="customizacoes-27.css" server="C:/xampp/htdocs/qualiti/" local="131529307989407321" remote="131529307980000000" Dst="2" />
 <file name="bootstrap.min.css" server="C:/xampp/htdocs/qualiti/" local="131522070397609193" remote="131522070390000000" Dst="2" />
 <file name="customizacoes-05.css" server="C:/xampp/htdocs/qualiti/" local="131522070397869373" remote="131522070390000000" Dst="2" />
@@ -64,4 +64,6 @@
 <file name="bootstrap-responsive.01.css" server="ftp.qualitiinternet.com.br/www/" local="131529801449536648" remote="131529852600000000" Dst="2" />
 <file name="style-06.css" server="C:/xampp/htdocs/qualiti/" local="131529855128710075" remote="131529855120000000" Dst="2" />
 <file name="style-06.css" server="ftp.qualitiinternet.com.br/www/" local="131529855128710075" remote="131529857400000000" Dst="2" />
+<file name="customizacoes-26.css" server="ftp.qualitiinternet.com.br/www/" local="131402927920000000" remote="131529952800000000" Dst="2" />
+<file name="customizacoes-27.css" server="ftp.qualitiinternet.com.br/www/" local="131529307989407321" remote="131529952800000000" Dst="2" />
 </dwsync>

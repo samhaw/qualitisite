@@ -15,7 +15,7 @@
 <file name="top-bg-01.jpg" server="ftp.qualitiinternet.com.br//www/" local="131302618118517688" remote="131238304800000000" Dst="2" />
 <file name="16Mbps.png" server="C:/xampp/htdocs/qualiti/" local="131522070414521579" remote="131522070410000000" Dst="2" />
 <file name="8Mbps.png" server="C:/xampp/htdocs/qualiti/" local="131299596370000000" remote="131299596370000000" Dst="2" />
-<file name="favicon.ico" server="C:/xampp/htdocs/qualiti/" local="131352024960000000" remote="131352024960000000" Dst="2" />
+<file name="favicon.ico" server="C:/xampp/htdocs/qualiti/" local="131352024960000000" remote="131351988960000000" Dst="2" />
 <file name="logo-laranja-145px.png" server="C:/xampp/htdocs/qualiti/" local="131300843970000000" remote="131300843970000000" Dst="2" />
 <file name="logo-laranja.png" server="C:/xampp/htdocs/qualiti/" local="131522070460932572" remote="131522070460000000" Dst="2" />
 <file name="logo.png" server="C:/xampp/htdocs/qualiti/" local="131522070462043428" remote="131522070460000000" Dst="2" />
@@ -112,7 +112,7 @@
 <file name="ico-anatel.png" server="ftp.qualitiinternet.com.br//www/" local="131322719410436852" remote="131322733200000000" Dst="1" />
 <file name="ico-abrint.png" server="ftp.qualitiinternet.com.br//www/" local="131322719280169402" remote="131322733200000000" Dst="1" />
 <file name="ico-anid.png" server="ftp.qualitiinternet.com.br//www/" local="131322719074427634" remote="131322733200000000" Dst="1" />
-<file name="ico-anatel.png" server="C:/xampp/htdocs/qualiti/" local="131322719410000000" remote="131322719410000000" Dst="2" />
+<file name="ico-anatel.png" server="C:/xampp/htdocs/qualiti/" local="131322719410000000" remote="131322683410000000" Dst="2" />
 <file name="ico-abrint.png" server="C:/xampp/htdocs/qualiti/" local="131322719280000000" remote="131322719280000000" Dst="2" />
 <file name="ico-anid.png" server="C:/xampp/htdocs/qualiti/" local="131522070459563263" remote="131522070450000000" Dst="2" />
 <file name="32Mbps.png" server="C:/xampp/htdocs/qualiti/" local="131522070414651676" remote="131522070410000000" Dst="2" />
@@ -149,9 +149,9 @@
 <file name="logo-laranja-145px.png" server="ftp.qualitiinternet.com.br/www/" local="131300843970000000" remote="131402931000000000" Dst="1" />
 <file name="ico-anatel.png" server="ftp.qualitiinternet.com.br/www/" local="131322719410000000" remote="131402931000000000" Dst="1" />
 <file name="ico-abrint.png" server="ftp.qualitiinternet.com.br/www/" local="131322719280000000" remote="131402931000000000" Dst="1" />
-<file name="8Mbps-SemPromocao.png" server="C:/xampp/htdocs/qualiti/" local="131402896910000000" remote="131402896910000000" Dst="2" />
-<file name="16Mbps-SemPromocao.png" server="C:/xampp/htdocs/qualiti/" local="131402888780000000" remote="131402888780000000" Dst="2" />
-<file name="32Mbps-SemPromocao.png" server="C:/xampp/htdocs/qualiti/" local="131402887940000000" remote="131402887940000000" Dst="2" />
+<file name="8Mbps-SemPromocao.png" server="C:/xampp/htdocs/qualiti/" local="131402896910000000" remote="131402860910000000" Dst="2" />
+<file name="16Mbps-SemPromocao.png" server="C:/xampp/htdocs/qualiti/" local="131402888780000000" remote="131402852780000000" Dst="2" />
+<file name="32Mbps-SemPromocao.png" server="C:/xampp/htdocs/qualiti/" local="131402887940000000" remote="131402851940000000" Dst="2" />
 <file name="16Mbps.png" server="ftp.qualitiinternet.com.br/www/" local="131522070414521579" remote="131299596000000000" Dst="1" />
 <file name="32Mbps.png" server="ftp.qualitiinternet.com.br/www/" local="131522070414651676" remote="131309964000000000" Dst="1" />
 <file name="AssinaturaSamuel.png" server="ftp.qualitiinternet.com.br/www/" local="131522070415894284" remote="131328108000000000" Dst="1" />
@@ -213,4 +213,10 @@
 <file name="foto-01.2.jpg" server="C:/xampp/htdocs/qualiti/" local="131529350503386116" remote="131529350500000000" Dst="2" />
 <file name="whatsapp-logo-icone.png" server="C:/xampp/htdocs/qualiti/" local="131526509788702795" remote="131526509780000000" Dst="2" />
 <file name="foto-01.2.jpg" server="ftp.qualitiinternet.com.br/www/" local="131529350503386116" remote="131529364800000000" Dst="2" />
+<file name="anatel-logo-slider-propagacao-aberta.png" server="ftp.qualitiinternet.com.br/www/" local="131322719750000000" remote="131529952800000000" Dst="2" />
+<file name="glyphicons-social-62-whatsapp.png" server="ftp.qualitiinternet.com.br/www/" local="131313477810000000" remote="131529952800000000" Dst="2" />
+<file name="logo-anid.png" server="ftp.qualitiinternet.com.br/www/" local="131322719010000000" remote="131529952800000000" Dst="2" />
+<file name="logo_anatel_global_union_internet.png" server="ftp.qualitiinternet.com.br/www/" local="131322719950000000" remote="131529952800000000" Dst="2" />
+<file name="logotipo.png" server="ftp.qualitiinternet.com.br/www/" local="131322719140000000" remote="131529952800000000" Dst="2" />
+<file name="whatsapp-logo-icone.png" server="ftp.qualitiinternet.com.br/www/" local="131526509788702795" remote="131529952800000000" Dst="2" />
 </dwsync>

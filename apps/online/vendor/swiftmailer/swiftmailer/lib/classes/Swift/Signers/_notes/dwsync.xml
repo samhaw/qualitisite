@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<dwsync>
-<file name="BodySigner.php" server="C:/xampp/htdocs/qualiti/" local="131317255700000000" remote="131317255700000000" Dst="1" />
-<file name="DKIMSigner.php" server="C:/xampp/htdocs/qualiti/" local="131317255700000000" remote="131317255700000000" Dst="1" />
-<file name="DomainKeySigner.php" server="C:/xampp/htdocs/qualiti/" local="131317255840000000" remote="131317255840000000" Dst="1" />
-<file name="HeaderSigner.php" server="C:/xampp/htdocs/qualiti/" local="131317255700000000" remote="131317255700000000" Dst="1" />
-<file name="OpenDKIMSigner.php" server="C:/xampp/htdocs/qualiti/" local="131317255700000000" remote="131317255700000000" Dst="1" />
-<file name="SMimeSigner.php" server="C:/xampp/htdocs/qualiti/" local="131317255710000000" remote="131317255710000000" Dst="1" />
-</dwsync>
