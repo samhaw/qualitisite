@@ -23,7 +23,7 @@
 }
 
 #telefone-float{
-	background-color: #f0bf00;
+	background-color: goldenrod;
 	z-index: 500; 
 	position: absolute; 
 	filter:opacity(alpha=10);

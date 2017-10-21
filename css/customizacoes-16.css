@@ -28,7 +28,7 @@
 }
 
 #telefone-float{
-	background-color: #f0bf00;
+	background-color: goldenrod;
 	z-index: 500; 
 	position: absolute; 
 	filter:opacity(alpha=10);
@@ -304,7 +304,7 @@ label{
 
 
 mark{
-	background-color: #f0bf00;
+	background-color: goldenrod;
 	opacity: 0.8;
 	filter: alpha(opacity=80); /* For IE8 and earlier */
 	-moz-opacity:1;
@@ -318,7 +318,7 @@ mark{
 	margin-top: 0;
 }
 .email-enviado {
-	background-color: #f0bf00;
+	background-color: goldenrod;
 	filter:opacity(alpha=10);
 	-moz-opacity:1;
 	opacity:0.7;

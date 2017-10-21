@@ -190,7 +190,7 @@
 
 		<span class="" style="background-color: aquamarine">
 
-		  <h1 style="margin: 2em 1em 1em 1em;">Internet de qualidade, econômica e <spam style="color: #F0BF00">sem limites!</spam></h1>
+		  <h1 style="margin: 2em 1em 1em 1em;">Internet de qualidade, econômica e <spam style="color: goldenrod">sem limites!</spam></h1>
 
 		</span> 
 		

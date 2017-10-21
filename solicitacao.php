@@ -155,7 +155,7 @@
 
         <h1>Solicitação de serviço:</h1>
         <h2 style="text-align: center; margin-top: -1em;">(Pré-Cadastro)</h2>
-        <h4>Este é um pré-cadastro que não confirma a contratação do serviço. É necessário aguardar a confirmação da viabilidade técnica e validação das informações que será feita, após este, via contato por WhatsApp</h4>
+        <h4 style="color: goldenrod">Este é um pré-cadastro que não confirma a contratação do serviço. É necessário aguardar a confirmação da viabilidade técnica e validação das informações que será feita, após este, via contato por WhatsApp</h4>
 
       <hr>
        
@@ -262,12 +262,6 @@
                	</div>
                	
                	<h2>Qual velocidade você quer? </h2>
-               	<h6><!-- mibew text link -->
-              	<a id="mibew-agent-button" href="https://www.qualitiinternet.com.br/online/chat?locale=pt-br" target="_blank" onclick="Mibew.Objects.ChatPopups['58b477b239f5bbc2'].open();return false;">Pedir ajuda</a>
-
-              		<script type="text/javascript" src="https://www.qualitiinternet.com.br/online/js/compiled/chat_popup.js"></script>
-
-              	<script type="text/javascript">Mibew.ChatPopup.init({"id":"58b477b239f5bbc2","url":"https:\/\/www.qualitiinternet.com.br\/online\/chat?locale=pt-br","preferIFrame":false,"modSecurity":true,"width":640,"height":480,"resizable":true,"styleLoader":"https:\/\/www.qualitiinternet.com.br\/online\/chat\/style\/popup"});</script><!-- / mibew text link -->.
 
               	<br/>
 
@@ -345,16 +339,33 @@
 				</div>
                	
 
+               	<hr>	
+				<div class="row-fluid">
+					<span class="span12" style="padding-top: 0.3em">Gostaria de receber um desconto na instalação?</span>
+					<span style="color: goldenrod">
+						<h5>* Somente para quem optar por usar seu próprio roteador.<br>*Requisito: Precisa ser compatível com nossa rede.</h5>					
+					</span> 
+					<div class="funkyradio span12">
+						<div class="funkyradio-primary span6">
+							<input type="radio" name="radio-desconto" id="desconto1" value="Tem roteador - Desconto de R$ 40"/>
+							<label for="desconto1">Tenho roteador</label>
+						</div>
+						
+						<div class="funkyradio-primary span6">
+							<input type="radio" name="radio-desconto" id="desconto2" value="Não tem roteador - Sem desconto"/>
+							<label for="desconto2">Não tenho roteador</label>
+						</div>						
+					</div>
+				</div>
+               	
+
                	<hr>				  
 
-					  <h6>1 - Valor da taxa de instalação: R$ 230,00 à vista e R$ 260,00 parcelado.</h6>            	
+					  <h6>1 - A efetivação da instalação dependerá das condições climáticas, uma vez que desrespeitar tais condições põem em risco a vida dos técnicos na rua, como; fiação enxarcada, poste molhado, rádios etc. Se isso acontecer comunicaremos o cliente e será reagendada uma nova data.</h6>
 
-					  <h6>2 - Em algumas instalações a fibra chegará apenas ao Distribuidor Geral do prédio ou vila, e deste ponto será distribuido por cabo metálico do tipo UTP/STP. Porém, cada clientes terá sua conexão independente. A banda NÃO é compartilhada em nenhuma das situações e o circuito continua mantendo as caracteristica de qualidade da fibra.</h6>
-
-					  <h6>3 - A efetivação da instalação dependerá das condições climáticas, uma vez que desrespeitar tais condições põem em risco a vida dos técnicos na rua, como; fiação enxarcada, poste molhado, rádios etc. Se isso acontecer comunicaremos o cliente e será reagendada uma nova data.</h6>
-
-					  <h6>4 - É necessário ter uma pessoa MAIOR DE 18 ANOS responsável no local de instalação para receber nossos técnicos.</h6>
-
+					  <h6>2 - É necessário ter uma pessoa MAIOR DE 18 ANOS responsável no local de instalação para receber nossos técnicos.</h6>
+					  <h6>3 - O roteador WiFi, quando instalado pela QualiTi Internet, é uma cortesia da QauliTi para o cliente, sendo que o mesmo pode utilizar seu próprio roteador.</h6>
+               	
                	<hr>
 
                	<div class="row">
@@ -397,8 +408,7 @@
 
     <!--******************** Contact Section ********************--> 
 
-    <hr>
-
+   	<br>
     <div class="footer-wrapper">
 
       <div class="container">
@@ -419,8 +429,9 @@
 
     </div>
 
-    <hr>
-
+	<br>	
+  	<br>
+   
     <!-- Loading the javaScript at the end of the page -->
 
     <script type="text/javascript" src="js/bootstrap.js"></script>
