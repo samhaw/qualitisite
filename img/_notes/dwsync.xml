@@ -154,7 +154,7 @@
 <file name="32Mbps-SemPromocao.png" server="C:/xampp/htdocs/qualiti/" local="131402887940000000" remote="131402851940000000" Dst="2" />
 <file name="16Mbps.png" server="ftp.qualitiinternet.com.br/www/" local="131522070414521579" remote="131299596000000000" Dst="1" />
 <file name="32Mbps.png" server="ftp.qualitiinternet.com.br/www/" local="131522070414651676" remote="131309964000000000" Dst="1" />
-<file name="AssinaturaSamuel.png" server="ftp.qualitiinternet.com.br/www/" local="131522070415894284" remote="131328108000000000" Dst="1" />
+<file name="AssinaturaSamuel.png" server="ftp.qualitiinternet.com.br/www/" local="131522070415894284" remote="131531091600000000" Dst="2" />
 <file name="Capturar.PNG" server="ftp.qualitiinternet.com.br/www/" local="131522070416434727" remote="131306508000000000" Dst="1" />
 <file name="Folder QualiTi Horizontal@2x.png" server="ftp.qualitiinternet.com.br/www/" local="131522070424811413" remote="131309964000000000" Dst="1" />
 <file name="Folder-QualiTi-v3.jpg" server="ftp.qualitiinternet.com.br/www/" local="131522070426045857" remote="131309964000000000" Dst="1" />
@@ -177,15 +177,15 @@
 <file name="checked.png" server="ftp.qualitiinternet.com.br/www/" local="131522070450518932" remote="131308236000000000" Dst="1" />
 <file name="checked2.png" server="ftp.qualitiinternet.com.br/www/" local="131522070451524680" remote="131308236000000000" Dst="1" />
 <file name="checked.svg" server="ftp.qualitiinternet.com.br/www/" local="131522070451744845" remote="131308236000000000" Dst="1" />
-<file name="favicon.png" server="ftp.qualitiinternet.com.br/www/" local="131522070452423356" remote="131351436000000000" Dst="1" />
+<file name="favicon.png" server="ftp.qualitiinternet.com.br/www/" local="131522070452423356" remote="131531091600000000" Dst="2" />
 <file name="fibra-otica-como-funciona-e-quais-as-suas-vantagens.jpg" server="ftp.qualitiinternet.com.br/www/" local="131522070453584226" remote="131306508000000000" Dst="1" />
-<file name="foto-02.jpg" server="ftp.qualitiinternet.com.br/www/" local="131522070454304806" remote="131302188000000000" Dst="1" />
-<file name="foto-03.jpg" server="ftp.qualitiinternet.com.br/www/" local="131522070457060663" remote="131302188000000000" Dst="1" />
+<file name="foto-02.jpg" server="ftp.qualitiinternet.com.br/www/" local="131522070454304806" remote="131531091600000000" Dst="2" />
+<file name="foto-03.jpg" server="ftp.qualitiinternet.com.br/www/" local="131522070457060663" remote="131531091600000000" Dst="2" />
 <file name="glyphicons-halflings.png" server="ftp.qualitiinternet.com.br/www/" local="131522070458348465" remote="131306508000000000" Dst="1" />
-<file name="ico-anid.png" server="ftp.qualitiinternet.com.br/www/" local="131522070459563263" remote="131322060000000000" Dst="1" />
-<file name="logo-laranja.png" server="ftp.qualitiinternet.com.br/www/" local="131522070460932572" remote="131298732000000000" Dst="1" />
-<file name="foto-05.jpg" server="ftp.qualitiinternet.com.br/www/" local="131522070461272877" remote="131302188000000000" Dst="1" />
-<file name="logo.png" server="ftp.qualitiinternet.com.br/www/" local="131522070462043428" remote="131298732000000000" Dst="1" />
+<file name="ico-anid.png" server="ftp.qualitiinternet.com.br/www/" local="131522070459563263" remote="131531091600000000" Dst="2" />
+<file name="logo-laranja.png" server="ftp.qualitiinternet.com.br/www/" local="131522070460932572" remote="131531091600000000" Dst="2" />
+<file name="foto-05.jpg" server="ftp.qualitiinternet.com.br/www/" local="131522070461272877" remote="131531091600000000" Dst="2" />
+<file name="logo.png" server="ftp.qualitiinternet.com.br/www/" local="131522070462043428" remote="131531091600000000" Dst="2" />
 <file name="7910763834_2427c493ba_o.jpg" server="ftp.qualitiinternet.com.br/www/" local="131522070468848221" remote="131302188000000000" Dst="1" />
 <file name="pexels-photo-29585.jpg" server="ftp.qualitiinternet.com.br/www/" local="131522070487567295" remote="131302188000000000" Dst="1" />
 <file name="portfolio-01.jpg" server="ftp.qualitiinternet.com.br/www/" local="131522070489608722" remote="131306508000000000" Dst="1" />
@@ -219,4 +219,10 @@
 <file name="logo_anatel_global_union_internet.png" server="ftp.qualitiinternet.com.br/www/" local="131322719950000000" remote="131529952800000000" Dst="2" />
 <file name="logotipo.png" server="ftp.qualitiinternet.com.br/www/" local="131322719140000000" remote="131529952800000000" Dst="2" />
 <file name="whatsapp-logo-icone.png" server="ftp.qualitiinternet.com.br/www/" local="131526509788702795" remote="131529952800000000" Dst="2" />
+<file name="05132013_embratur_saopaulo_820.jpg" server="ftp.qualitiinternet.com.br/www/" local="131238304200000000" remote="131531091600000000" Dst="2" />
+<file name="fibra-otica-grande-1920x1280.jpg" server="ftp.qualitiinternet.com.br/www/" local="131238304200000000" remote="131531091600000000" Dst="2" />
+<file name="preco4mbps.jpg" server="ftp.qualitiinternet.com.br/www/" local="131238304200000000" remote="131531091600000000" Dst="2" />
+<file name="top-bg-04.jpg" server="ftp.qualitiinternet.com.br/www/" local="131238304800000000" remote="131531091600000000" Dst="2" />
+<file name="top-bg-02.jpg" server="ftp.qualitiinternet.com.br/www/" local="131238309000000000" remote="131531091600000000" Dst="2" />
+<file name="top-bg-01.jpg" server="ftp.qualitiinternet.com.br/www/" local="131238304800000000" remote="131531091600000000" Dst="2" />
 </dwsync>

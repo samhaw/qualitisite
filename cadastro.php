@@ -33,7 +33,7 @@
     <!-- Favicon -->
     <link rel="shortcut icon" href="img/favicon.ico">
     <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
-    <link href="css/customizacoes-32.css" rel="stylesheet" type="text/css">
+    <link href="css/customizacoes-33.css" rel="stylesheet" type="text/css">
     <!-- JQuery -->
     <script type="text/javascript" src="js/jquery.js"></script>
     <!-- Load ScrollTo -->

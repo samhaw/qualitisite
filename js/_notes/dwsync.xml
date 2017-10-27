@@ -53,6 +53,11 @@
 <file name="bootbox.min.js" server="ftp.qualitiinternet.com.br/www/" local="131317683530000000" remote="131402931000000000" Dst="1" />
 <file name="jquery-1.11.3.min.js" server="ftp.qualitiinternet.com.br/www/" local="131522070512719125" remote="131305644000000000" Dst="1" />
 <file name="jquery.maskedinput.min.js" server="ftp.qualitiinternet.com.br/www/" local="131522070540389054" remote="131306508000000000" Dst="1" />
-<file name="vanilla-masker.js" server="ftp.qualitiinternet.com.br/www/" local="131522070543541414" remote="131329836000000000" Dst="1" />
+<file name="vanilla-masker.js" server="ftp.qualitiinternet.com.br/www/" local="131522070543541414" remote="131531091600000000" Dst="2" />
 <file name="vanilla-masker.js" server="C:/xampp/htdocs/qualiti/" local="131522070543541414" remote="131522070540000000" Dst="2" />
+<file name="browser.support.js" server="ftp.qualitiinternet.com.br/www/" local="131238304800000000" remote="131531091600000000" Dst="2" />
+<file name="cookie.js" server="ftp.qualitiinternet.com.br/www/" local="131238304800000000" remote="131531091600000000" Dst="2" />
+<file name="fixar_site.js" server="ftp.qualitiinternet.com.br/www/" local="131238304800000000" remote="131531091600000000" Dst="2" />
+<file name="jquery.2.js" server="ftp.qualitiinternet.com.br/www/" local="131238304800000000" remote="131531091600000000" Dst="2" />
+<file name="login.js" server="ftp.qualitiinternet.com.br/www/" local="131238304800000000" remote="131531091600000000" Dst="2" />
 </dwsync>

@@ -1,91 +1,50 @@
 <!DOCTYPE HTML>
 
     <html lang="pt-br">
-
     <head>
-
     <meta charset="utf-8">
-
     <title>QualiTi Internet - Embarque com a gente na velocidade da luz! Tenha QualiTi com você!</title>
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <meta name="description" content="">
-
     <meta name="author" content="">
-
     <!-- Styles -->
-
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/style-06.css" rel="stylesheet">
-    <link rel="stylesheet" id="prettyphoto-css"  href="css/prettyPhoto.css" type="text/css" media="all">
-    <link href="css/fontello.css" type="text/css" rel="stylesheet">
-    <link href="css/bootstrap-responsive.01.css" rel="stylesheet">    
-
+	<link href="css/style-calender-datapicker.css" type="text/css" rel="stylesheet">
     <!--[if lt IE 7]>
-
             <link href="css/fontello-ie7.css" type="text/css" rel="stylesheet">  
-
         <![endif]-->
-
     <!-- Google Web fonts -->
-
-    <link href="http://fonts.googleapis.com/css?family=Quattrocento:400,700" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Patua+One" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
-
+    <link href="css/fontes.css" rel="stylesheet" type="text/css">   
     <style>
-
-    body {
-
-        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
-
-    }
-
+    	body {
+        	padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+   		}
     </style>
 
+    <link href="css/bootstrap-responsive.01.css" rel="stylesheet">
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
-
     <!--[if lt IE 9]>
-
           <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-
         <![endif]-->
-
     <!-- Favicon -->
-
     <link rel="shortcut icon" href="img/favicon.ico">
-
-    <link href="css/customizacoes-32.css" rel="stylesheet" type="text/css">
-
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+    <link href="css/customizacoes-33.css" rel="stylesheet" type="text/css">
     <!-- JQuery -->
-
     <script type="text/javascript" src="js/jquery.js"></script>
-
     <!-- Load ScrollTo -->
-
     <script type="text/javascript" src="js/jquery.scrollTo-1.4.2-min.js"></script>
-
     <!-- Load LocalScroll -->
-
     <script type="text/javascript" src="js/jquery.localscroll-1.2.7-min.js"></script>
-
 	<script src="js/plugins/jQuery-Shadow-master/jquery.shadow/jquery.shadow.js"></script>	
-
 	<link rel="stylesheet" href="js/plugins/jQuery-Shadow-master/jquery.shadow/jquery.shadow.css" />
-
     <!-- prettyPhoto Initialization -->
-
     <script type="text/javascript" charset="utf-8">
-
           $(document).ready(function(){
-
             $("a[rel^="prettyPhoto"]").prettyPhoto();
-
           });
-
-        </script>
-
+	</script>
     </head>
 
     <body>
@@ -121,7 +80,7 @@
                 <li><a title="Área exclusiva dos assinantes - Boleto, Relatório, etc" href="http://42d5023a0915.sn.mynetname.net:8181">Área do Assinante</a></li>
                 <li><a title="Gere a segunda-via com data atualizada" href="http://segundavia.qualitiinternet.com.br">Segunda-via</a></li>
                 <li><a title="Área exclusiva para funcionários" href="http://webmail.qualitiinternet.com.br">E-mail</a></li>
-                <li><a title="Fale conosco" href="#contact">Contato</a></li>
+                <li style="display: none"><a title="Fale conosco" href="#contact">Contato</a></li>
               </ul>
             </nav>
           </div>
@@ -129,6 +88,8 @@
 			<div class="container">
 				<div class="" id="telefone-float">
 					<a class="" href="https://api.whatsapp.com/send?phone=5511975149382&text=Olá%20!" data-tel="+55-11-25002788" target="_blank">&phone;  Tel: (11) 2500-2788</a>
+					</br>
+					<span>Indisponível</span>
 				</div> 
 			</div>
 
@@ -186,7 +147,7 @@
 
     <div id="headerwrap" style="background: url(img/foto-01.jpg); background-size: cover; padding-top: 3em">
 
-      <header class="clearfix" style="padding-top: 0; margin-top: 2em">
+      <header style="padding-top: 0; margin-top: 2em">
 
 		<span class="" style="background-color: aquamarine">
 
@@ -198,7 +159,7 @@
          <div class="container">
         
           	<div class="row">	
-				<h4 style="color: whitesmoke; margin-top: 0.3; margin-bottom: 1em;">Solicite atendimento pelo WhatsApp - Cliqe no Ícone</h4>	
+				<h4 style="color: whitesmoke; margin-top: 0.3; margin-bottom: 1em;">Atendimento somente pelo WhatsApp - Cliqe no Ícone</h4>	
 				<div class="span3">  </div>
 				<div class="span3">
 					<a href="https://api.whatsapp.com/send?phone=5511975149382&text=Olá%20!%20QualiTi%20Internet.%20Estou%20interessado%20em%20contratar%20a%20internet%20de%20vocês." target="_blank"><img src="img/38_-_Whatsapp_communication_dialogue_discussion-128.png" width="64" height="64">
@@ -285,7 +246,7 @@
 
     <section id="portfolio" class="single-page scrollblock">
 
-      <div class="container box jq-shadow">
+      <div class="container box jq-shadow" style="margin-bottom: 4.5em;">
 
         <div class="align"><i class="icon-desktop-circled"></i></div>
 
@@ -300,31 +261,16 @@
 			<img src="img/8Mbps-SemPromocao.png" alt="">
 
 				<div class="inside">
-
 				<hgroup>
-
-					<h2>Internet QualiTi Lite</h2>
-
+					<h2>Internet QualiTi 8Mbps</h2>
 				</hgroup>
-
 					<div class="entry-content">
 
-						<p style="text-align:justify">Para quem quer fazer as coisas básicas como acessar o Netflix, ouvir Músicas, Jogar online e embarcar em todas as redes sociais! Sem limite de franquia!</p>
-
+						<p style="text-align:justify">Para quem quer fazer as coisas básicas como usar o Netflix, ouvir músicas e ogar online e embarcar em todas as redes sociais!</p>
 						<input type="hidden" value="pc8Mbps" checked>
-
-						Assine Agora - Não consultamos CPF
-
-						<h6>
-
-						*Todas as mensalidades serão reajustadas anualmente com base no IGP<br>
-
-						</h6>	
-
+						Assine Agora
 					</div>
-
 				</div>
-
 			</div>
 
 			</a> 
@@ -338,31 +284,15 @@
 			<img src="img/16Mbps-SemPromocao.png" alt="">
 
 				<div class="inside">
-
 				<hgroup>
-
-					<h2>Internet QualiTi Básica</h2>
-
+					<h2>Internet QualiTi 16Mbps</h2>
 				</hgroup>
-
 					<div class="entry-content">
-
-						<p style="text-align:justify">Para os mais avançados e que precisam acessar o Netflix, Filmes em HD, Download, ouvir Músicas, Jogar online e embarcar em todas as redes sociais! Sem limite de franquia!</p>
-
+						<p style="text-align:justify">Para quem precisa usar o Netflix, assistir filmes em HD, fazer downloads, ouvir músicas, jogar online e embarcar em todas as redes sociais!</p>
 						<input type="hidden" value="pc16Mbps" checked>
-
-						Assine Agora - Não consultamos CPF
-
-						<h6>
-
-						*Todas as mensalidades serão reajustadas anualmente com base no IGP<br>
-
-						</h6>					
-
-						</div>
-
+						Assine Agora
+					</div>
 				</div>
-
 			</div>
 
 			</a>  
@@ -374,36 +304,25 @@
 			<div id="div32mbps" class="span4 mask2">
 
 			<img src="img/32Mbps-SemPromocao.png" alt="">
-
 				<div class="inside">
-
 				<hgroup>
-
-					<h2>Internet QualiTi Avançada</h2>
-
+					<h2>Internet QualiTi 32Mbps</h2>
 				</hgroup>
-
 					<div class="entry-content">
-
-						<p style="text-align:justify">Para pessoas que precisam de extrema velocidade no acesso ao Netflix em HD de vários pontos da casa, Filmes em HD, Download, ouvir Músicas, Jogar online e embarcar em todas as redes sociais e tudo isso simultaneamente! Sem limite de franquia!</p>
-
+						<p style="text-align:justify">Para pessoas que precisam de extrema velocidade ao utilizar o Netflix e outros conteúdos em HD de vários pontos da casa, fazer seus downloads, ouvir músicas e jogar online e embarcar em todas as redes sociais e tudo isso simultaneamente!</p>
 						<input type="hidden" value="pc32Mbps" checked>
-
-						Assine Agora - Não consultamos CPF
-
-						<h6>
-
-						*Todas as mensalidades serão reajustadas anualmente com base no IGP<br>
-
-						</h6>					
-
+						Assine Agora			
 					</div>
-
 				</div>
-
 			</div>
 
 			</a>  
+		  <div class="row span12">
+		  <hr>
+			<h6 style="text-align: center;">
+				*Todas as mensalidades serão reajustadas anualmente com base no IGP<br>
+			</h6>	
+		  </div>
 
 		  </div>
 
@@ -417,7 +336,7 @@
 
     <!--******************** Services Section ********************-->
 
-    <section id="services" class="single-page scrollblock">
+    <section id="services" class="single-page scrollblock" style="display: none">
 
       <div class="container">
 
@@ -447,7 +366,7 @@
 
             <h2>Link Temporário</h2>
 
-			  <p style="text-align:justify"><a href="#contact">Vai promover um evento, precisa de um link só para aquela ocasião? Conte conosco para implantar o serviço de gestão de rede e conexão do seu evento. Instalamos o link que você precisa, implantamos o controle dos acessos e tudo isso sem você se preocupar com nada.</a></p>
+			  <p style="text-align:justify"><a href="#contact">Vai promover um evento, precisa de um link só para aquela ocasião? Conte conosco para implantar o serviço de gestão de redes e conexão do seu evento. Instalamos o link que você precisa, implantamos o controle dos acessos e tudo isso sem você se preocupar com nada.</a></p>
 
           </div>
 
@@ -756,52 +675,27 @@
     			  <input type="reset" value="Limpar" class="cform-submit pull-left" style="width: 100%">
 
                 </div>
-
 			   </div>
-
-              </form>
-
-              
-
+              </form>            
             </div>
-
           </div>
-
           <!-- ./span12 -->
-
         </div>
-
         <!-- /.row -->
-
       </div>
-
       <!-- /.container -->
-
-    </section>
-
-    
-
+    </section>    
+    <!--******************** Contact Section ********************-->       
     <div class="footer-wrapper">
-
       <div class="container">
-
         <footer>
-
           <small>&copy; 2016 QualiTi Internet. Todos os direitos reservados. CNPJ: 27.049.552.0001-40</small>
-
           <br>
-
-		  <small>&phone; Telefones de contato: (11) 2500-2788  /  (11) 97514-9382  / (11) 99598-1294 / (11) 99846-8258</small>		  
-
-        </footer>
-
+		  <small>&phone; Telefones de contato: (11) 2500-2788|INDISPONÍVEL  /  Preferencial por Whatsapp (11) 97514-9382  / (11) 99796-1029</small>
+		</footer>
       </div>
-
       <!-- ./container -->
-
-    </div>
-
-    
+    </div>    
 
     <!-- Loading the javaScript at the end of the page -->
 

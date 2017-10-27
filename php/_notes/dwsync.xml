@@ -13,9 +13,9 @@
 <file name="smtp-contato.php" server="ftp.qualitiinternet.com.br/www/" local="131522072075333749" remote="131474230200000000" Dst="1" />
 <file name="smtp-solicitacao.php" server="ftp.qualitiinternet.com.br/www/" local="131529961482861193" remote="131530815600000000" Dst="2" />
 <file name="conecta_mysql.inc.php" server="C:/xampp/htdocs/qualiti/" local="131409134750000000" remote="131409098750000000" Dst="2" />
-<file name="insere.inc.php" server="C:/xampp/htdocs/qualiti/" local="131522251004730716" remote="131522215000000000" Dst="2" />
+<file name="insere.inc.php" server="C:/xampp/htdocs/qualiti/" local="131535883622368451" remote="131535883620000000" Dst="2" />
 <file name="verifica.php" server="C:/xampp/htdocs/qualiti/" local="131522072076665682" remote="131522072070000000" Dst="2" />
-<file name="insere.inc.php" server="ftp.qualitiinternet.com.br/www/" local="131522251004730716" remote="131522251800000000" Dst="1" />
+<file name="insere.inc.php" server="ftp.qualitiinternet.com.br/www/" local="131535924868072424" remote="131535924600000000" Dst="2" />
 <file name="conecta_mysql.inc.php" server="ftp.qualitiinternet.com.br/www/" local="131409134750000000" remote="131409140400000000" Dst="1" />
 <file name="verifica.php" server="ftp.qualitiinternet.com.br/www/" local="131522072076665682" remote="131409111600000000" Dst="1" />
 <file name="formmail.php" server="ftp.qualitiinternet.com.br/www/" local="131522072073943627" remote="131406525000000000" Dst="1" />

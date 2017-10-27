@@ -5,4 +5,7 @@
 <file name=".modell-usb" server="ftp.qualitiinternet.com.br//www/" local="131302618217023322" remote="131238304800000000" Dst="2" />
 <file name=".modell" server="C:/xampp/htdocs/qualiti/" local="131238304800000000" remote="131238304800000000" Dst="2" />
 <file name=".modell-usb" server="C:/xampp/htdocs/qualiti/" local="131238304800000000" remote="131238304800000000" Dst="2" />
+<file name=".modell" server="ftp.qualitiinternet.com.br/www/" local="131238304800000000" remote="131531091600000000" Dst="2" />
+<file name=".modell-usb" server="ftp.qualitiinternet.com.br/www/" local="131238304800000000" remote="131531091600000000" Dst="2" />
+<file name=".version" server="ftp.qualitiinternet.com.br/www/" local="131238304800000000" remote="131531091600000000" Dst="2" />
 </dwsync>

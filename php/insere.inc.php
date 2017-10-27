@@ -2,28 +2,28 @@
 	
 include('conecta_mysql.inc.php');
 
+$Nome				= 	ucwords(strtolower($_POST['Nome']));
+$Sobrenome			= 	ucwords(strtolower($_POST['Sobrenome']));
+$Telefone			= 	$_POST['Telefone'];
+$Celular			= 	$_POST['Celular'];
+$Email				= 	$_POST['E-mail'];
+$Cpf				= 	$_POST['CPF'];
+$Rg					= 	$_POST['RG'];
+$Nascimento			= 	$_POST['Nascimento'];
+$Rua				= 	ucwords(strtolower($_POST['Rua']));
+$CEP				= 	$_POST['CEP'];
+$Numero				= 	$_POST['Numero'];
+$Complemento		= 	ucwords(strtolower($_POST['Complemento']));
+$Bairro				= 	ucwords(strtolower($_POST['Bairro']));
+$Cidade				= 	ucwords(strtolower($_POST['Cidade']));
+$Estado				= 	strtoupper(($_POST['Estado']));
+$Plano				= 	$_POST['Plano'];
+$Vencimento			= 	$_POST['Vencimento'];
+$Desconto			= 	$_POST['Desconto'];
+$Pagamento			= 	$_POST['Pagamento'];
 
-$nome				= 	$_POST['nome'];
-$sobrenome			= 	$_POST['sobrenome'];
-$telefone			= 	$_POST['telefone'];
-$celular			= 	$_POST['celular'];
-$email				= 	$_POST['email'];
-$cpf				= 	$_POST['cpf'];
-$rg					= 	$_POST['rg'];
-$nascimento			= 	$_POST['nascimento'];
-$naturalidade		= 	$_POST['naturalidade'];
-$end_rua			= 	$_POST['rua'];
-$end_cep			= 	$_POST['cep'];
-$end_numero			= 	$_POST['numero'];
-$end_complemento	= 	$_POST['complemento'];
-$end_bairro			= 	$_POST['bairro'];
-$end_cidade			= 	$_POST['cidade'];
-$end_estado			= 	$_POST['estado'];
-$plano_dados		= 	$_POST['plano'];
-$vencimento			= 	$_POST['vencimento'];
-
-$sql = "INSERT INTO novos_clientes (nome, sobrenome, telefone, celular, email, cpf, rg, nascimento, naturalidade, end_rua, end_cep, end_numero, end_complemento, end_bairro, end_cidade, end_estado, plano_dados, vencimento) VALUES";
-$sql .= "('$nome', '$sobrenome', '$telefone', '$celular', '$email', '$cpf', '$rg', '$nascimento', '$naturalidade', '$end_rua', '$end_cep', '$end_numero', '$end_complemento', '$end_bairro', '$end_cidade', '$end_estado', '$plano_dados', '$vencimento')";
+$sql = "INSERT INTO novos_clientes (Nome, Sobrenome, Telefone, Celular, Email, Cpf, Rg, Nascimento, Rua, CEP, Numero, Complemento, Bairro, Cidade, Estado, Plano, Vencimento, Desconto, Pagamento) VALUES";
+$sql .= "('$Nome', '$Sobrenome', '$Telefone', '$Celular', '$Email', '$Cpf', '$Rg', '$Nascimento', '$Rua', '$CEP', '$Numero', '$Complemento', '$Bairro', '$Cidade', '$Estado', '$Plano', '$Vencimento', '$Desconto', '$Pagamento')";
 
 if($conexao->query($sql) === TRUE){
 	include('smtp-solicitacao.php');

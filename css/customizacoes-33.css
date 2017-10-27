@@ -63,7 +63,6 @@
 }
 
 #telefone-float{
-	background-color: goldenrod;
 	z-index: 500; 
 	position: absolute; 
 /*	filter:opacity(alpha=10);
@@ -73,12 +72,14 @@
 	border-radius:0 0 0.8em 0.8em;
 	text-align: center;
 	padding: 0 0.4em;
-	margin: 0.5em 0 0 3em;
+	margin: 0.5em 0 0 0;
 }
 #telefone-float a{
 	font-size: 0.8em;
-	font-weight: bolder;
-	color: #0b333f;
+	color: #FFFFFF;
+	text-shadow: #312A1E 1px 2px 2px;
+	-webkit-text-shadow: #312A1E 1px 2px 2px;
+	-webkit-text-shadow: #312A1E 1px 2px 2px;
 }
 #logo{
 	position: relative;
@@ -106,9 +107,9 @@
 }
 
 h1, header h4{
-	text-shadow: #999 1px 2px 2px;
-	-webkit-text-shadow: #999 1px 2px 2px;
-	-webkit-text-shadow: #999 1px 2px 2px;
+	text-shadow: #312A1E 1px 2px 2px;
+	-webkit-text-shadow: #312A1E 1px 2px 2px;
+	-webkit-text-shadow: #312A1E 1px 2px 2px;
 }
 #icon-atalhos{
 	margin-top: 1em;
